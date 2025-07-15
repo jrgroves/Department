@@ -31,7 +31,8 @@ degree <- AEA.degree %>%
 
 degree2 <- degree %>%
   filter(Degree != "CLAS",
-         Degree != "NIUD")
+         Degree != "NIUD",
+         !is.na(Count))
 
 ggplot(degree2) +
   geom_line(aes(x = Academic_Year, y = avg_degree, color = Degree, 
@@ -43,7 +44,8 @@ ggplot(degree2) +
        x = "Academic Year",
        caption = "Data from AEA and NIU Tablaeu",
        linetype = "Institution Type") +
-  theme_bw()
+  theme_bw()+
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) 
 
 ggplot(degree2) +
   geom_line(aes(x = Academic_Year, y = avg_degree, color = Degree, 
@@ -55,7 +57,8 @@ ggplot(degree2) +
        x = "Academic Year",
        caption = "Data from AEA and NIU Tablaeu",
        linetype = "Institution Type") +
-  theme_bw()
+  theme_bw()+
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) 
 
 ggplot(degree) +
   geom_line(aes(x = Academic_Year, y = avg_degree, color = Degree, 
@@ -67,10 +70,8 @@ ggplot(degree) +
        x = "Academic Year",
        caption = "Data from AEA and NIU Tablaeu",
        linetype = "Institution Type") +
-  theme_bw()
-
-
-
+  theme_bw()+
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) 
 
 
 #In terms of percentage changes in degrees awarded at NIU
@@ -89,9 +90,7 @@ niu2 <- NIU.degree %>%
                              Degree == "MA" ~ "Dept",
                              Degree == "PhD" ~ "Dept",
                              TRUE ~ Degree)) %>%
-  group_by(Class, Academic_Year) %>%
-  summarise(Count = sum(Count)) %>%
-  ungroup() %>%
+  summarise(Count = sum(Count), .by = c(Class, Academic_Year)) %>%
   reframe(delta.count = Count/Count[1], .by = Class) %>%
   bind_cols(year) %>%
   pivot_wider(id_cols = Academic_Year, names_from = Class, values_from = delta.count ) %>%
@@ -114,7 +113,9 @@ ggplot(filter(niu2, Level == "growth_ad")) +
        y = "Ratio",
        x = "Academic Year",
        caption = "Data from NIU; shaded area denotes divergent growth") +
-  theme_bw()
+  theme_bw()+
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) 
+
 
 ggplot(filter(niu2, Level == "growth_da")) +
   geom_hline(aes(yintercept = 1.0), linewidth = 2) +
@@ -127,7 +128,8 @@ ggplot(filter(niu2, Level == "growth_da")) +
        y = "Ratio",
        x = "Academic Year",
        caption = "Data from NIU; shaded area denotes divergent growth") +
-  theme_bw()
+  theme_bw()+
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) 
 
 ggplot(filter(niu2, Level == "growth_clas")) +
   geom_hline(aes(yintercept = 1.0), linewidth = 2) +
@@ -140,7 +142,8 @@ ggplot(filter(niu2, Level == "growth_clas")) +
        y = "Ratio",
        x = "Academic Year",
        caption = "Data from NIU; shaded area denotes divergent growth") +
-  theme_bw()
+  theme_bw()+
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) 
 
 ggplot(filter(niu2, !grepl("growth|NIUE", Level))) +
   geom_hline(aes(yintercept = 1), linewidth = 1) +
@@ -149,7 +152,8 @@ ggplot(filter(niu2, !grepl("growth|NIUE", Level))) +
        y = "Ratio",
        x = "Academic Year",
        caption = "Data from NIU") +
-  theme_bw()
+  theme_bw()+
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) 
 
 
 
