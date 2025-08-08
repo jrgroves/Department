@@ -1,0 +1,138 @@
+﻿Acadept,Degname,Major,Acad Yr,Count of OSIR
+BIOS,PHD,Biological Sciences (PHD),2024,29
+BIOS,PHD,Biological Sciences (PHD),2023,29
+BIOS,PHD,Biological Sciences (PHD),2022,31
+BIOS,PHD,Biological Sciences (PHD),2021,29
+BIOS,PHD,Biological Sciences (PHD),2020,26
+BIOS,PHD,Biological Sciences (PHD),2019,25
+BIOS,PHD,Biological Sciences (PHD),2018,24
+BIOS,PHD,Biological Sciences (PHD),2017,23
+BIOS,PHD,Biological Sciences (PHD),2016,24
+BIOS,PHD,Biological Sciences (PHD),2015,30
+CHEM,PHD,Chemistry (PHD),2024,35
+CHEM,PHD,Chemistry - Nanoscience (PHD),2024,1
+CHEM,PHD,Chemistry (PHD),2023,39
+CHEM,PHD,Chemistry - Nanoscience (PHD),2023,1
+CHEM,PHD,Chemistry (PHD),2022,41
+CHEM,PHD,Chemistry (PHD),2021,39
+CHEM,PHD,Chemistry - Nanoscience (PHD),2021,1
+CHEM,PHD,Chemistry (PHD),2020,33
+CHEM,PHD,Chemistry - Nanoscience (PHD),2020,1
+CHEM,PHD,Chemistry (PHD),2019,34
+CHEM,PHD,Chemistry - Nanoscience (PHD),2019,1
+CHEM,PHD,Chemistry (PHD),2018,34
+CHEM,PHD,Chemistry - Nanoscience (PHD),2018,2
+CHEM,PHD,Chemistry (PHD),2017,27
+CHEM,PHD,Chemistry - Nanoscience (PHD),2017,3
+CHEM,PHD,Chemistry (PHD),2016,31
+CHEM,PHD,Chemistry - Nanoscience (PHD),2016,3
+CHEM,PHD,Chemistry (PHD),2015,35
+CHEM,PHD,Chemistry - Nanoscience (PHD),2015,2
+CSCI,PHD,Computer Science (PHD),2024,15
+CSCI,PHD,Computer Science (PHD),2023,15
+CSCI,PHD,Computer Science (PHD),2022,17
+CSCI,PHD,Computer Science (PHD),2021,16
+CSCI,PHD,Computer Science (PHD),2020,11
+CSCI,PHD,Computer Science (PHD),2019,5
+CSCI,PHD,Computer Science (PHD),2018,3
+EAE,PHD,Geology (PHD),2024,3
+EAE,PHD,Geography (PHD),2024,6
+EAE,PHD,"Earth, Atmosphere and Environment (PHD)",2024,11
+EAE,PHD,Geology (PHD),2023,6
+EAE,PHD,Geography (PHD),2023,13
+EAE,PHD,Geology (PHD),2022,8
+EAE,PHD,Geography (PHD),2022,14
+ECON,PHD,Economics (PHD),2024,22
+ECON,PHD,Economics (PHD),2023,23
+ECON,PHD,Economics (PHD),2022,19
+ECON,PHD,Economics (PHD),2021,27
+ECON,PHD,Economics (PHD),2020,29
+ECON,PHD,Economics (PHD),2019,29
+ECON,PHD,Economics (PHD),2018,27
+ECON,PHD,Economics (PHD),2017,26
+ECON,PHD,Economics (PHD),2016,26
+ECON,PHD,Economics (PHD),2015,29
+ENGL,PHD,English (PHD),2024,37
+ENGL,PHD,English (PHD),2023,38
+ENGL,PHD,English (PHD),2022,42
+ENGL,PHD,English (PHD),2021,45
+ENGL,PHD,English (PHD),2020,48
+ENGL,PHD,English (PHD),2019,49
+ENGL,PHD,English (PHD),2018,51
+ENGL,PHD,English (PHD),2017,50
+ENGL,PHD,English (PHD),2016,63
+ENGL,PHD,English (PHD),2015,62
+GEOG,PHD,Geography (PHD),2021,8
+GEOG,PHD,Geography (PHD),2020,9
+GEOG,PHD,Geography (PHD),2019,11
+GEOG,PHD,Geography (PHD),2018,10
+GEOG,PHD,Geography (PHD),2017,12
+GEOG,PHD,Geography (PHD),2016,10
+GEOG,PHD,Geography (PHD),2015,11
+GEOL,PHD,Geology (PHD),2021,6
+GEOL,PHD,Geology (PHD),2020,7
+GEOL,PHD,Geology (PHD),2019,8
+GEOL,PHD,Geology (PHD),2018,5
+GEOL,PHD,Geology (PHD),2017,6
+GEOL,PHD,Geology (PHD),2016,8
+GEOL,PHD,Geology (PHD),2015,3
+HIST,PHD,History (PHD),2024,24
+HIST,PHD,History (PHD),2023,23
+HIST,PHD,History (PHD),2022,22
+HIST,PHD,History (PHD),2021,20
+HIST,PHD,History (PHD),2020,16
+HIST,PHD,History (PHD),2019,17
+HIST,PHD,History (PHD),2018,21
+HIST,PHD,History (PHD),2017,21
+HIST,PHD,History (PHD),2016,23
+HIST,PHD,History (PHD),2015,23
+MATH,PHD,Mathematical Science (PHD),2024,29
+MATH,PHD,Mathematical Science (PHD),2023,30
+MATH,PHD,Mathematical Science (PHD),2022,30
+MATH,PHD,Mathematical Science (PHD),2021,32
+MATH,PHD,Mathematical Science (PHD),2020,33
+MATH,PHD,Mathematical Science (PHD),2019,36
+MATH,PHD,Mathematical Science (PHD),2018,32
+MATH,PHD,Mathematical Science (PHD),2017,35
+MATH,PHD,Mathematical Science (PHD),2016,42
+MATH,PHD,Mathematical Science (PHD),2015,39
+PHYS,PHD,Physics (PHD),2024,48
+PHYS,PHD,Nanoscience (PHD),2024,1
+PHYS,PHD,Physics (PHD),2023,44
+PHYS,PHD,Nanoscience (PHD),2023,2
+PHYS,PHD,Physics (PHD),2022,41
+PHYS,PHD,Nanoscience (PHD),2022,1
+PHYS,PHD,Physics (PHD),2021,38
+PHYS,PHD,Nanoscience (PHD),2021,1
+PHYS,PHD,Physics (PHD),2020,42
+PHYS,PHD,Nanoscience (PHD),2020,3
+PHYS,PHD,Physics (PHD),2019,33
+PHYS,PHD,Nanoscience (PHD),2019,3
+PHYS,PHD,Physics (PHD),2018,35
+PHYS,PHD,Nanoscience (PHD),2018,4
+PHYS,PHD,Physics (PHD),2017,33
+PHYS,PHD,Nanoscience (PHD),2017,3
+PHYS,PHD,Physics (PHD),2016,31
+PHYS,PHD,Nanoscience (PHD),2016,4
+PHYS,PHD,Physics (PHD),2015,27
+PHYS,PHD,Nanoscience (PHD),2015,2
+POLS,PHD,Political Science (PHD),2024,27
+POLS,PHD,Political Science (PHD),2023,25
+POLS,PHD,Political Science (PHD),2022,28
+POLS,PHD,Political Science (PHD),2021,27
+POLS,PHD,Political Science (PHD),2020,28
+POLS,PHD,Political Science (PHD),2019,24
+POLS,PHD,Political Science (PHD),2018,27
+POLS,PHD,Political Science (PHD),2017,30
+POLS,PHD,Political Science (PHD),2016,33
+POLS,PHD,Political Science (PHD),2015,38
+PSYC,PHD,Psychology (PHD),2024,51
+PSYC,PHD,Psychology (PHD),2023,44
+PSYC,PHD,Psychology (PHD),2022,55
+PSYC,PHD,Psychology (PHD),2021,55
+PSYC,PHD,Psychology (PHD),2020,52
+PSYC,PHD,Psychology (PHD),2019,51
+PSYC,PHD,Psychology (PHD),2018,39
+PSYC,PHD,Psychology (PHD),2017,53
+PSYC,PHD,Psychology (PHD),2016,63
+PSYC,PHD,Psychology (PHD),2015,71

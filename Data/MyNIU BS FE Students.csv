@@ -1,0 +1,57 @@
+Row,FERPA,Empl ID,Campus ID,First Name,MI,Last Name,Suffix,Enrolled,Acad Prog,Department,Plan Type,Academic Plan/Major,Sub-Plan,Req Term,Online,Online,Acad Level,Term Hours,Cumulative Hours,Cumulative GPA,Exp Grad Term,Email,Acad Plan,Advisor
+1,,1934144,Z1934144,Jacob,c,Basiger,,Enrolled Fall 2021,LAS,ECON,Emphasis,Economics: Financial Economics,,2218,,,Freshman,14,7,1,,Z1934144@STUDENTS.NIU.EDU,ECONFINBS,Laurie Sodaro
+1,,1934144,Z1934144,Jacob,c,Basiger,,Enrolled Spring 2022,LAS,ECON,Emphasis,Economics: Financial Economics,,2218,,,Freshman,16,23,1.904,,Z1934144@STUDENTS.NIU.EDU,ECONFINBS,Laurie Sodaro
+1,,1934144,Z1934144,Jacob,c,Basiger,,,LAS,ECON,Emphasis,Economics: Financial Economics,,2218,,,Freshman,,23,1.904,,Z1934144@STUDENTS.NIU.EDU,ECONFINBS,Laurie Sodaro
+2,,1966771,Z1966771,Javee,,Carter,,Enrolled Fall 2022,LAS,ECON,Emphasis,Economics: Financial Economics,,2228,,,Freshman,15,12,3.168,,Z1966771@STUDENTS.NIU.EDU,ECONFINBS,Laurie Sodaro
+3,,1975700,Z1975700,Adam,,Ibrahim,,Enrolled Fall 2022,LAS,ECON,Emphasis,Economics: Financial Economics,,2228,,,Freshman,13,6,2,,Z1975700@STUDENTS.NIU.EDU,ECONFINBS,Laurie Sodaro
+4,,1971018,Z1971018,Shaquille,J,Kasozi,,Enrolled Fall 2022,LAS,ECON,Emphasis,Economics: Financial Economics,,2228,,,Freshman,12,0,0,,Z1971018@STUDENTS.NIU.EDU,ECONFINBS,Laurie Sodaro
+5,,1961897,Z1961897,OTO,,Osamwanze,,Enrolled Fall 2022,LAS,ECON,Emphasis,Economics: Financial Economics,,2228,,,Freshman,16,3,0.6,,Z1961897@STUDENTS.NIU.EDU,ECONFINBS,Marissa Wolfe
+1,,1934144,Z1934144,Jacob,c,Basiger,,,LAS,ECON,Emphasis,Economics: Financial Economics,,2218,,,Freshman,,23,1.904,,Z1934144@STUDENTS.NIU.EDU,ECONFINBS,Laurie Sodaro
+2,,1966771,Z1966771,Javee,,Carter,,Enrolled Spring 2023,LAS,ECON,Emphasis,Economics: Financial Economics,,2228,,,Freshman,16,28,3.215,,Z1966771@STUDENTS.NIU.EDU,ECONFINBS,Laurie Sodaro
+3,,1975700,Z1975700,Adam,,Ibrahim,,Enrolled Spring 2023,LAS,ECON,Emphasis,Economics: Financial Economics,,2228,,,Freshman,13,19,2.667,,Z1975700@STUDENTS.NIU.EDU,ECONFINBS,Laurie Sodaro
+4,,1971018,Z1971018,Shaquille,J,Kasozi,,Enrolled Spring 2023,LAS,ECON,Emphasis,Economics: Financial Economics,,2228,,,Freshman,13,10,0.737,,Z1971018@STUDENTS.NIU.EDU,ECONFINBS,Laurie Sodaro
+5,,1961897,Z1961897,OTO,,Osamwanze,,Enrolled Spring 2023,LAS,ECON,Emphasis,Economics: Financial Economics,,2228,,,Freshman,16,3,0.273,,Z1961897@STUDENTS.NIU.EDU,ECONFINBS,Marissa Wolfe
+1,,1966771,Z1966771,Javee,,Carter,,Enrolled Fall 2023,LAS,ECON,Emphasis,Economics: Financial Economics,,2228,,,Freshman,16,40,2.956,,Z1966771@STUDENTS.NIU.EDU,ECONFINBS,Laurie Sodaro
+2,,2006656,Z2006656,David,,Ektera,,,LAS,ECON,Emphasis,Economics: Financial Economics,,2258,,,Freshman,,0,0,,Z2006656@STUDENTS.NIU.EDU,ECONFINBS,Jennifer Fife
+3,,2008759,Z2008759,Nelly,,Gil,,Enrolled Fall 2023,LAS,ECON,Emphasis,Economics: Financial Economics,,2238,,,Freshman,18,41,3.668,,Z2008759@STUDENTS.NIU.EDU,ECONFINBS,Laurie Sodaro
+4,,1975700,Z1975700,Adam,,Ibrahim,,Enrolled Fall 2023,LAS,ECON,Emphasis,Economics: Financial Economics,,2228,,,Freshman,12,31,2.834,,Z1975700@STUDENTS.NIU.EDU,ECONFINBS,Laurie Sodaro
+5,,1971018,Z1971018,Shaquille,J,Kasozi,,,LAS,ECON,Emphasis,Economics: Financial Economics,,2228,,,Freshman,,10,0.737,,Z1971018@STUDENTS.NIU.EDU,ECONFINBS,Laurie Sodaro
+6,,2014580,Z2014580,Horichelle,,Meli Tiotsop,,Enrolled Fall 2023,LAS,ECON,Emphasis,Economics: Financial Economics,,2238,,,Junior,13,78,3.077,,Z2014580@STUDENTS.NIU.EDU,ECONFINBS,Rebekah Kohli
+7,,2012590,Z2012590,Pablo,,Orozco,,Enrolled Fall 2023,LAS,ECON,Emphasis,Economics: Financial Economics,,2238,,,Freshman,16,39,3.75,,Z2012590@STUDENTS.NIU.EDU,ECONFINBS,Laurie Sodaro
+8,,1961897,Z1961897,OTO,,Osamwanze,,Withdrawn Fall 2023,LAS,ECON,Emphasis,Economics: Financial Economics,,2228,,,Freshman,,3,0.273,,Z1961897@STUDENTS.NIU.EDU,ECONFINBS,Marissa Wolfe
+1,,1966771,Z1966771,Javee,,Carter,,Withdrawn Spring 2024,LAS,ECON,Emphasis,Economics: Financial Economics,,2228,,,Sophomore,,40,2.956,,Z1966771@STUDENTS.NIU.EDU,ECONFINBS,Laurie Sodaro
+2,,2008759,Z2008759,Nelly,,Gil,,Enrolled Spring 2024,LAS,ECON,Emphasis,Economics: Financial Economics,,2238,,,Sophomore,16,54,3.751,,Z2008759@STUDENTS.NIU.EDU,ECONFINBS,Laurie Sodaro
+3,,1975700,Z1975700,Adam,,Ibrahim,,Enrolled Spring 2024,LAS,ECON,Emphasis,Economics: Financial Economics,,2228,,,Sophomore,16,47,2.783,,Z1975700@STUDENTS.NIU.EDU,ECONFINBS,Laurie Sodaro
+4,,2014580,Z2014580,Horichelle,,Meli Tiotsop,,Enrolled Spring 2024,LAS,ECON,Emphasis,Economics: Financial Economics,,2238,,,Junior,10,88,2.957,,Z2014580@STUDENTS.NIU.EDU,ECONFINBS,Rebekah Kohli
+5,,2012590,Z2012590,Pablo,,Orozco,,Enrolled Spring 2024,LAS,ECON,Emphasis,Economics: Financial Economics,,2238,,,Sophomore,16,55,3.875,,Z2012590@STUDENTS.NIU.EDU,ECONFINBS,Laurie Sodaro
+6,,1961897,Z1961897,OTO,,Osamwanze,,,LAS,ECON,Emphasis,Economics: Financial Economics,,2228,,,Freshman,,3,0.273,,Z1961897@STUDENTS.NIU.EDU,ECONFINBS,Marissa Wolfe
+1,,2044157,Z2044157,Cj,,Blackmon,,Enrolled Fall 2024,LAS,ECON,Emphasis,Economics: Financial Economics,,2248,,,Freshman,16,13,2.078,,Z2044157@STUDENTS.NIU.EDU,ECONFINBS,Laurie Sodaro
+2,,1966771,Z1966771,Javee,,Carter,,,LAS,ECON,Emphasis,Economics: Financial Economics,,2228,,,Sophomore,,40,2.956,,Z1966771@STUDENTS.NIU.EDU,ECONFINBS,Laurie Sodaro
+3,,2008759,Z2008759,Nelly,,Gil,,Enrolled Fall 2024,LAS,ECON,Emphasis,Economics: Financial Economics,,2238,,,Sophomore,13,67,3.568,,Z2008759@STUDENTS.NIU.EDU,ECONFINBS,Laurie Sodaro
+4,,1975700,Z1975700,Adam,,Ibrahim,,Enrolled Fall 2024,LAS,ECON,Emphasis,Economics: Financial Economics,,2228,,,Sophomore,13,56,2.709,,Z1975700@STUDENTS.NIU.EDU,ECONFINBS,Laurie Sodaro
+5,,2014580,Z2014580,Horichelle,,Meli Tiotsop,,Enrolled Fall 2024,LAS,ECON,Emphasis,Economics: Financial Economics,,2238,,,Senior,14,99,2.561,,Z2014580@STUDENTS.NIU.EDU,ECONFINBS,Rebekah Kohli
+6,,2034834,Z2034834,Victoria,,Mondesir,,Enrolled Fall 2024,LAS,ECON,Emphasis,Economics: Financial Economics,,2248,,,Freshman,15,3,1.335,,Z2034834@STUDENTS.NIU.EDU,ECONFINBS,Raymond Jenkins
+7,,2012590,Z2012590,Pablo,,Orozco,,Enrolled Fall 2024,LAS,ECON,Emphasis,Economics: Financial Economics,,2238,,,Sophomore,15,70,3.702,,Z2012590@STUDENTS.NIU.EDU,ECONFINBS,Laurie Sodaro
+8,,2032569,Z2032569,Dante,,Shalaveyus,,Enrolled Fall 2024,LAS,ECON,Emphasis,Economics: Financial Economics,,2248,,,Freshman,16,32,3.802,,Z2032569@STUDENTS.NIU.EDU,ECONFINBS,Jennifer Fife
+9,,1839150,Z1839150,Joseph,W,Watts-Holmes,,Enrolled Fall 2024,LAS,ECON,Emphasis,Economics: Financial Economics,,2248,,,Junior,14,83,3.56,,Z1839150@STUDENTS.NIU.EDU,ECONFINBS,Jennifer Fife
+1,,2044157,Z2044157,Cj,,Blackmon,,Enrolled Spring 2025,LAS,ECON,Emphasis,Economics: Financial Economics,,2248,,,Freshman,13,26,2.121,,Z2044157@STUDENTS.NIU.EDU,ECONFINBS,Laurie Sodaro
+2,,1966771,Z1966771,Javee,,Carter,,,LAS,ECON,Emphasis,Economics: Financial Economics,,2228,,,Sophomore,,40,2.956,,Z1966771@STUDENTS.NIU.EDU,ECONFINBS,Laurie Sodaro
+3,,2008759,Z2008759,Nelly,,Gil,,Enrolled Spring 2025,LAS,ECON,Emphasis,Economics: Financial Economics,,2238,,,Junior,15,82,3.462,,Z2008759@STUDENTS.NIU.EDU,ECONFINBS,Laurie Sodaro
+4,,1975700,Z1975700,Adam,,Ibrahim,,Enrolled Spring 2025,LAS,ECON,Emphasis,Economics: Financial Economics,,2228,,,Sophomore,10,59,2.492,,Z1975700@STUDENTS.NIU.EDU,ECONFINBS,Laurie Sodaro
+5,,2014580,Z2014580,Horichelle,,Meli Tiotsop,,Enrolled Spring 2025,LAS,ECON,Emphasis,Economics: Financial Economics,,2238,,,Senior,3,102,2.569,,Z2014580@STUDENTS.NIU.EDU,ECONFINBS,Rebekah Kohli
+6,,2034834,Z2034834,Victoria,,Mondesir,,Enrolled Spring 2025,LAS,ECON,Emphasis,Economics: Financial Economics,,2248,,,Freshman,12,6,0.778,,Z2034834@STUDENTS.NIU.EDU,ECONFINBS,Raymond Jenkins
+7,,2012590,Z2012590,Pablo,,Orozco,,Enrolled Spring 2025,LAS,ECON,Emphasis,Economics: Financial Economics,,2238,,,Junior,15,85,3.742,,Z2012590@STUDENTS.NIU.EDU,ECONFINBS,Laurie Sodaro
+8,,2032569,Z2032569,Dante,,Shalaveyus,,Enrolled Spring 2025,LAS,ECON,Emphasis,Economics: Financial Economics,,2248,,,Sophomore,15,47,3.568,,Z2032569@STUDENTS.NIU.EDU,ECONFINBS,Jennifer Fife
+9,,1839150,Z1839150,Joseph,W,Watts-Holmes,,Enrolled Spring 2025,LAS,ECON,Emphasis,Economics: Financial Economics,,2248,,,Junior,17,96,3.535,,Z1839150@STUDENTS.NIU.EDU,ECONFINBS,Jennifer Fife
+1,,2070851,Z2070851,Tsetsen,,Agar,,Enrolled Fall 2025,LAS,ECON,Emphasis,Economics: Financial Economics,,2258,,,Freshman,16,0,0,,Z2070851@STUDENTS.NIU.EDU,ECONFINBS,Tasha Neisewander
+2,,2044157,Z2044157,Cj,,Blackmon,,,LAS,ECON,Emphasis,Economics: Financial Economics,,2248,,,Freshman,,26,2.121,,Z2044157@STUDENTS.NIU.EDU,ECONFINBS,Laurie Sodaro
+3,,2006656,Z2006656,David,,Ektera,,Enrolled Fall 2025,LAS,ECON,Emphasis,Economics: Financial Economics,,2258,,,Sophomore,10,50,0,,Z2006656@STUDENTS.NIU.EDU,ECONFINBS,Jennifer Fife
+4,,2008759,Z2008759,Nelly,,Gil,,Enrolled Fall 2025,LAS,ECON,Emphasis,Economics: Financial Economics,,2238,,,Junior,14,86,3.462,,Z2008759@STUDENTS.NIU.EDU,ECONFINBS,Laurie Sodaro
+5,,1975700,Z1975700,Adam,,Ibrahim,,Enrolled Fall 2025,LAS,ECON,Emphasis,Economics: Financial Economics,,2228,,,Sophomore,12,59,2.492,,Z1975700@STUDENTS.NIU.EDU,ECONFINBS,Laurie Sodaro
+6,,2014580,Z2014580,Horichelle,,Meli Tiotsop,,Enrolled Fall 2025,LAS,ECON,Emphasis,Economics: Financial Economics,,2238,,,Senior,12,102,2.569,,Z2014580@STUDENTS.NIU.EDU,ECONFINBS,Rebekah Kohli
+7,,2063714,Z2063714,Carlos,,Mendoza,,Enrolled Fall 2025,LAS,ECON,Emphasis,Economics: Financial Economics,,2258,,,Freshman,17,0,0,,Z2063714@STUDENTS.NIU.EDU,ECONFINBS,Emily Raetzke
+8,,2034834,Z2034834,Victoria,,Mondesir,,,LAS,ECON,Emphasis,Economics: Financial Economics,,2248,,,Freshman,,6,0.778,,Z2034834@STUDENTS.NIU.EDU,ECONFINBS,Raymond Jenkins
+9,,2012590,Z2012590,Pablo,,Orozco,,Enrolled Fall 2025,LAS,ECON,Emphasis,Economics: Financial Economics,,2238,,,Junior,16,85,3.742,,Z2012590@STUDENTS.NIU.EDU,ECONFINBS,Laurie Sodaro
+10,,2061081,Z2061081,Julia,,Osobka,,Enrolled Fall 2025,LAS,ECON,Emphasis,Economics: Financial Economics,,2258,,,Freshman,16,9,0,,Z2061081@STUDENTS.NIU.EDU,ECONFINBS,Tasha Neisewander
+11,,2032569,Z2032569,Dante,,Shalaveyus,,Enrolled Fall 2025,LAS,ECON,Emphasis,Economics: Financial Economics,,2248,,,Sophomore,16,47,3.568,,Z2032569@STUDENTS.NIU.EDU,ECONFINBS,Jennifer Fife
+12,,1839150,Z1839150,Joseph,W,Watts-Holmes,,Enrolled Fall 2025,LAS,ECON,Emphasis,Economics: Financial Economics,,2248,,,Senior,13,96,3.535,,Z1839150@STUDENTS.NIU.EDU,ECONFINBS,Jennifer Fife
