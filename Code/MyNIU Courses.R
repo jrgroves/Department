@@ -52,7 +52,9 @@ library(tidyverse)
     group_by(Level, Term2) %>%
       mutate(sections = n()) %>%
     ungroup()
-  
+
+
+#Visuzliations
 
   ggplot(filter(core, ! Catalog %in% c("498", "497", "492", "490", "491")), aes(Term2))  + 
     geom_bar(aes(fill = Level), position = "stack") +
@@ -61,7 +63,8 @@ library(tidyverse)
          title = "Sections Taught") +
     theme_bw() +
     theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1),
-          legend.position="bottom") 
+          legend.position="bottom") +
+    geom_text(stat = "count", aes(label = ..count..), vjust = -0.5)
 
   ggplot(filter(core, ! Catalog %in% c("498", "497", "492", "490", "491")), aes(Term2))  + 
     geom_bar(aes(fill = Level, weight = sections), position = "fill") +

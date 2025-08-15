@@ -1,3 +1,6 @@
+#This file uses MyNIU data to show the majors and minors within the department only and
+#breaks them down by class. Time span is Fall 2005 through Fall 2025.
+
 #Jeremy R. Groves
 #Created: August 8, 2025
 

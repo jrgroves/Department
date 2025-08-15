@@ -93,5 +93,4 @@ library(tidyverse)
         theme_bw()+
         theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) 
       
-  
- 
+    

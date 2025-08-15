@@ -4,9 +4,11 @@
 rm(list=ls())
 
 library(tidyverse)
+library(gtsummary)
 
 phd <- read.csv(file="./Data/PhD Enroll CLAS.csv", header = TRUE, as.is = TRUE)
 ba <- read.csv(file="./Data/BA Enroll CLAS.csv", header = TRUE, as.is = TRUE)
+all <- read.csv(file="./Data/CLAS majors.csv", header = TRUE, as.is = TRUE)
 
 
 #Work data
@@ -59,6 +61,24 @@ core <- core %>%
 
 rm(temp, temp1)
 
+#All CLAS majors
+
+
+
+ggplot(data = filter(clas, quartile == "First" & Degname2 == "Bachelor"), 
+       aes(x = Acad.Yr)) +
+  geom_line(aes(y = Enroll, group=Acadept, color = Acadept))
+
+ggplot(data = filter(clas, quartile == "Second" & Degname2 == "Bachelor"), 
+       aes(x = Acad.Yr)) +
+  geom_line(aes(y = Enroll, group=Acadept, color = Acadept))
+
+ggplot(data = filter(clas, quartile == "Third" & Degname2 == "Bachelor"), 
+       aes(x = Acad.Yr)) +
+  geom_line(aes(y = Enroll, group=Acadept, color = Acadept))
+
+
+
 #Plot Data and Visualizations
 
 col <-c("ECON" = "black",
@@ -97,7 +117,7 @@ ggplot(plot.d, aes(x = Acad.Yr, y = Enroll)) +
   geom_line(aes(group = Acadept),linewidth = 1.5, color = "black", data = plot.e) +
   facet_wrap(~QR2, dir = "v") +
   scale_color_manual(values = col) + 
-  scale_y_continuous(breaks=seq(0,70,10)) +
+  #scale_y_continuous(breaks=seq(0,70,10)) +
   labs(x = "Academic Year",
        y = "Enrollment",
        color = "Department",
@@ -181,3 +201,86 @@ ggplot(plot.d, aes(Acad.Yr, mEnroll)) +
   theme_bw()+
   theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1),
         legend.position="bottom")
+
+library(gt)
+
+
+
+clas <- all %>%
+  mutate(Acadept = case_when(Acadept == "GEOG" ~ "EAE",
+                             Acadept == "GEOL" ~ "EAE",
+                             TRUE ~ Acadept),
+         Degname2 = case_when(substr(Degname, 1, 1) == "B" ~ "Bachelor",
+                              substr(Degname, 1, 1) == "M" ~ "Master",
+                              substr(Degname, 1, 1) =="P" ~ "Doctoral",
+                              TRUE ~ "Other")) %>%
+  filter(Acadept != "CLAS",
+         Degname2 != "Other") %>%
+  summarize(Enroll = sum(Count.of.OSIR), .by = c(Degname2, Acadept, Acad.Yr)) %>%
+  group_by(Degname2, Acadept) %>%
+  mutate(dep.avg = mean(Enroll)) %>%
+  ungroup() %>%
+  group_by(Degname2) %>%
+  mutate(quartile = case_when(dep.avg <= quantile(dep.avg, probs=0.25) ~ "First",
+                              dep.avg > quantile(dep.avg, probs=0.25) &
+                                dep.avg <= quantile(dep.avg, probs=0.50) ~ "Second",
+                              dep.avg > quantile(dep.avg, probs=0.50)  &
+                                dep.avg <= quantile(dep.avg, probs=0.75) ~ "Third",
+                              TRUE ~ "Fourth")) %>%
+  ungroup() %>%
+  mutate(quartile = case_when(Degname2 == "Master" ~ NA,
+                              Degname2 == "Doctoral" ~ NA,
+                              TRUE ~ quartile)) %>%
+  group_by(Acadept)%>%
+  fill(quartile, .direction = "downup") %>%
+  ungroup()
+
+temp <- clas %>%
+  select(Acadept, Degname2) %>%
+  filter(Degname2 == "Doctoral") %>%
+  distinct()
+temp2 <- clas %>%
+  select(Acadept, Degname2) %>%
+  filter(Degname2 == "Master") %>%
+  filter(!Acadept %in% temp$Acadept) %>%
+  distinct()
+
+clas2 <- clas %>%
+  filter(Degname2 == "Bachelor") %>%
+  mutate(quartile = factor(quartile, levels = c("First", "Second", "Third", "Fourth"))) %>%
+  group_by(Degname2, Acadept, Acad.Yr) %>%
+  uncount(Enroll) %>%
+  ungroup() %>%
+  mutate(top.deg = case_when(Acadept %in% temp$Acadept ~ "Ph.D.",
+                             Acadept %in% temp2$Acadept ~ "M.A./M.S.",
+                             TRUE ~ "B.A./B.S."))
+
+nd <- clas2 %>%
+  tibble()%>%
+  select(Acadept, quartile, dep.avg, top.deg) %>%
+  distinct() %>%
+  rename("label" = "Acadept")
+
+tab <- clas2%>%
+  filter(Degname2 == "Bachelor") %>%
+  tbl_summary(.,
+              include = c(Acadept),
+              by = c(Acad.Yr)) %>%
+  modify_table_body(~ .x %>%
+                      left_join(nd, by = "label"))%>%
+  modify_header(quartile ~ "Size Quartile",
+                dep.avg ~ "Department Average") %>%
+  modify_table_body(fun = ~ dplyr::arrange(.x, quartile, dep.avg)) %>%
+  modify_table_styling(
+    columns = everything(), # Or the column containing the values you want to bold
+    rows = ifelse(top.deg == "Ph.D.", TRUE, FALSE), # Your condition
+    text_format = "bold") %>%
+  modify_header(label = "Department") %>%
+  modify_caption(caption = "<div style='font-size: 28px;'> Majors/Minors by Department for CLAS </div>") %>%
+  as_gt() %>%
+  tab_style(
+    style = list(cell_text(color = "red")),
+    locations = cells_body(row = ifelse(label == "ECON",TRUE,FALSE))) 
+
+gtsave(tab, filename = "./Tab.png")
+
