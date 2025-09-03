@@ -1,7 +1,9 @@
-#This is a combination of several datasets from Tableau
+#This is a combination of several data sets from Tableau
 #1) Fall Headcount Enrollment by Department and Degree Program
-#2) Weekly Enrollment  for the Upcoming Fall By Department/Plan
-#For the second data set which is used to update with the current semester data, must unselect minors.
+#2) Weekly Enrollment for the Upcoming Fall By Department/Plan
+    #For the second data set which is used to update with the current semester data, must un-select minors and go through
+    #each major program individual and update the spreadsheet manually. No Data download possible. Also remove 
+    #pre-computer science to get accurate count to link with headcount data.
 
 #Jeremy R. Groves
 #Created: July 23, 2025
@@ -109,12 +111,39 @@ all2 <- read.csv(file="./Data/CLAS_majors_current.csv", header = TRUE, as.is = T
 
   #Create a dataframe for plotting with the Academic year as a factor
     p.clas <- clas %>%
-      mutate(Acad.Yr = as.factor(Acad.Yr))
+      mutate(Acad.Yr = as.factor(Acad.Yr),
+             Acadept = as.factor(Acadept))
   
+    col.1 <-c("ANTH" = "lightblue",
+              "PHIL" =  "darkblue",
+              "PHYS" = "#006D2C",
+              "SPGA" = "red",
+              "STAT" = "purple",
+              "WGSS" = "orange")
+    
+    col.2 <-c("ECON" = "darkred",
+              "ENVS" =  "darkblue",
+              "FWLC" = "#006D2C",
+              "MATH" = "red",
+              "NNGO" = "purple")
+    
+    col.3 <-c("CHEM" = "lightblue",
+              "EAE" =  "darkblue",
+              "ENGL" = "#006D2C",
+              "HIST" = "red",
+              "SOCI" = "purple")
+    
+    col.4 <-c("BIOS" = "lightblue",
+              "COMS" =  "darkblue",
+              "CSCI" = "#006D2C",
+              "POLS" = "red",
+              "PSYC" = "purple")
+    
     #Graph of Undergraduate Majors by Quartile for all programs in CLAS
       ggplot(data = filter(p.clas, quartile == "First" & Degname2 == "Bachelor"), 
              aes(x = Acad.Yr)) +
         geom_line(aes(y = Enroll, group=Acadept, color = Acadept), linewidth = 1.0) +
+        scale_color_manual(values=col.1) +
         geom_line(data = filter(p.clas, Acadept == "ECON" & Degname2 == "Bachelor"), aes(y = Enroll, group = Acadept), 
                   linewidth = 1.5, color = "darkred")+
         annotate("text", x=2.8, y=130, label= "Economics",
@@ -131,8 +160,9 @@ all2 <- read.csv(file="./Data/CLAS_majors_current.csv", header = TRUE, as.is = T
       ggplot(data = filter(p.clas, quartile == "Second" & Degname2 == "Bachelor"), 
              aes(x = Acad.Yr)) +
         geom_line(aes(y = Enroll, group=Acadept, color = Acadept), linewidth = 1.0) +
-        #geom_line(data = filter(p.clas, Acadept == "ECON" & Degname2 == "Bachelor"), aes(y = Enroll, group = Acadept), 
-        #          linewidth = 1.5, color = "darkred")+
+        scale_color_manual(values=col.2) +
+        geom_line(data = filter(p.clas, Acadept == "ECON" & Degname2 == "Bachelor"), aes(y = Enroll, group = Acadept), 
+                  linewidth = 1.5, color = "darkred")+
         annotate("text", x=2.8, y=130, label= "Economics",
                  fontface = "bold", color = "darkred") + 
         labs(x = "Academic Year",
@@ -147,6 +177,7 @@ all2 <- read.csv(file="./Data/CLAS_majors_current.csv", header = TRUE, as.is = T
       ggplot(data = filter(p.clas, quartile == "Third" & Degname2 == "Bachelor"), 
              aes(x = Acad.Yr)) +
         geom_line(aes(y = Enroll, group=Acadept, color = Acadept), linewidth = 1.0) +
+        scale_color_manual(values=col.3) +
         geom_line(data = filter(p.clas, Acadept == "ECON" & Degname2 == "Bachelor"), aes(y = Enroll, group = Acadept), 
                   linewidth = 1.5, color = "darkred")+
         annotate("text", x=2.8, y=130, label= "Economics",
@@ -163,6 +194,7 @@ all2 <- read.csv(file="./Data/CLAS_majors_current.csv", header = TRUE, as.is = T
       ggplot(data = filter(p.clas, quartile == "Fourth" & Degname2 == "Bachelor"), 
              aes(x = Acad.Yr)) +
         geom_line(aes(y = Enroll, group=Acadept, color = Acadept), linewidth = 1.0) +
+        scale_color_manual(values=col.4) +
         geom_line(data = filter(p.clas, Acadept == "ECON" & Degname2 == "Bachelor"), aes(y = Enroll, group = Acadept), 
                   linewidth = 1.5, color = "darkred")+
         annotate("text", x=3.8, y=130, label= "Economics",
@@ -181,7 +213,7 @@ all2 <- read.csv(file="./Data/CLAS_majors_current.csv", header = TRUE, as.is = T
     col <-c("ECON" = "darkred",
             "PHYS" = "lightblue",
             "CHEM" =  "darkblue",
-            "EAE" = "green",
+            "EAE" = "#006D2C",
             "MATH" = "red",
             "ENGL" = "blue",
             "HIST" = "orange",
@@ -211,6 +243,7 @@ all2 <- read.csv(file="./Data/CLAS_majors_current.csv", header = TRUE, as.is = T
   
   ggplot(filter(plot.d, Degname2 == "Doctoral"), aes(x = Acad.Yr, y = Enroll)) +
     geom_line(aes(group = Acadept, color = Acadept), linewidth = 1) +
+    scale_color_manual(values = col) +
     geom_line(aes(group = Acadept),linewidth = 1.5, color = "black", data = filter(plot.e, Degname2 == "Doctoral")) +
     labs(x = "Academic Year",
          y = "Enrollment",
@@ -224,6 +257,7 @@ all2 <- read.csv(file="./Data/CLAS_majors_current.csv", header = TRUE, as.is = T
   
   ggplot(filter(plot.d, Degname2 == "Doctoral"), aes(x = Acad.Yr, y = nor_enroll)) +
     geom_line(aes(group = Acadept, color = Acadept), linewidth = 1) +
+    scale_color_manual(values = col) +
     geom_line(aes(group = Acadept),linewidth = 1.5, color = "black", data = filter(plot.e, Degname2 == "Doctoral")) +
     geom_hline(aes(yintercept = 1), linewidth = 1, linetype = 'dashed') +
     labs(x = "Academic Year",
@@ -243,7 +277,8 @@ all2 <- read.csv(file="./Data/CLAS_majors_current.csv", header = TRUE, as.is = T
 
   ggplot(filter(plot.d, Degname2 == "Bachelor"), aes(x = Acad.Yr, y = Enroll)) +
     geom_line(aes(group = Acadept, color = Acadept), linewidth = 1) +
-    geom_line(aes(group = Acadept),linewidth = 1.5, color = "black", data = plot.e) +
+    scale_color_manual(values = col)+
+    geom_line(aes(group = Acadept),linewidth = 1.5, color = "darkred", data = plot.e) +
     labs(x = "Academic Year",
          y = "Enrollment",
          color = "Department",
@@ -257,7 +292,8 @@ all2 <- read.csv(file="./Data/CLAS_majors_current.csv", header = TRUE, as.is = T
   
   ggplot(filter(plot.d, Degname2 == "Bachelor"), aes(x = Acad.Yr, y = Enroll)) +
     geom_line(aes(group = Acadept, color = Acadept), linewidth = 1) +
-    geom_line(aes(group = Acadept),linewidth = 1.5, color = "black", data = plot.e) +
+    scale_color_manual(values = col) +
+    geom_line(aes(group = Acadept),linewidth = 1.5, color = "darkred", data = plot.e) +
     facet_grid(~factor(quartile2, levels=c("First/Second", "Third", "Fourth"))) +
     labs(x = "Academic Year",
          y = "Enrollment",
@@ -269,80 +305,3 @@ all2 <- read.csv(file="./Data/CLAS_majors_current.csv", header = TRUE, as.is = T
           legend.position="bottom") 
   ggsave("./Graphics/bach_phd_q.png")
   
-  
-  
-plot.d <- core %>%
-  filter(Degree == "Bachelor") %>%
-  mutate(QR2 = case_match(QR, "1" ~ "First",
-                             "2" ~ "Second", 
-                             "3" ~ "Third", 
-                             "4" ~ "Fourth")) %>%
-  arrange(QR)
-
-plot.e <- plot.d %>%
-  filter(Acadept == "ECON")
-
-    for(i in seq(2,4,1)) {
-      temp <- plot.e %>%
-        mutate(QR = as.character(i))
-      ifelse(i == 2,
-             TEMP <-temp,
-             TEMP <- bind_rows(TEMP, temp))
-    }
-
-plot.e <- plot.e %>%
-  bind_rows(TEMP) %>%
-  mutate(QR2 = case_match(QR, "1" ~ "First", "2" ~ "Second", "3" ~ "Third", "4" ~ "Fourth"))
-
-rm(temp, TEMP)
-
-ggplot(filter(plot.d, QR!="4"), aes(Acad.Yr, Enroll)) +
-  geom_line(aes(group = Acadept, color = Acadept), linewidth = 1) +
-  geom_line(aes(group = Acadept),linewidth = 1.5, color = "black", data = filter(plot.e, QR!="4")) +
-  facet_wrap(~QR2) +
-  scale_color_manual(values = col) + 
-  scale_y_continuous(breaks=seq(0,300, 50)) +
-  labs(x = "Academic Year",
-     y = "Enrollment",
-     color = "Department",
-     title = "Undergraduate Enrollment Trend by Department Size Quartiles") +
-  theme_bw()+
-  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1),
-        legend.position="bottom") 
-
-ggplot(plot.d, aes(Acad.Yr, bEnroll)) +
-  geom_line(aes(group = Acadept, color = Acadept), linewidth = 1) +
-  geom_line(aes(group = Acadept),linewidth = 1.5, color = "black", data = plot.e) +
-  geom_hline(yintercept = 1.0, color = "darkgray", linewidth = 1.25, linetype = "dashed") +
-  facet_wrap(~QR2, dir = "v") +
-  scale_color_manual(values = col) + 
-  scale_y_continuous(breaks=seq(0,300, 50)) +
-  labs(x = "Academic Year",
-       y = "Enrollment",
-       color = "Department",
-       title = "Undergraduate Enrollment Trend by Department Size Quartiles",
-       caption = "Base Year = 2015") +
-  theme_bw()+
-  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1),
-        legend.position="bottom")
-
-ggplot(plot.d, aes(Acad.Yr, mEnroll)) +
-  geom_line(aes(group = Acadept, color = Acadept), linewidth = 1) +
-  geom_line(aes(group = Acadept),linewidth = 1.5, color = "black", data = plot.e) +
-  geom_hline(yintercept = 1.0, color = "darkgray", linewidth = 1.25, linetype = "dashed") +
-  facet_wrap(~QR2, dir = "v") +
-  scale_color_manual(values = col) + 
-  scale_y_continuous(breaks=seq(0,300, 50)) +
-  labs(x = "Academic Year",
-       y = "Enrollment",
-       color = "Department",
-       title = "Undergraduate Enrollment Trend by Department Size Quartiles",
-       caption = "Base Year = Max Enrollment") +
-  theme_bw()+
-  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1),
-        legend.position="bottom")
-
-
-
-
-

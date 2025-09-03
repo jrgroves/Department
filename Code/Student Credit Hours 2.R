@@ -9,20 +9,27 @@ sch_c <- read.csv(file = "./Data/SCH_data clas.csv", header = TRUE, as.is=TRUE)
   names(sch_c) <- c("Semester", "Crsenum", "SCH_C")
 sch_d <- read.csv(file = "./Data/SCH_data ECON.csv", header = TRUE, as.is=TRUE)
   names(sch_d) <- c("Semester", "Crsenum", "SCH_D")
+sch_b <- read.csv(file = "./Data/SCH_data_bus.csv", header = TRUE, as.is=TRUE)
+  names(sch_b) <- c("Semester", "Crsenum", "SCH_B")
   
 #Clean and Manipulate Data
   
   core <- sch_u %>%
     left_join(., sch_c, by = c("Semester", "Crsenum")) %>%
     left_join(., sch_d, by = c("Semester", "Crsenum")) %>%
-    filter(!is.na(SCH_C),
-           !grepl("SUMMER", Semester)) %>%
+    left_join(., sch_b, by = c("Semester", "Crsenum"))  %>%
+    filter(Crsenum < 800) %>%
     mutate(Crsenum = factor(as.character(Crsenum), levels = c("100", "200", "300", "400", "500", "600", "700")),
-           SCH_D = replace_na(SCH_D, 0)) %>%
-    pivot_longer(cols = c("SCH_U", "SCH_C", "SCH_D"), names_to = "Level", values_to = "SCH") %>%
+           SCH_D = replace_na(SCH_D, 0),
+           SCH_B = replace_na(SCH_B, 0),
+           SCH_C = replace_na(SCH_C, 0),
+           SCH_D2 = SCH_D - SCH_B) %>%
+    filter(!grepl("SUMMER", Semester)) %>%
+    pivot_longer(cols = c("SCH_U", "SCH_C", "SCH_D", "SCH_D2"), names_to = "Level", values_to = "SCH") %>%
     mutate(Level = case_when(Level == "SCH_U" ~ "University",
                              Level == "SCH_C" ~ "CLAS",
                              Level == "SCH_D" ~ "Department",
+                             Level == "SCH_D2" ~ "Dept minus CBUS",
                              TRUE ~ "Other"),
            AcdemYr = case_when(Semester == "FALL2018" | Semester == "SPRING2019" ~ "AC2018",
                                Semester == "FALL2019" | Semester == "SPRING2020" ~ "AC2019",
@@ -38,22 +45,24 @@ sch_d <- read.csv(file = "./Data/SCH_data ECON.csv", header = TRUE, as.is=TRUE)
       mutate(temp = tSCH[which(AcdemYr == "AC2018")],
              nSCH = tSCH/temp) %>%
     ungroup() %>%
-    select(-temp)
-  
-  core2 <- core %>%
+    select(-temp) %>%
     mutate(Career = case_when(Crsenum == "500" ~ "Graduate",
                      Crsenum == "600" ~ "Graduate",
                      Crsenum == "700" ~ "Graduate",
                      TRUE ~ "Undergraduate")) %>%
+    arrange(Crsenum)
+  
+  
+  
+  core2 <- core %>%
     reframe(tSCH = sum(tSCH), .by = c(Level, AcdemYr, Career)) %>%
     group_by(Level, Career) %>%
     mutate(temp = tSCH[which(AcdemYr == "AC2018")],
            nSCH = tSCH/temp) %>%
     ungroup() %>%
-    select(-temp)
-  
-  
-  
+    select(-temp) 
+ 
+ 
 #Visualizations
   
   ggplot(filter(core, Crsenum == "200")) +
@@ -62,8 +71,20 @@ sch_d <- read.csv(file = "./Data/SCH_data ECON.csv", header = TRUE, as.is=TRUE)
          y = "Normalized SCH",
          x = "Academic Year",
          caption = "Data from NIU") +
-    theme_bw()+
-    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) 
+    theme_bw() +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1),
+          legend.position="bottom") 
+  ggsave(file = "./Graphics/nSCH200.png")
+  
+  ggplot(filter(core, Crsenum == "200" & Level %in% c("Department", "Dept minus CBUS"))) +
+    geom_line(aes(x = AcdemYr, y = tSCH, group = Level, color = Level), linewidth = 1) +
+    labs(title = "Total (Raw) Student Credit Hours - 200 Level Courses",
+         y = "Total SCH",
+         x = "Academic Year",
+         caption = "Data from NIU") +
+    theme_bw() +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1),
+          legend.position="bottom") 
 
   ggplot(filter(core, Crsenum == "300")) +
     geom_line(aes(x = AcdemYr, y = nSCH, group = Level, color = Level), linewidth = 1) +
@@ -71,8 +92,20 @@ sch_d <- read.csv(file = "./Data/SCH_data ECON.csv", header = TRUE, as.is=TRUE)
          y = "Normalized SCH",
          x = "Academic Year",
          caption = "Data from NIU") +
-    theme_bw()+
-    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) 
+    theme_bw() +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1),
+          legend.position="bottom")
+  ggsave(file = "./Graphics/nSCH300.png")
+  
+  ggplot(filter(core, Crsenum == "300" & Level %in% c("Department", "Dept minus CBUS"))) +
+    geom_line(aes(x = AcdemYr, y = tSCH, group = Level, color = Level), linewidth = 1) +
+    labs(title = "Total (Raw) Student Credit Hours - 300 Level Courses",
+         y = "Total SCH",
+         x = "Academic Year",
+         caption = "Data from NIU") +
+    theme_bw() +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1),
+          legend.position="bottom") 
   
   ggplot(filter(core, Crsenum == "400")) +
     geom_line(aes(x = AcdemYr, y = nSCH, group = Level, color = Level), linewidth = 1) +
@@ -80,8 +113,20 @@ sch_d <- read.csv(file = "./Data/SCH_data ECON.csv", header = TRUE, as.is=TRUE)
          y = "Normalized SCH",
          x = "Academic Year",
          caption = "Data from NIU") +
-    theme_bw()+
-    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) 
+    theme_bw() +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1),
+          legend.position="bottom") 
+  ggsave(file = "./Graphics/nSCH400.png")
+  
+  ggplot(filter(core, Crsenum == "400" & Level %in% c("Department", "Dept minus CBUS"))) +
+    geom_line(aes(x = AcdemYr, y = tSCH, group = Level, color = Level), linewidth = 1) +
+    labs(title = "Total (Raw) Student Credit Hours - 400 Level Courses",
+         y = "Total SCH",
+         x = "Academic Year",
+         caption = "Data from NIU") +
+    theme_bw() +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1),
+          legend.position="bottom") 
   
   ggplot(filter(core2, Career == "Graduate")) +
     geom_line(aes(x = AcdemYr, y = nSCH, group = Level, color = Level), linewidth = 1) +
@@ -92,13 +137,36 @@ sch_d <- read.csv(file = "./Data/SCH_data ECON.csv", header = TRUE, as.is=TRUE)
     theme_bw()+
     theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) 
   
+  ggplot(filter(core2, Career == "Graduate" & Level %in% c("Department"))) +
+    geom_line(aes(x = AcdemYr, y = tSCH, group = Level, color = Level), linewidth = 1) +
+    labs(title = "Total (Raw) Student Credit Hours - Graduate Courses",
+         y = "Total SCH",
+         x = "Academic Year",
+         caption = "Data from NIU") +
+    theme_bw() +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1),
+          legend.position="bottom") 
+  
+  
   ggplot(filter(core2, Career == "Undergraduate")) +
     geom_line(aes(x = AcdemYr, y = nSCH, group = Level, color = Level), linewidth = 1) +
     labs(title = "Normalized Student Credit Hours - Undergraduate Level Courses",
          y = "Normalized SCH",
          x = "Academic Year",
          caption = "Data from NIU") +
-    theme_bw()+
-    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) 
+    theme_bw() +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1),
+          legend.position="bottom")
+  ggsave(file = "./Graphics/nSCH_under.png")
+  
+  ggplot(filter(core2, Career == "Undergraduate" & Level %in% c("Department", "Dept minus CBUS"))) +
+    geom_line(aes(x = AcdemYr, y = tSCH, group = Level, color = Level), linewidth = 1) +
+    labs(title = "Total (Raw) Student Credit Hours - Undergraduate Courses",
+         y = "Total SCH",
+         x = "Academic Year",
+         caption = "Data from NIU") +
+    theme_bw() +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1),
+          legend.position="bottom") 
            
     

@@ -1,48 +1,50 @@
 Acadept,Degname2,Major,Acad Yr,Count of OSIR
-ANTH,Bachelor,Anthropology (BS),2025,48
-ANTH,Master,Anthropology (MA),2025,13
-BIOS,Bachelor,Biological Sciences (BS),2025,408
-BIOS,Master,Biological Sciences - Bioinformatics (MS),2025,8
-BIOS,Doctoral,Biological Sciences (PHD),2025,20
-CHEM,Bachelor,Chemistry - Chemistry for Preprofessional (BS),2025,137
-CHEM,Master,Chemistry (MS),2025,3
-CHEM,Doctoral,Chemistry - Nanoscience (PHD),2025,33
-COMS,Bachelor,Journalism (BS),2025,309
+ANTH,Bachelor,Anthropology (BS),2025,46
+ANTH,Master,Anthropology (MA),2025,15
+BIOS,Bachelor,Biological Sciences (BS),2025,416
+BIOS,Master,Biological Sciences - Bioinformatics (MS),2025,20
+BIOS,Doctoral,Biological Sciences (PHD),2025,26
+CHEM,Bachelor,Chemistry - Chemistry for Preprofessional (BS),2025,140
+CHEM,Master,Chemistry (MS),2025,6
+CHEM,Doctoral,Chemistry - Nanoscience (PHD),2025,38
+COMS,Bachelor,Journalism (BS),2025,316
 COMS,Master,Communication Studies (MA),2025,18
-CSCI,Bachelor,Computer Science - Software Development (BS),2025,290
-CSCI,Master,Computer Science (MS),2025,46
-CSCI,Doctoral,Computer Science (PHD),2025,8
-EAE,Bachelor,Geology - Earth & Space Science Education (BS),2025,156
-EAE,Master,Geology (MS),2025,21
-EAE,Doctoral,Geology (PHD),2025,16
-ECON,Bachelor,Economics (BA),2025,63
-ECON,Master,Economics (MA),2025,4
-ECON,Doctoral,Economics (PHD),2025,18
-ENGL,Bachelor,English (BA),2025,151
-ENGL,Master,English (MA),2025,29
-ENGL,Doctoral,English (PHD),2025,31
-ENVS,Bachelor,Environmental Studies (BS),2025,102
-FWLC,Bachelor,French - Translation & Business (BA),2025,41
-HIST,Bachelor,History (BA),2025,153
-HIST,Master,History (MA),2025,18
-HIST,Doctoral,History (PHD),2025,14
-MATH,Bachelor,Mathematics - Probability & Statistics (BS),2025,108
-MATH,Doctoral,Mathematical Science (PHD),2025,22
-NNGO,Bachelor,Nonprofit and NGO Studies (BA),2025,13
+CSCI,Bachelor,Computer Science - Software Development (BS),2025,321
+CSCI,Master,Computer Science (MS),2025,52
+CSCI,Doctoral,Computer Science (PHD),2025,20
+EAE,Bachelor,Geology - Earth & Space Science Education (BS),2025,159
+EAE,Master,Geology (MS),2025,25
+EAE,Doctoral,Geology (PHD),2025,21
+ECON,Bachelor,Economics (BA),2025,68
+ECON,Master,Economics (MA),2025,6
+ECON,Doctoral,Economics (PHD),2025,19
+ENGL,Bachelor,English (BA),2025,154
+ENGL,Master,English (MA),2025,28
+ENGL,Doctoral,English (PHD),2025,40
+ENVS,Bachelor,Environmental Studies (BS),2025,106
+FWLC,Bachelor,French - Translation & Business (BA),2025,40
+HIST,Bachelor,History (BA),2025,164
+HIST,Master,History (MA),2025,16
+HIST,Doctoral,History (PHD),2025,20
+MATH,Bachelor,Mathematics - Probability & Statistics (BS),2025,109
+MATH,Master,Mathematics -MA,2025,18
+MATH,Doctoral,Mathematical Science (PHD),2025,29
+NNGO,Bachelor,Nonprofit and NGO Studies (BA),2025,14
 PHIL,Bachelor,Philosophy (BA),2025,30
 PHIL,Master,Philosophy (MA),2025,31
-PHYS,Bachelor,Physics - Secondary Teaching (BS),2025,36
-PHYS,Doctoral,Physics (PHD),2025,34
+PHYS,Bachelor,Physics - Secondary Teaching (BS),2025,38
+PHYS,Master,Physics,2025,10
+PHYS,Doctoral,Physics (PHD),2025,53
 POLS,Bachelor,Political Science - International Politics (BA),2025,303
-POLS,Master,Political Science (MA),2025,8
-POLS,Doctoral,Political Science (PHD),2025,16
-PSPA,Master,Public Administration: Strategic Public Management and Leadership (MPA),2025,79
-PSYC,Bachelor,Psychology (BS),2025,967
-PSYC,Master,Psychology (MA),2025,39
-PSYC,Doctoral,Psychology (PHD),2025,50
-SOCI,Bachelor,Sociology (BA),2025,240
-SOCI,Master,Sociology - Criminology (MA),2025,16
+POLS,Master,Political Science (MA),2025,9
+POLS,Doctoral,Political Science (PHD),2025,18
+PSPA,Master,Public Administration: Strategic Public Management and Leadership (MPA),2025,82
+PSYC,Bachelor,Psychology (BS),2025,999
+PSYC,Master,Psychology (MA),2025,37
+PSYC,Doctoral,Psychology (PHD),2025,54
+SOCI,Bachelor,Sociology (BA),2025,253
+SOCI,Master,Sociology - Criminology (MA),2025,23
 SPGA,Bachelor,Public Service Leadership (BS),2025,22
-STAT,Bachelor,Actuarial Science (BS),2025,52
-STAT,Master,Statistics (MS),2025,12
-WGSS,Bachelor,"Women, Gender, and Sexuality Studies (BA)",2025,9
+STAT,Bachelor,Actuarial Science (BS),2025,51
+STAT,Master,Statistics (MS),2025,13
+WGSS,Bachelor,"Women, Gender, and Sexuality Studies (BA)",2025,10
