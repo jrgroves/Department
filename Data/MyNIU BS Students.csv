@@ -2074,41 +2074,42 @@ Row,FERPA,Empl ID,Campus ID,First Name,MI,Last Name,Suffix,Enrolled,Acad Prog,De
 40,,2010786,Z2010786,Donovan,,Whelan,,Enrolled Spring 2025,LAS,ECON,Major,Economics,,2248,,,Junior,16,91,4,,Z2010786@STUDENTS.NIU.EDU,ECONBS,Jennifer Fife
 1,,2037371,Z2037371,Joe,,Aarvig,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2248,,,Sophomore,15,32,2.614,,Z2037371@STUDENTS.NIU.EDU,ECONBS,Jennifer Fife
 2,,2005222,Z2005222,Cody,,Aldrich,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2238,,,Senior,16,90,2.985,,Z2005222@STUDENTS.NIU.EDU,ECONBS,Jennifer Fife
-3,,1925232,Z1925232,Matt,,Bell,,,LAS,ECON,Major,Economics,,2218,,,Senior,,90,2.48,,Z1925232@STUDENTS.NIU.EDU,ECONBS,Jennifer Fife
+3,,1925232,Z1925232,Matt,,Bell,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2218,,,Senior,16,96,2.435,,Z1925232@STUDENTS.NIU.EDU,ECONBS,Jennifer Fife
 4,,2010208,Z2010208,Lewis,,Daniels,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2248,,,Junior,16,75,3.196,,Z2010208@STUDENTS.NIU.EDU,ECONBS,Laurie Sodaro
 5,,2069781,Z2069781,Conor,,Dezell,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2258,,,Junior,15,80,0,,Z2069781@STUDENTS.NIU.EDU,ECONBS,Laurie Sodaro
 6,,2014645,Z2014645,Selin,,Erdem,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2242,,,Sophomore,15,54,3.911,,Z2014645@STUDENTS.NIU.EDU,ECONBS,Jennifer Fife
-7,,2048653,Z2048653,Cameron,,Glispie,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2248,,,Sophomore,16,52.44,3.517,,Z2048653@STUDENTS.NIU.EDU,ECONBS,Jennifer Fife
-8,,1848100,Z1848100,Xudong,,Guo,,,LAS,ECON,Major,Economics,,2238,,,Senior,,108,2.248,,Z1848100@STUDENTS.NIU.EDU,ECONBS,Jennifer Fife
-9,,1954411,Z1954411,Jakub,,Hawryluk,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2228,,,Senior,16,108,3.062,,Z1954411@STUDENTS.NIU.EDU,ECONBS,Laurie Sodaro
-10,,1954411,Z1954411,Jakub,,Hawryluk,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2228,,,Senior,16,108,3.062,,Z1954411@STUDENTS.NIU.EDU,ECONBS,Erin Reid
-11,,1911902,Z1911902,Mario,D,Karris,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2212,,,Senior,13,106,3.476,,Z1911902@STUDENTS.NIU.EDU,ECONBS,Jennifer Fife
-12,,2000361,Z2000361,Mohsin,,Khokhar,,,LAS,ECON,Major,Economics,,2238,,,Sophomore,,37,1.636,,Z2000361@STUDENTS.NIU.EDU,ECONBS,Laurie Sodaro
+7,,2048653,Z2048653,Cameron,,Glispie,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2248,,,Sophomore,16,55.44,3.56,,Z2048653@STUDENTS.NIU.EDU,ECONBS,Jennifer Fife
+8,,1848100,Z1848100,Xudong,,Guo,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2238,,,Senior,12,108,2.248,Fall 2025,Z1848100@STUDENTS.NIU.EDU,ECONBS,Jennifer Fife
+9,,1954411,Z1954411,Jakub,,Hawryluk,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2228,,,Senior,16,108,3.062,Fall 2025,Z1954411@STUDENTS.NIU.EDU,ECONBS,Laurie Sodaro
+10,,1954411,Z1954411,Jakub,,Hawryluk,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2228,,,Senior,16,108,3.062,Fall 2025,Z1954411@STUDENTS.NIU.EDU,ECONBS,Erin Reid
+11,,1911902,Z1911902,Mario,D,Karris,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2212,,,Senior,9,109,3.512,,Z1911902@STUDENTS.NIU.EDU,ECONBS,Jennifer Fife
+12,,2000361,Z2000361,Mohsin,,Khokhar,,,LAS,ECON,Major,Economics,,2238,,,Sophomore,0,37,1.636,,Z2000361@STUDENTS.NIU.EDU,ECONBS,Laurie Sodaro
 13,,1983816,Z1983816,Melanie,,Lytell,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2238,,,Senior,18,90,3.738,,Z1983816@STUDENTS.NIU.EDU,ECONBS,Rebekah Kohli
-14,,2057152,Z2057152,Ivan,,Martinez,,,LAS,ECON,Major,Economics,,2252,,,Freshman,,23.72,2.063,,Z2057152@STUDENTS.NIU.EDU,ECONBS,David Leija
-15,,1911387,Z1911387,Jacob,D,Merrill,,,LAS,ECON,Major,Economics,,2248,,,Senior,,91,1.935,,Z1911387@STUDENTS.NIU.EDU,ECONBS,Jennifer Fife
+14,,2057152,Z2057152,Ivan,,Martinez,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2252,,,Freshman,16,23.72,2.063,,Z2057152@STUDENTS.NIU.EDU,ECONBS,Camyle Tate
+15,,1911387,Z1911387,Jacob,D,Merrill,,,LAS,ECON,Major,Economics,,2248,,,Senior,0,91,1.935,,Z1911387@STUDENTS.NIU.EDU,ECONBS,Jennifer Fife
 16,,1983049,Z1983049,Devin,J,Moehrlin,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2238,,,Senior,18,93,3.94,,Z1983049@STUDENTS.NIU.EDU,ECONBS,Jennifer Fife
 17,,1993145,Z1993145,Gustavo,,Navarro,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2248,,,Junior,16,61,3.7,,Z1993145@STUDENTS.NIU.EDU,ECONBS,Laurie Sodaro
 18,,1994194,Z1994194,Connor,,O'Sullivan,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2238,,,Senior,16,101,3.967,,Z1994194@STUDENTS.NIU.EDU,ECONBS,Laurie Sodaro
-19,,1886531,Z1886531,Chase,M,Odegaard,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2212,,,Senior,10,101,2.279,,Z1886531@STUDENTS.NIU.EDU,ECONBS,Rebekah Kohli
-20,,1914776,Z1914776,Shivam,R,Patel,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2218,,,Senior,14,95,2.597,,Z1914776@STUDENTS.NIU.EDU,ECONBS,Jennifer Fife
-21,,2075183,Z2075183,Hayden,,Rasmussen,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2258,,,Sophomore,14,45,0,,Z2075183@STUDENTS.NIU.EDU,ECONBS,Jennifer Fife
-22,,2071679,Z2071679,Jacob,,Reisetter,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2258,,,Sophomore,16,55,0,,Z2071679@STUDENTS.NIU.EDU,ECONBS,Jennifer Fife
-23,,2074421,Z2074421,Jake,,Ritchie,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2258,,,Junior,13,60,0,,Z2074421@STUDENTS.NIU.EDU,ECONBS,Jennifer Fife
-24,,1963450,Z1963450,Edgar,,Robledo,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2248,,,Junior,16,77,2.377,,Z1963450@STUDENTS.NIU.EDU,ECONBS,Laurie Sodaro
-25,,2041808,Z2041808,Angelina,,Schlinger,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2248,,,Senior,16,107.331,3.79,,Z2041808@STUDENTS.NIU.EDU,ECONBS,Jennifer Fife
-26,,2039939,Z2039939,Samir,,Senenat,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2246,,,Sophomore,16,30,3.3,,Z2039939@STUDENTS.NIU.EDU,ECONBS,
-27,,2039939,Z2039939,Samir,,Senenat,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2246,,,Sophomore,16,30,3.3,,Z2039939@STUDENTS.NIU.EDU,ECONBS,Jennifer Fife
+19,,1886531,Z1886531,Chase,M,Odegaard,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2212,,,Senior,13,101,2.279,,Z1886531@STUDENTS.NIU.EDU,ECONBS,Rebekah Kohli
+20,,1914776,Z1914776,Shivam,R,Patel,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2218,,,Senior,14,106,2.685,Fall 2025,Z1914776@STUDENTS.NIU.EDU,ECONBS,Jennifer Fife
+21,,2071679,Z2071679,Jacob,,Reisetter,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2258,,,Sophomore,16,55,0,,Z2071679@STUDENTS.NIU.EDU,ECONBS,Jennifer Fife
+22,,2074421,Z2074421,Jake,,Ritchie,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2258,,,Junior,13,60,0,,Z2074421@STUDENTS.NIU.EDU,ECONBS,Jennifer Fife
+23,,1963450,Z1963450,Edgar,,Robledo,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2248,,,Junior,16,77,2.377,,Z1963450@STUDENTS.NIU.EDU,ECONBS,Laurie Sodaro
+24,,1963450,Z1963450,Edgar,,Robledo,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2248,,,Junior,16,77,2.377,,Z1963450@STUDENTS.NIU.EDU,ECONBS,
+25,,2041808,Z2041808,Angelina,,Schlinger,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2248,,,Senior,16,110.331,3.811,,Z2041808@STUDENTS.NIU.EDU,ECONBS,Jennifer Fife
+26,,2039939,Z2039939,Samir,,Senenat,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2246,,,Sophomore,16,30,3.3,,Z2039939@STUDENTS.NIU.EDU,ECONBS,Jennifer Fife
+27,,2039939,Z2039939,Samir,,Senenat,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2246,,,Sophomore,16,30,3.3,,Z2039939@STUDENTS.NIU.EDU,ECONBS,
 28,,1955888,Z1955888,Anmol,,Singh,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2248,,,Senior,16,98,3.344,,Z1955888@STUDENTS.NIU.EDU,ECONBS,Laurie Sodaro
-29,,2037971,Z2037971,Robert,,Smith,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2248,,,Senior,13,92,3.608,,Z2037971@STUDENTS.NIU.EDU,ECONBS,Laurie Sodaro
-30,,1978546,Z1978546,Vytis,,Snarskis,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2248,,,Senior,13,110,2.015,Fall 2025,Z1978546@STUDENTS.NIU.EDU,ECONBS,Laurie Sodaro
-31,,2042418,Z2042418,Jamarion,,Stubbs,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2248,,,Junior,9,84,1.875,,Z2042418@STUDENTS.NIU.EDU,ECONBS,Laurie Sodaro
-32,,2033365,Z2033365,Brett,,Taylor,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2248,,,Senior,17,93,3.668,,Z2033365@STUDENTS.NIU.EDU,ECONBS,Laurie Sodaro
-33,,1948032,Z1948032,Chris,,Taylor,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2228,,,Junior,10,72,2.253,,Z1948032@STUDENTS.NIU.EDU,ECONBS,Jennifer Fife
-34,,2060512,Z2060512,Keon,M,Travis,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2258,,,Freshman,16,0,0,,Z2060512@STUDENTS.NIU.EDU,ECONBS,Raymond Jenkins
-35,,1949979,Z1949979,Ryan,,Uebel,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2228,,,Senior,17,97,3.685,,Z1949979@STUDENTS.NIU.EDU,ECONBS,Chenfang Su
-36,,1949979,Z1949979,Ryan,,Uebel,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2228,,,Senior,17,97,3.685,,Z1949979@STUDENTS.NIU.EDU,ECONBS,Laurie Sodaro
-37,,2015306,Z2015306,Martin,,Vargas,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2248,,,Senior,17,108,3.793,,Z2015306@STUDENTS.NIU.EDU,ECONBS,Jennifer Fife
-38,,2010786,Z2010786,Donovan,,Whelan,,,LAS,ECON,Major,Economics,,2248,,,Senior,,91,4,,Z2010786@STUDENTS.NIU.EDU,ECONBS,Jennifer Fife
-39,,1812372,Z1812372,Jonathan,S,Yan,,,LAS,ECON,Major,Economics,,2258,,,Senior,,131,3.186,,Z1812372@STUDENTS.NIU.EDU,ECONBS,
-40,,2066745,Z2066745,Yilekale,,Yimenu,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2256,,,Sophomore,16,57,2,,Z2066745@STUDENTS.NIU.EDU,ECONBS,Jennifer Fife
+29,,2037971,Z2037971,Robert,,Smith,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2248,,,Senior,13,98,3.648,,Z2037971@STUDENTS.NIU.EDU,ECONBS,Laurie Sodaro
+30,,1978546,Z1978546,Vytis,,Snarskis,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2248,,,Senior,13,116,1.971,Fall 2025,Z1978546@STUDENTS.NIU.EDU,ECONBS,Laurie Sodaro
+31,,2033365,Z2033365,Brett,,Taylor,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2248,,,Senior,17,99,3.576,,Z2033365@STUDENTS.NIU.EDU,ECONBS,Laurie Sodaro
+32,,1948032,Z1948032,Chris,,Taylor,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2228,,,Junior,10,72,2.253,,Z1948032@STUDENTS.NIU.EDU,ECONBS,Jennifer Fife
+33,,2059894,Z2059894,Pernell,,Taylor,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2258,,,Freshman,18,0,0,,Z2059894@STUDENTS.NIU.EDU,ECONBS,Raymond Jenkins
+34,,2060512,Z2060512,Keon,M,Travis,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2258,,,Freshman,15,0,0,,Z2060512@STUDENTS.NIU.EDU,ECONBS,Raymond Jenkins
+35,,1949979,Z1949979,Ryan,,Uebel,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2228,,,Senior,17,107,3.694,,Z1949979@STUDENTS.NIU.EDU,ECONBS,Chenfang Su
+36,,1949979,Z1949979,Ryan,,Uebel,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2228,,,Senior,17,107,3.694,,Z1949979@STUDENTS.NIU.EDU,ECONBS,Laurie Sodaro
+37,,2012550,Z2012550,Elvis,,Valadez,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2238,,,Junior,13,77,1.467,,Z2012550@STUDENTS.NIU.EDU,ECONBS,Jennifer Fife
+38,,2015306,Z2015306,Martin,,Vargas,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2248,,,Senior,17,108,3.793,,Z2015306@STUDENTS.NIU.EDU,ECONBS,Jennifer Fife
+39,,2010786,Z2010786,Donovan,,Whelan,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2248,,,Senior,16,91,4,,Z2010786@STUDENTS.NIU.EDU,ECONBS,Jennifer Fife
+40,,1812372,Z1812372,Jonathan,S,Yan,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2258,,,Senior,3,131,3.186,,Z1812372@STUDENTS.NIU.EDU,ECONBS,Jennifer Fife
+41,,2066745,Z2066745,Yilekale,,Yimenu,,Enrolled Fall 2025,LAS,ECON,Major,Economics,,2256,,,Junior,16,60,2.716,,Z2066745@STUDENTS.NIU.EDU,ECONBS,Jennifer Fife

@@ -18,7 +18,7 @@ MINOR.data <- read.csv(file = "./Data/MyNIU Minor Students.csv", header = TRUE, 
 #Clean and process data####
 
 BS.data <- BS.data %>%
-  select(First.Name, MI, Last.Name, Suffix, Enrolled, Acad.Prog, Department, Plan.Type, 
+  select(Campus.ID, First.Name, MI, Last.Name, Suffix, Enrolled, Acad.Prog, Department, Plan.Type, 
          Academic.Plan.Major, Acad.Level, Term.Hours, Cumulative.GPA) %>%
   filter(str_detect(Enrolled, "Enrolled")) %>%
   mutate(Enrolled = gsub("Enrolled ", "", Enrolled),
@@ -33,7 +33,7 @@ BS.data <- BS.data %>%
   select(-c(Semester, Year))
 
 BA.data <- BA.data %>%
-  select(First.Name, MI, Last.Name, Suffix, Enrolled, Acad.Prog, Department, Plan.Type, 
+  select(Campus.ID, First.Name, MI, Last.Name, Suffix, Enrolled, Acad.Prog, Department, Plan.Type, 
          Academic.Plan.Major, Acad.Level, Term.Hours, Cumulative.GPA) %>%
   filter(str_detect(Enrolled, "Enrolled")) %>%
   mutate(Enrolled = gsub("Enrolled ", "", Enrolled),
@@ -48,7 +48,7 @@ BA.data <- BA.data %>%
   select(-c(Semester, Year))
 
 BSFE.data <- BSFE.data %>%
-  select(First.Name, MI, Last.Name, Suffix, Enrolled, Acad.Prog, Department, Plan.Type, 
+  select(Campus.ID,First.Name, MI, Last.Name, Suffix, Enrolled, Acad.Prog, Department, Plan.Type, 
          Academic.Plan.Major, Acad.Level, Term.Hours, Cumulative.GPA) %>%
   filter(str_detect(Enrolled, "Enrolled")) %>%
   mutate(Enrolled = gsub("Enrolled ", "", Enrolled),
@@ -63,7 +63,7 @@ BSFE.data <- BSFE.data %>%
   select(-c(Semester, Year))
 
 MINOR.data <- MINOR.data %>%
-  select(First.Name, MI, Last.Name, Suffix, Enrolled, Acad.Prog, Department, Plan.Type, 
+  select(Campus.ID, First.Name, MI, Last.Name, Suffix, Enrolled, Acad.Prog, Department, Plan.Type, 
          Academic.Plan.Major, Acad.Level, Term.Hours, Cumulative.GPA) %>%
   filter(str_detect(Enrolled, "Enrolled")) %>%
   mutate(Enrolled = gsub("Enrolled ", "", Enrolled),
@@ -83,8 +83,10 @@ core <- BS.data %>%
   mutate(Acad.Level = factor(Acad.Level, levels = c("Freshman", "Sophomore", "Junior", "Senior", "PostBacc")),
          T2 = as.numeric(Term)) %>%
   filter(T2 > 2052) %>%
-  select(-T2)
-
+  select(-T2) %>%
+  group_by(Term) %>%
+    distinct(Campus.ID, .keep_all = TRUE) %>%
+  ungroup()
 
 
 
@@ -97,7 +99,8 @@ core.agg <- core %>%
   ungroup() %>%
   select(Enrolled2, Term, Degree, Acad.Level, count, n_level) %>%
   distinct()
- 
+
+save(core.agg, file = "./Data/majors_minors.RData")
 
 core.minor <- core %>%
   filter(Degree == "MINOR") %>%
@@ -175,6 +178,7 @@ ggplot(filter(core, Degree == "BS"), aes(x = Term)) +
 
 ggplot(filter(core, Degree == "BA"), aes(x = Term)) +
   geom_bar(aes(fill = Acad.Level))+
+  geom_vline(xintercept = 9.5, color = "blue", linewidth = 1.5)+
   labs(y= "Count",
        fill = "Class",
        title = "Total B.A. Degree Enrollment") +
@@ -193,4 +197,20 @@ ggplot(filter(core, Degree == "MINOR"), aes(x = Term)) +
   theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1),
         legend.position="bottom") 
 
+temp.data <- core.agg %>%
+  filter(Degree != "MINOR") %>%
+  group_by(Enrolled2, Term, Acad.Level) %>%
+    summarize(count = sum(n_level)) %>%
+  ungroup() %>%
+  uncount(count)
 
+ggplot(temp.data, aes(x = Term)) +
+  geom_bar(aes(fill = Acad.Level))+
+  geom_vline(xintercept = 9.5, color = "blue", linewidth = 1.5)+
+  labs(y= "Count",
+       fill = "Class",
+       title = "Total Department Majors") +
+  scale_x_discrete("Term", labels = unique(core$Enrolled2)) +
+  theme_bw() +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1),
+        legend.position="bottom") 

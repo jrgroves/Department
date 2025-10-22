@@ -1,5 +1,5 @@
 #My NIU Query NIU_CEDU_ENROLL_DEPT_ONLY  Gives enrollment numbers for each class
-#My NIU NIU_CQ_CRSE_ENROLLMENT_TERM gives student info. Must serach for each class and saved in subfolder myniu
+#My NIU NIU_CQ_CRSE_ENROLLMENT_TERM gives student info. Must search for each class and saved in subfolder myniu
 
 #Jeremy R. Groves
 #September 3, 2025

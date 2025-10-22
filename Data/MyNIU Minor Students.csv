@@ -816,17 +816,21 @@ Row,FERPA,Empl ID,Campus ID,First Name,MI,Last Name,Suffix,Enrolled,Acad Prog,De
 16,,2014310,Z2014310,Michelle,,Smith,,Enrolled Spring 2025,LAS,ECON,Minor,Economics Minor,,2248,,,Junior,9,93,2.256,,Z2014310@STUDENTS.NIU.EDU,ECONMNR,Marilyn Lorch
 17,,2015803,Z2015803,Cynthia,,Velazquez,,Enrolled Spring 2025,BUS,ECON,Minor,Economics Minor,,2242,,,Junior,9,90,3.5,,Z2015803@STUDENTS.NIU.EDU,ECONMNR,Emily Cronauer
 18,,2026511,Z2026511,Zoe,,Zuzzio,,Enrolled Spring 2025,LAS,ECON,Minor,Economics Minor,Option 3 - Mathematics Option,2242,,,Senior,16,137,4,,Z2026511@STUDENTS.NIU.EDU,ECONMNR,Jamie Stigall
-1,,2015238,Z2015238,Mayra,,Arias,,Enrolled Fall 2025,LAS,ECON,Minor,Economics Minor,Option 1 - Open Option,2248,,,Junior,14,81,3.506,,Z2015238@STUDENTS.NIU.EDU,ECONMNR,Colleen Lynch-Barker
-2,,1961212,Z1961212,Duane,,Enty,Jr,Enrolled Fall 2025,BUS,ECON,Minor,Economics Minor,,2228,,,Senior,16,115,3.111,,Z1961212@STUDENTS.NIU.EDU,ECONMNR,Emily Cronauer
-3,,1929433,Z1929433,Matias,,Evans,,Enrolled Fall 2025,BUS,ECON,Minor,Economics Minor,,2218,,,Senior,18,114,2.926,Fall 2025,Z1929433@STUDENTS.NIU.EDU,ECONMNR,Shannon Gates
-4,,1912135,Z1912135,Rina,S,Feldman,,,LAS,ECON,Minor,Economics Minor,,2218,,,Junior,,86,2.35,,Z1912135@STUDENTS.NIU.EDU,ECONMNR,Erin Reid
-5,,1872055,Z1872055,Hannah,K,Freitag,,Enrolled Fall 2025,LAS,ECON,Minor,Economics Minor,Option 3 - Mathematics Option,2248,,,Senior,17,124,4,,Z1872055@STUDENTS.NIU.EDU,ECONMNR,Erin Reid
-6,Y,1916222,Z1916222,Tyler,,Jones,,Enrolled Fall 2025,EDU,ECON,Minor,Economics Minor,,2218,,,Senior,12,111,2.482,,Z1916222@STUDENTS.NIU.EDU,ECONMNR,Joseph Curran
-7,,2039710,Z2039710,Jonathon,,Lee,,Enrolled Fall 2025,LAS,ECON,Minor,Economics Minor,Option 2 - Statistics Option,2248,,,Senior,16,99,3.828,,Z2039710@STUDENTS.NIU.EDU,ECONMNR,Jennifer Fife
-8,,2048146,Z2048146,Mathias,,Melaku,,,BUS,ECON,Minor,Economics Minor,,2252,,,Junior,,74,3.25,,Z2048146@STUDENTS.NIU.EDU,ECONMNR,Chenfang Su
-9,,2041615,Z2041615,James,,Nordstrom,,Enrolled Fall 2025,LAS,ECON,Minor,Economics Minor,Option 1 - Open Option,2248,,,Senior,15,96,2.833,,Z2041615@STUDENTS.NIU.EDU,ECONMNR,Stephanie Kummerer
-10,,1952949,Z1952949,Sarah,,Rose,,Enrolled Fall 2025,LAS,ECON,Minor,Economics Minor,,2228,,,Junior,15,87,2.951,,Z1952949@STUDENTS.NIU.EDU,ECONMNR,Stephanie Kummerer
-11,,2014310,Z2014310,Michelle,,Smith,,,LAS,ECON,Minor,Economics Minor,,2248,,,Senior,,93,2.256,,Z2014310@STUDENTS.NIU.EDU,ECONMNR,Marilyn Lorch
-12,,2015803,Z2015803,Cynthia,,Velazquez,,Enrolled Fall 2025,BUS,ECON,Minor,Economics Minor,,2242,,,Senior,15,90,3.5,,Z2015803@STUDENTS.NIU.EDU,ECONMNR,Emily Cronauer
-13,,2067134,Z2067134,Everett,A,Wright,,Enrolled Fall 2025,LAS,ECON,Minor,Economics Minor,Option 1 - Open Option,2258,,,Sophomore,13,36,0,,Z2067134@STUDENTS.NIU.EDU,ECONMNR,Erin Reid
-14,,2026511,Z2026511,Zoe,,Zuzzio,,Enrolled Fall 2025,LAS,ECON,Minor,Economics Minor,Option 3 - Mathematics Option,2242,,,Senior,13,137,4,,Z2026511@STUDENTS.NIU.EDU,ECONMNR,Jamie Stigall
+1,,2015238,Z2015238,Mayra,,Arias,,Enrolled Fall 2025,LAS,ECON,Minor,Economics Minor,Option 1 - Open Option,2248,,,Junior,14,84,3.549,,Z2015238@STUDENTS.NIU.EDU,ECONMNR,Colleen Lynch-Barker
+2,,2046604,Z2046604,Luke,I,Branaman,,Enrolled Fall 2025,LAS,ECON,Minor,Economics Minor,Option 1 - Open Option,2248,,,Senior,17,90,3.572,,Z2046604@STUDENTS.NIU.EDU,ECONMNR,Erin Reid
+3,,1961212,Z1961212,Duane,,Enty,Jr,Enrolled Fall 2025,BUS,ECON,Minor,Economics Minor,,2228,,,Senior,16,118,3.128,,Z1961212@STUDENTS.NIU.EDU,ECONMNR,Emily Cronauer
+4,,1929433,Z1929433,Matias,,Evans,,Enrolled Fall 2025,BUS,ECON,Minor,Economics Minor,,2218,,,Senior,18,114,2.926,Fall 2025,Z1929433@STUDENTS.NIU.EDU,ECONMNR,Shannon Gates
+5,,1912135,Z1912135,Rina,S,Feldman,,,LAS,ECON,Minor,Economics Minor,,2218,,,Junior,0,86,2.35,,Z1912135@STUDENTS.NIU.EDU,ECONMNR,Erin Reid
+6,Y,2078946,Z2078946,Bryan,,Flores,,Enrolled Fall 2025,BUS,ECON,Minor,Economics Minor,Option 1 - Open Option,2258,,,Junior,16,60,0,,Z2078946@STUDENTS.NIU.EDU,ECONMNR,Chenfang Su
+7,,1872055,Z1872055,Hannah,K,Freitag,,Enrolled Fall 2025,LAS,ECON,Minor,Economics Minor,Option 3 - Mathematics Option,2248,,,Senior,17,128,4,,Z1872055@STUDENTS.NIU.EDU,ECONMNR,Erin Reid
+8,,1916222,Z1916222,Tyler,,Jones,,Enrolled Fall 2025,EDU,ECON,Minor,Economics Minor,,2218,,,Senior,12,120,2.522,Fall 2025,Z1916222@STUDENTS.NIU.EDU,ECONMNR,Joseph Curran
+9,,2039710,Z2039710,Jonathon,,Lee,,Enrolled Fall 2025,LAS,ECON,Minor,Economics Minor,Option 2 - Statistics Option,2248,,,Senior,15,99,3.828,,Z2039710@STUDENTS.NIU.EDU,ECONMNR,Jennifer Fife
+10,,1965713,Z1965713,Aidan,,McGovern,,Enrolled Fall 2025,LAS,ECON,Minor,Economics Minor,,2238,,,Senior,12,96,3.096,,Z1965713@STUDENTS.NIU.EDU,ECONMNR,Erin Reid
+11,,2048146,Z2048146,Mathias,,Melaku,,Enrolled Fall 2025,BUS,ECON,Minor,Economics Minor,,2252,,,Junior,13,77,2.8,,Z2048146@STUDENTS.NIU.EDU,ECONMNR,Chenfang Su
+12,,2041615,Z2041615,James,,Nordstrom,,Enrolled Fall 2025,LAS,ECON,Minor,Economics Minor,Option 1 - Open Option,2248,,,Senior,15,96,2.833,,Z2041615@STUDENTS.NIU.EDU,ECONMNR,Stephanie Kummerer
+13,,1982460,Z1982460,Juan,,Ornelas Ortiz,,Enrolled Fall 2025,LAS,ECON,Minor,Economics Minor,,2238,,,Junior,15,68,2.754,,Z1982460@STUDENTS.NIU.EDU,ECONMNR,Colleen Lynch-Barker
+14,,1952949,Z1952949,Sarah,,Rose,,Enrolled Fall 2025,LAS,ECON,Minor,Economics Minor,,2228,,,Senior,15,96,2.912,,Z1952949@STUDENTS.NIU.EDU,ECONMNR,Stephanie Kummerer
+15,,2014310,Z2014310,Michelle,,Smith,,,LAS,ECON,Minor,Economics Minor,,2248,,,Senior,0,93,2.256,,Z2014310@STUDENTS.NIU.EDU,ECONMNR,Marilyn Lorch
+16,,2015803,Z2015803,Cynthia,,Velazquez,,Enrolled Fall 2025,BUS,ECON,Minor,Economics Minor,,2242,,,Senior,12,97,3.571,,Z2015803@STUDENTS.NIU.EDU,ECONMNR,Emily Cronauer
+17,,2067134,Z2067134,Everett,A,Wright,,Enrolled Fall 2025,LAS,ECON,Minor,Economics Minor,Option 1 - Open Option,2258,,,Sophomore,15,36,0,,Z2067134@STUDENTS.NIU.EDU,ECONMNR,Erin Reid
+18,,2026511,Z2026511,Zoe,,Zuzzio,,Enrolled Fall 2025,LAS,ECON,Minor,Economics Minor,Option 3 - Mathematics Option,2242,,,Senior,13,141,4,,Z2026511@STUDENTS.NIU.EDU,ECONMNR,Jamie Stigall
