@@ -25,8 +25,6 @@ degree <- AEA.degree %>%
   bind_rows(niu.degree) %>%
   mutate(avg_degree = Count / N)
 
-
-
 #Visualizations
 
 degree2 <- degree %>%
@@ -46,6 +44,7 @@ ggplot(degree2) +
        linetype = "Institution Type") +
   theme_bw()+
   theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) 
+ggsave("./Graphics/aea_niu_phd.png")
 
 ggplot(degree2) +
   geom_line(aes(x = Academic_Year, y = avg_degree, color = Degree, 
@@ -59,19 +58,21 @@ ggplot(degree2) +
        linetype = "Institution Type") +
   theme_bw()+
   theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) 
+ggsave("./Graphics/aea_niu_ma.png")
 
 ggplot(degree) +
   geom_line(aes(x = Academic_Year, y = avg_degree, color = Degree, 
                 linetype = factor(Institute_Type, levels = c("NIU", "BA")), group = interaction(Institute_Type, Degree)), 
             linewidth = 1.25,
             data=filter(degree2, Institute_Type == "BA" | Institute_Type == "NIU"))+ 
-  labs(title = "Degrees Awarded by Bacholor Only Institutions & NIU",
+  labs(title = "Degrees Awarded by Bachelor Only Institutions & NIU",
        y = "Average Degrees / NIU Total",
        x = "Academic Year",
        caption = "Data from AEA and NIU Tablaeu",
        linetype = "Institution Type") +
   theme_bw()+
   theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) 
+ggsave("./Graphics/aea_niu_bac.png")
 
 
 #In terms of percentage changes in degrees awarded at NIU
@@ -152,8 +153,11 @@ ggplot(filter(niu2, !grepl("growth|NIUE", Level))) +
        y = "Ratio",
        x = "Academic Year",
        caption = "Data from NIU") +
+  guides(color = guide_legend(nrow = 1)) +
   theme_bw()+
-  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) 
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1),
+        legend.position="bottom") 
+ggsave("./Graphics/deg_niu_norm.png")
 
 
 

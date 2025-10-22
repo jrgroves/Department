@@ -72,13 +72,16 @@ library(tidyverse)
         geom_line(aes(x = acadyear, y = enrollment, group=level, color = level), linewidth = 1) +
         geom_vline(xintercept = "2010-2011", color = "blue", linewidth = .8) +
         geom_vline(xintercept = "2022-2023", color = "cyan", linewidth = .8) +   
-        labs(title = "Undergraduate Sections per Academic Year",
+        labs(title = "Undergraduate Enrollment per Academic Year by Level",
              y = "Enrollment",
              x = "Academic Year",
              caption = "Blue line indicates large section start; cyan line indicates recitations; data in house.",
              color = "Course Level")+
+        guides(color = guide_legend(nrow = 1)) +
         theme_bw()+
-        theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) 
+        theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1),
+              legend.position="bottom") 
+      ggsave("./Graphics/econ_enroll.png")
   
   # Total Course Enrollment by Course per Academic Year  - 5 Year Moving Average 
       ggplot(enroll.1) +
