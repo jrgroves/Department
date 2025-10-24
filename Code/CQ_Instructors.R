@@ -107,7 +107,7 @@ ggplot(temp) +
   theme(axis.text.x = element_text(size = 7, angle=90))
 
 
-
+#Combining data from instructional staffing to student majors/minors####
 
 temp1 <- core %>%
   group_by(Semester) %>%
@@ -139,12 +139,27 @@ demo.core <- demo.core %>%
   right_join(., temp2, by = c("Semester", "position")) %>%
   filter(position != "GA Instruct")
 
+temp3 <- core.agg %>%
+  select(Enrolled2, Degree, count) %>%
+  distinct() %>%
+  filter(Degree != "MINOR") %>%
+  group_by(Enrolled2) %>%
+  summarise(Majors = sum(count)) %>%
+  ungroup()
+
 temp2 <- core.agg %>%
   select(Enrolled2, Degree, count) %>%
   distinct() %>%
-  group_by(Enrolled2) %>%
+  group_by(Enrolled2, Degree) %>%
     summarise(students = sum(count)) %>%
-  ungroup()
+  ungroup() %>%
+  pivot_wider(id_cols = (Enrolled2), names_from = Degree, values_from = students) %>%
+  replace_na(list(BSFE = 0)) %>%
+  rename("Minors" = "MINOR") %>%
+  left_join(., temp3, by = "Enrolled2")
+
+
+  
 
 demo.core <- demo.core %>%
   right_join(., temp2, by = c("Semester" = "Enrolled2")) %>%
@@ -156,9 +171,30 @@ demo.core <- demo.core %>%
          Semester = fct_reorder(Semester, Term)) %>%
   select(-c(a, b))
 
-ggplot(demo.core) +
-  geom_bar(aes(x = Semester, y = (students/10)), stat = "identity", data = distinct(demo.core, Semester, .keep_all = TRUE))+
-  geom_line(aes(x = Semester, y = Unique, group = position, color = position), linewidth = 2) +
+core.agg2 <- demo.core %>%
+  select(Semester, BA, BS, BSFE, Majors, Minors, Term) %>%
+  distinct
+
+
+ggplot(core.agg2) +
+  geom_point(aes(x = Semester, y = Majors, group = Majors)) +
+  geom_vline(xintercept = c(3, 5, 7, 9, 10, 11, 12, 14, 15, 27, 29))+
+  annotate(
+    "label",
+    x = c(1, 3, 5, 7, 9, 10, 11, 12, 13, 14, 15, 27, 29),
+    y = max(core.agg2$Majors) + 12, # Set y to the maximum of your data's y-values
+    label = c("13", "14", "12", "13", "14", "13", "11", "10", "9", "10", "10", "9"),
+    vjust = 1.2,   # Adjust vertical justification to place the label just above the top edge
+    hjust = 0.5,   # Center horizontally on the line
+    fill = "lightblue", # Optional: adds a background color for the "textbox" effect
+    color = "black"
+  ) 
+  
+  
+  
+  
+  
+  #geom_line(aes(x = Semester, y = Unique, group = position, color = position), linewidth = 2, data = demo.core) +
   theme(axis.text.x = element_text(size = 7, angle=90))
 
 ggplot() +
