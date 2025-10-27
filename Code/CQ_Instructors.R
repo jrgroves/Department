@@ -96,7 +96,7 @@ u.core <- core %>%
   select(Term, Semester, Catalog, c.num, Level, position, starts_with("Level"), starts_with("Course")) %>%
   distinct()
 
-
+save(core, file = "./Data/Annual Instructional.RData")
 
 temp <- u.core %>%
   select(Semester, Term, position, starts_with("Level")) %>%
