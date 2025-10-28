@@ -1,0 +1,120 @@
+Dept,Major,2010,2011,2012,2013,2014,2015,Degree
+ACCY,Accountancy,213,172,196,158,189,167,Bachelor
+CBUS,Business Administration,153,160,122,103,97,78,Bachelor
+FINA,Finance,140,110,110,110,69,64,Bachelor
+MGMT,Management,105,74,62,60,59,52,Bachelor
+MKTG,Marketing,195,142,152,144,118,76,Bachelor
+OMIS,Operations Mgmt & Info Systems,52,76,78,73,82,83,Bachelor
+KNPE,Kinesiology & Physical Education,129,123,136,119,111,100,Bachelor
+LTCY,Literacy Education,0,0,0,141,95,91,Bachelor
+TLRN,Special and Early Education  (Formally TLRN),0,0,282,108,87,71,Bachelor
+TLRM,Teaching and Learning,327,264,0,0,0,0,Bachelor
+CEDU,General Studies/Contract Major,4,5,5,5,0,6,Bachelor
+ELE,Electrical Engineering,46,30,35,43,60,45,Bachelor
+ISYE,Industrial and Systems Engineering,18,14,16,14,21,22,Bachelor
+MEE,Mechanical Engineering,57,67,70,65,79,77,Bachelor
+TECH,Technology,75,63,76,75,65,80,Bachelor
+CEET,E & ET Contract Major,1,0,1,0,1,0,Bachelor
+AHP,Allied Health & Communicative Disorders,0,0,209,262,249,262,Bachelor
+AHP,Allied Health Professions,209,266,0,0,0,0,Bachelor
+AHP,Communicative Disorders,84,70,0,0,0,0,Bachelor
+FACS,Family Consumer & Nutrition Sci,259,243,240,255,239,255,Bachelor
+NURS,Nursing,181,187,310,326,322,299,Bachelor
+CHHS,General Studies,6,5,10,13,12,17,Bachelor
+ANTH,Anthropology,29,30,22,25,18,18,Bachelor
+BIOS,Biological Sciences,148,115,119,134,100,115,Bachelor
+CHEM,Chemistry & BioChemistry,27,20,43,25,48,22,Bachelor
+COMS,Communication Studies,356,339,284,303,306,270,Bachelor
+CSCI,Computer Science,69,69,83,74,64,80,Bachelor
+ECON,Economics,79,86,81,58,56,69,Bachelor
+ENGL,English,133,141,129,112,96,87,Bachelor
+ENVS,Environmental Studies,0,0,0,8,22,23,Bachelor
+FLWC,Foreign Lang. & Literature,61,44,48,56,48,52,Bachelor
+EAE,Geography,52,68,47,45,29,37,Bachelor
+EAE,Geology & Envir. Geosciences,22,19,25,15,25,26,Bachelor
+HIST,History,129,115,104,66,58,70,Bachelor
+MATH,Mathematical Sciences,59,64,62,78,55,55,Bachelor
+NNGO,NGOLD,0,0,0,6,11,18,Bachelor
+PHIL,Philosophy,21,16,20,9,20,14,Bachelor
+PHYS,Physics,11,8,4,1,10,17,Bachelor
+POLS,Political Science,126,134,145,138,119,113,Bachelor
+PSYC,Psychology,247,222,253,243,226,213,Bachelor
+SOCI,Sociology,148,149,134,136,141,103,Bachelor
+CLAS,General Studies/Contract Major,89,99,75,73,92,83,Bachelor
+ART,Art,159,101,125,150,127,122,Bachelor
+MUSC,Music,48,30,35,33,38,23,Bachelor
+THEA,Theatre Arts,33,35,21,28,34,23,Bachelor
+CVPA,General Studies/Contract Major,4,4,3,1,7,4,Bachelor
+NIU,UNIVERSITY TOTAL,4304,3979,3972,3893,3709,3507,Bachelor
+ACCY,Accountancy,171,138,137,129,139,123,Masters
+CBUS,Business Administration,195,189,235,228,240,275,Masters
+FINA,Finance,0,0,0,0,0,0,Masters
+MGMT,Management,0,0,0,0,0,0,Masters
+MRTG,Marketing,0,0,0,0,0,0,Masters
+OMIS,Operations Mgmt & Info Systems,27,33,26,37,36,53,Masters
+CAHE,"Counseling, Adult & Health Education",83,58,89,73,72,79,Masters
+LEPF,Educational Psychology & Foundations,115,81,0,0,0,0,Masters
+ETRA,"Educ Technology, Research & Assessment",49,34,47,40,35,40,Masters
+KNPE,Kinesiology & Physical Education,64,55,58,52,56,61,Masters
+LEPF,Leadership in Educational & Sports Orgs,0,0,0,0,0,0,Masters
+LEPF,"Leadership, Educational Psychology & Foundations",0,0,96,90,95,42,Masters
+LTCY,Literacy Education,47,105,89,44,70,31,Masters
+TLRN,Special and Early Education,0,0,96,59,54,59,Masters
+TLRN,Teaching and Learning,208,184,0,0,0,0,Masters
+ELE,Electrical Engineering,18,27,26,19,18,30,Masters
+ISYE,Industrial and systems Engineering,25,33,16,12,26,39,Masters
+MEE,Mechanical Engineering,20,30,22,14,19,39,Masters
+TECH,Technology,15,28,33,14,17,13,Masters
+CLAW,LAW,99,87,88,116,97,100,Masters
+ANTH,Anthropology,13,12,17,16,10,14,Masters
+BIOS,Biological Sciences,11,18,41,16,14,15,Masters
+CHEM,Chemistry & BioChemistry,10,3,4,6,7,4,Masters
+COMS,Communication Studies,19,22,17,19,15,17,Masters
+CSCI,Computer Science,94,89,56,64,62,124,Masters
+ECON,Economics,11,8,11,4,3,4,Masters
+ENGL,English,32,26,29,26,27,22,Masters
+FLWC,Foreign Lang. & Literature,4,8,7,6,6,6,Masters
+EAE,Geography,17,8,9,10,10,2,Masters
+EAE,Geology & Envir. Geosciences,11,4,6,5,6,10,Masters
+HIST,History,9,13,13,9,10,9,Masters
+MATH,Mathematical Sciences,13,23,23,23,22,33,Masters
+PHIL,Philosophy,9,9,10,10,19,13,Masters
+PHYS,Physics,8,6,10,3,3,6,Masters
+POLS,Political Science,47,36,35,37,42,43,Masters
+PSYC,Psychology,19,16,17,20,21,23,Masters
+SOCI,Sociology,9,10,5,6,4,3,Masters
+AHP,Allied Health & Communicative Disorders,0,0,83,50,31,28,Masters
+AHP,Allied Health Professions,53,55,0,0,0,0,Masters
+AHP,Communicative Disorders,33,30,0,0,0,0,Masters
+FCNS,Family Consumer & Nutrition Sci,35,39,32,32,30,29,Masters
+NURS,Nursing,38,58,72,75,72,102,Masters
+ART,Art,30,26,34,32,13,23,Masters
+MUSC,Music,59,39,49,55,57,29,Masters
+THEA,Theatre Arts,14,5,0,23,2,6,Masters
+NIU,UNIVERSITY TOTAL,1638,1508,1632,1480,1464,1464,Masters
+CAHE,"Counseling, Adult & Higher Education",12,21,25,19,20,12,Doctorate
+LEPF,Educational Psychology & Foundations,20,47,0,0,0,0,Doctorate
+ETRA,"Educ Technology, Research & Assessment",8,10,10,4,8,5,Doctorate
+KNPE,Kinesiology & Physical Education,0,0,0,0,0,0,Doctorate
+LEPF,"Leadership, Educational Psychology & Foundations",0,0,10,18,18,22,Doctorate
+LTCY,Literacy Education,2,4,4,1,6,8,Doctorate
+TLRN,Special and Early Education,0,0,5,15,0,1,Doctorate
+TLRN,Teaching and Learning,10,9,0,0,0,0,Doctorate
+BIOS,Biological Sciences,5,3,3,3,1,5,Doctorate
+CHEM,Chemistry & BioChemistry,12,3,3,7,5,9,Doctorate
+ECON,Economics,1,2,1,5,3,4,Doctorate
+ENGL,English,4,3,10,5,8,8,Doctorate
+EAE,Geography,0,0,0,0,0,0,Doctorate
+EAE,Geology & Envir. Geosciences,1,2,0,1,1,0,Doctorate
+HIST,History,2,2,4,6,1,1,Doctorate
+MATH,Mathematical Sciences,3,5,6,6,8,4,Doctorate
+PHYS,Physics,3,1,5,3,5,5,Doctorate
+POLS,Political Science,7,12,5,10,7,5,Doctorate
+PSYC,Psychology,10,13,17,23,12,18,Doctorate
+AHP,Allied Health & Communicative Disorders,0,0,5,55,58,44,Doctorate
+AHP,Allied Health Professions,0,0,0,0,0,0,Doctorate
+AHP,Communicative Disorders,2,7,0,0,0,0,Doctorate
+FNCS,Family Consumer & Nutrition Sci,0,0,0,0,0,0,Doctorate
+NURS,Nursing,0,0,0,0,0,0,Doctorate
+ART,Art,0,3,0,0,1,2,Doctorate
+NIU,UNIVERSITY TOTAL,102,147,113,181,162,153,Doctorate

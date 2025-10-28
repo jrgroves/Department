@@ -105,16 +105,29 @@ ggplot(working) +
   theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1),
         legend.position="bottom") 
 
+ggplot(filter(working, DEGREE == "Bachelor")) +
+  geom_line(aes(x = Acadyr, y = Count, group = DEGREE), linewidth = 1.5, color = "red") +
+  labs(y = "Majors",
+       x = "Academic Year (Fall)",
+       color = "Degree",
+       title = "Total Undergraduate Majos") +
+  scale_x_continuous(breaks = working$Acadyr) +
+  theme_bw() +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1),
+        legend.position="bottom") 
+
 temp <- working2 %>%
-  filter(Level == "Level_300") 
+  filter(Level == "Level_200") %>%
+  select(Acadyr, term_sec, term_instr, Count) %>%
+  distinct()
 
 ggplot(temp) + 
-  geom_line(aes(x = Acadyr, y = Count, group = DEGREE), color = "red", linewidth = 1.5) +
+  geom_line(aes(x = Acadyr, y = Count), color = "red", linewidth = 1.5) +
   geom_vline(xintercept = temp$Acadyr) +
   annotate("label",
     x = temp$Acadyr,
     y = max(temp$Count) + 12, # Set y to the maximum of your data's y-values
-    label = temp$level_sec,
+    label = temp$term_instr,
     vjust = 1.2,   # Adjust vertical justification to place the label just above the top edge
     hjust = 0.5,   # Center horizontally on the line
     fill = "white", # Optional: adds a background color for the "textbox" effect
@@ -123,10 +136,13 @@ ggplot(temp) +
   labs(y = "Majors",
        x = "Academic Year (Fall)",
        color = "Degree",
-       title = "Total Majors and 300 Level Instructors") +
+       title = "Total Majors and (Fall) Instructors") +
   scale_x_continuous(breaks = temp$Acadyr) +
   theme_bw() +
   theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) 
+
+temp <- working2 %>%
+  filter(Level == "Level_300") 
 
 ggplot(temp) + 
   geom_line(aes(x = Acadyr, y = Count, group = DEGREE), color = "red", linewidth = 1.5) +
@@ -147,3 +163,5 @@ ggplot(temp) +
   scale_x_continuous(breaks = temp$Acadyr) +
   theme_bw() +
   theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) 
+
+save(working, working2, file = "./Data/Majors.RData")
