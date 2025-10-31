@@ -12,14 +12,35 @@ mast <- c("MA", "MAC", "MAS", "MAT", "MBA", "MFA", "MM", "MPA", "MPH", "MS", "MS
           "MST", "MSTCH", "MULTMM", "MULTMS", "PC")
 doc <- c("AUD", "DNP", "DPT", "EDD", "EDS", "JD", "PHD")
 
-temp1 <- temp1 %>%
+cbus <- c("ACCY", "CBUS", "FINA", "MGMT", "MKTG", "OMIS")
+cedu <- c("CAHE", "CEDU", "ETRA", "KNPE", "LEPF", "LTCY", "TLRN")
+ceet <- c("CEET", "ELE", "ISYE", "MEE", "TECH")
+chhs <- c("AHP", "CHHS", "FCNS", "HLTH", "IHP", "NURS")
+clas <- c("ANTH", "BIOS", "CHEM", "CLAS", "COMS", "CSCI", "EAE", "ECON", "ENVS", "FL",
+          "HIST", "MATH", "NNGO", "PHIL", "PHYS", "POLS", "PSPA", "PSYC", "SOCI", "SPGA",
+          "WOMS")
+cvpa <- c("ART", "CVPA", "MUSC", "THEA")
+law  <- c("LAW")
+
+
+temp1a <- temp1 %>%
   select(-c(X2015, Major)) %>%
+  rename("Department" = "Dept") %>%
+  mutate(Department = case_when(Department == "STAT" ~ "MATH",
+                                Department == "GEOG" ~ "EAE",
+                                Department == "GEOL" ~ "EAE",
+                                Department == "FACS" ~ "FCNS",
+                                Department == "NGOLD" ~ "NNGO",
+                                Department == "FLWC" ~ "FL",
+                                Department == "FNCS" ~ "FCNS",
+                                is.na(Department) ~ "NIU",
+                                TRUE ~ Department)) %>%
   pivot_longer(cols = starts_with("X"), names_to = "Acadyr", values_to = "Count") %>%
-  group_by(Dept, Degree, Acadyr) %>%
+  group_by(Department, Degree, Acadyr) %>%
   mutate(Count = sum(Count)) %>%
   ungroup() %>%
   distinct() %>%
-  pivot_wider(id_cols = c(Dept, Degree), names_from = Acadyr, values_from = Count)
+  pivot_wider(id_cols = c(Department, Degree), names_from = Acadyr, values_from = Count)
 
 working <- temp2 %>%
   rename("Count" = "Count.of.Sheet1",
@@ -34,7 +55,11 @@ working <- temp2 %>%
                                 Department == "GEOG" ~ "EAE",
                                 Department == "GEOL" ~ "EAE",
                                 Department == "FACS" ~ "FCNS",
-                                TRUE ~ Department))%>%
+                                Department == "NGOLD" ~ "NNGO",
+                                Department == "FLWC" ~ "FL",
+                                Department == "FNCS" ~ "FCNS",
+                                is.na(Department) ~ "NIU",
+                                TRUE ~ Department)) %>%
   select(-Degree2) %>%
   filter(Degree != "Other") %>%
   group_by(Department, Degree, Acadyr) %>%
@@ -42,15 +67,39 @@ working <- temp2 %>%
   ungroup() %>%
   pivot_wider(id_cols = c(Degree, Department), names_from = Acadyr, names_prefix = "X",
               values_from = "Count") %>%
-  full_join(., temp1, by = c("Degree", "Department" = "Dept")) %>%
+  full_join(., temp1a, by = c("Degree", "Department")) %>%
   arrange(Department, Degree) %>%
-  mutate(across(X2025:X2014, ~replace_na(.x, 0))) %>%
+  mutate(across(3:18, ~replace_na(.x, 0))) %>%
   pivot_longer(cols = starts_with("X"), names_to = "Acadyr", values_to = "Count") %>%
   mutate(year = as.numeric(substr(Acadyr, 2, 5)),
-         Degree = factor(Degree, levels = c("Bachelor", "Masters","Doctorate"))) %>%
+         Degree = factor(Degree, levels = c("Bachelor", "Masters","Doctorate")),
+         College = case_when(Department %in% cbus ~ "CBUS",
+                             Department %in% cedu ~ "CEDU",
+                             Department %in% ceet ~ "CEET",
+                             Department %in% chhs ~ "CHHS",
+                             Department %in% clas ~ "CLAS",
+                             Department %in% cvpa ~ "CVPA",
+                             Department %in% law ~ "LAW",
+                             TRUE ~ "NIUD")) %>%
   arrange(year)
 
-#Instructor Counts
+  #Get Totals from core data display
+    temp <- working %>%
+      filter(Department != "NIU") %>%
+      select(-c(Department, College)) %>%
+      group_by(Degree, Acadyr, year) %>%
+        mutate(Count = sum(Count)) %>%
+      ungroup() %>%
+      distinct() %>%
+      mutate(Department = "NIU",
+             College = "NIU") 
+    
+    working <- working %>%
+      filter(Department != "NIU") %>%
+      bind_rows(., temp)
+  
+
+#Instructor Counts ECON ONLY
 
   temp.ins <- core %>%
     select(-c(Catalog, enrollment, c.num, Semester)) %>%
@@ -107,6 +156,47 @@ workingd <- working %>%
 
 rm(temp1, core, temp.ins, temp.level, temp2, bach, doc, mast)
 load(file = "./Data/Majors.RData")
+
+
+#Visualizations
+
+temp <- working %>%
+  filter(Degree == "Bachelor",
+         Department == "NIU" | Department == "ECON") %>%
+  arrange(year) 
+
+temp2 <- temp %>%
+  filter(year == 2010) %>%
+  select(Department, Count) %>%
+  rename("base" = "Count")
+
+temp3 <- temp %>%
+  left_join(., temp2, by = c("Department")) %>%
+  mutate(Count = Count / base)
+
+ggplot(temp3) +
+  geom_line(aes(x = year, y = Count, group = Department, color = Department))
+
+
++
+  geom_line(aes(x = year, y = Count, group = Department, color = "ECON"), linewidth = 2,
+            data = filter(temp3, Department == "ECON")) 
+
+
+
++
+  annotate("label",
+           x = 2009,
+           y = temp3$Count,
+           label = temp3$Department,
+           hjust = 0.5,   # Center horizontally on the line
+           fill = "white", # Optional: adds a background color for the "textbox" effect
+           color = "black",
+  ) +
+  theme_bw()
+
+
+
 
 working <- working %>%
   left_join(., workingd, by = c("Acadyr" = "year", "DEGREE" = "Degree"))
