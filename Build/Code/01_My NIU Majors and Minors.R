@@ -72,7 +72,7 @@ terms <- unique(as.character(BS.data$Term))
   degrees <- c("BA" = "#FFC20A", "BS" = "#DC3220", "BSFE" = "#005AB5", "Minor" = "#40B0A6")
   
   #Total Students By Year
-  
+
     ggplot(core) +
       geom_bar(aes(x = Term, fill = Acad.Plan)) +
       scale_fill_manual(values = degrees) +
@@ -84,7 +84,10 @@ terms <- unique(as.character(BS.data$Term))
       theme(axis.text.x = element_text(angle = 90),
             legend.position = "bottom")
       
-    cut <- as.vector(tail(levels(core$Term), 10))
+    
+    
+    
+    cut <- as.vector(tail(levels(core$Term), 6))
     
     temp <- core %>%
       filter(Term %in% cut) %>%
@@ -97,13 +100,15 @@ terms <- unique(as.character(BS.data$Term))
       geom_bar(aes(x = Term, fill = Acad.Plan)) +
       scale_fill_manual(values = degrees) +
       geom_text(aes(y = spot, x = Term, label = n), color = "white") + 
-      labs(title = "Total Students by Academic Term and Degree: Last 5 Years",
+      labs(title = "Total Students by Academic Term and Degree: Last 3 Years",
            y = "Students",
            fill = "Degree",
            caption = "Based on data from MyNIU") +
       theme_bw() +
       theme(axis.text.x = element_text(angle = 90),
             legend.position = "bottom")
+    
+    ggsave(file = "./Graphics/Figure0101.png")
     
     # What Minor Options are Working
       options <- c("Option 1: Open" = "#DC3220", "Option 3: Math" = "#005AB5", "Option 2: Stat" = "#40B0A6")
@@ -142,14 +147,14 @@ terms <- unique(as.character(BS.data$Term))
           geom_bar(aes(x = Term, fill = Sub.Plan)) +
           scale_fill_manual(values = options) +
           geom_text(aes(y = spot, x = Term, label = n), color = "white") + 
-          labs(title = "Minors by Options: Last 5 Years",
+          labs(title = "Minors by Options: Last 3 Years",
                y = "Students",
                fill = "Option",
                caption = "Based on data from MyNIU") +
           theme_bw() +
           theme(axis.text.x = element_text(angle = 90),
                 legend.position = "bottom")
-    
+        ggsave(file = "./Graphics/Figure0102.png")
     # Where are Minors Coming From
         college <- c("BUS" = "#D81B60", "EDU" = "#FFC107", "EET" = "#004D40", "LAS" = "#1E88E5")
         
@@ -167,11 +172,12 @@ terms <- unique(as.character(BS.data$Term))
         ggplot(temp) +
           geom_bar(aes(x = Term, fill = Acad.Prog)) +
           scale_fill_manual(values = college) +
-          labs(title = "Home College of Minors: Last 5 Years",
+          labs(title = "Home College of Minors: Last 3 Years",
                y = "Students",
                fill = "Home College",
                caption = "Based on data from MyNIU") +
           theme_bw() +
           theme(axis.text.x = element_text(angle = 90),
                 legend.position = "bottom")
+        ggsave(file = "./Graphics/Figure0103.png")
         

@@ -1,5 +1,5 @@
-#This script deals with data recieved from NIU including information on the MA and
-#Ph.D. enrollments and degrees confirred from 2021 through 2024 for the IL
+#This script deals with data received from NIU including information on the MA and
+#Ph.D. enrollments and degrees conferred from 2021 through 2024 for the IL
 #universities.
 
 #Author: Jeremy R. Groves

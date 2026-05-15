@@ -10,7 +10,7 @@
 
 #Jeremy R. Groves
 #September 3, 2025
-#Updated April 14, 2026: Improved table code and updated with spring values.
+#Updated April 14, 2026: Improved table code and updated with spring values. Also moved graphs and tables to Analysis Code
 
 rm(list=ls())
 
@@ -23,19 +23,9 @@ library(flextable)
     data <- read.csv(file="./Data/MyNIU_Enrollment.csv", header = TRUE) 
   
   #Data from second query (Creates Student Database for all undergraduate classes)
-    file_list <- list.files(path = "./Data/myniu", 
-                            pattern = "\\.csv$", 
-                            full.names = TRUE)
-    STD <- file_list %>%
-      map_dfr(read_csv)
+    source("./Build/Code/02a_MyNIU_Enroll_In.R")
+    load("./Data/myniu/Grades.RData")
     
-    temp <- names(STD) %>%
-      str_replace(., " ", ".") %>%
-      str_replace(., "/", ".")
-    
-    names(STD) <- temp
-    rm(temp, file_list)
-
 # Clean Data
   # Clean the Course Data 
     
@@ -68,6 +58,8 @@ library(flextable)
            Grade = factor(Grade, levels = c("A", "A-", "B+", "B", "B-", "C+", "C", "D", "F"))) %>%
     rename("zID" = "Empl.ID")
   
+save(data, student.core, file = "./Data/MyNIU_class_grades.RData")
+
 # Evaluation of the Data
   # Table of Majors for Students
       all <- student.core %>%
@@ -94,16 +86,19 @@ library(flextable)
   # Grade Distribution
     grade <- student.core %>%
       select(Term, level, Grade)    %>%
-      filter(!is.na(Grade))
-      summarize(frequency = n(), .by = c(Grade, level, Term)) 
+      filter(!is.na(Grade)) %>%
+      summarize(frequency = n(), .by = c(Grade, level, Term)) %>%
+      group_by(Term, level) %>%
+        mutate(total = sum(frequency)) %>%
+      ungroup() %>%
+      mutate(share = frequency / total)
     
     
-    ggplot(grade) +
-      geom_bar(aes(x = Grade), fill = "red") +
-      facet_grid(~level) +
+    ggplot(grade, aes(x = Grade, y = share, fill = Term)) +
+      geom_bar(position = "dodge", stat = "identity") +
+      scale_y_continuous(breaks = seq(0, .6, by = .1)) +
+      facet_wrap(~level) +
       labs(title = "Grade Distribution by Course Level",
-           y = "Count") +
-      theme_bw()
- 
-  
-           
+           y = "Share") +
+      theme_minimal() 
+    
