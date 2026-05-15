@@ -1,0 +1,2914 @@
+﻿Department,Degree,Major and Degree,Fiscal Year,Count of Sheet1
+ACCY,BS,Accountancy (MULTBS),2025,1
+ACCY,BS,Accountancy (BS),2025,96
+ACCY,BS,Accountancy (BS),2024,104
+ACCY,BS,Accountancy (BS),2023,83
+ACCY,BS,Accountancy (MULTBS),2022,3
+ACCY,BS,Accountancy (BS),2022,119
+ACCY,BS,Accountancy (MULTBS),2021,4
+ACCY,BS,Accountancy (BS),2021,134
+ACCY,BS,Accountancy (MULTBS),2020,6
+ACCY,BS,Accountancy (BS),2020,155
+ACCY,BS,Accountancy (MULTBS),2019,3
+ACCY,BS,Accountancy (BS),2019,164
+ACCY,BS,Accountancy (MULTBS),2018,1
+ACCY,BS,Accountancy (BS),2018,214
+ACCY,BS,Accountancy (MULTBS),2017,1
+ACCY,BS,Accountancy (BS),2017,195
+ACCY,BS,Accountancy (BS),2016,153
+ACCY,BS,Accountancy (BS),2015,167
+ACCY,MAC,Accountancy (MAC),2025,20
+ACCY,MAC,Accountancy (MAC),2024,26
+ACCY,MAC,Accountancy (MAC),2023,15
+ACCY,MAC,Accountancy (MAC),2022,12
+ACCY,MAC,Accountancy (MAC),2021,18
+ACCY,MAC,Accountancy (MAC),2020,10
+ACCY,MAS,Accountancy (MAS),2025,35
+ACCY,MAS,Accountancy (MAS),2024,49
+ACCY,MAS,Accountancy (MAS),2023,55
+ACCY,MAS,Accountancy (MAS),2022,56
+ACCY,MAS,Accountancy (MAS),2021,80
+ACCY,MAS,Accountancy (MAS),2020,97
+ACCY,MAS,Accountancy (MAS),2019,110
+ACCY,MAS,Accountancy (MAS),2018,128
+ACCY,MAS,Accountancy (MAS),2017,116
+ACCY,MAS,Accountancy (MAS),2016,91
+ACCY,MAS,Accountancy (MAS),2015,104
+ACCY,MST,Taxation (MST),2022,4
+ACCY,MST,Taxation (MST),2021,11
+ACCY,MST,Taxation (MST),2020,14
+ACCY,MST,Taxation (MST),2019,17
+ACCY,MST,Taxation (MST),2018,10
+ACCY,MST,Taxation (MST),2017,24
+ACCY,MST,Taxation (MST),2016,30
+ACCY,MST,Taxation (MST),2015,19
+ACCY,MULTBS,Accountancy (MULTBS),2016,1
+AHP,AUD,Audiology (AUD),2025,6
+AHP,AUD,Audiology (AUD),2024,5
+AHP,AUD,Audiology (AUD),2023,6
+AHP,AUD,Audiology (AUD),2022,4
+AHP,AUD,Audiology (AUD),2021,7
+AHP,AUD,Audiology (AUD),2020,5
+AHP,AUD,Audiology (AUD),2019,8
+AHP,AUD,Audiology (AUD),2018,10
+AHP,AUD,Audiology (AUD),2017,8
+AHP,AUD,Audiology (AUD),2016,6
+AHP,AUD,Audiology (AUD),2015,7
+AHP,BS,Communicative Disorders (BS),2025,25
+AHP,BS,Communicative Disorders (BS),2024,27
+AHP,BS,Communicative Disorders (MULTBS),2023,1
+AHP,BS,Communicative Disorders (BS),2023,40
+AHP,BS,Communicative Disorders (BS),2022,47
+AHP,BS,Communicative Disorders (BS),2021,33
+AHP,BS,Communicative Disorders (BS),2020,34
+AHP,BS,Communicative Disorders (BS),2019,41
+AHP,BS,Rehabilitation and Disability Services (BS),2018,109
+AHP,BS,Health Sciences: General (BS),2018,1
+AHP,BS,Health Sciences: Degree Completion (BS),2018,3
+AHP,BS,Health Sciences - Pre-Physical Therapy (BS),2018,77
+AHP,BS,Communicative Disorders (BS),2018,46
+AHP,BS,Rehabilitation and Disability Services (BS),2017,111
+AHP,BS,Medical Laboratory Sciences (BS),2017,29
+AHP,BS,Health Sciences - Pre-Physical Therapy (BS),2017,68
+AHP,BS,Communicative Disorders (BS),2017,49
+AHP,BS,Rehabilitation and Disability Services (BS),2016,91
+AHP,BS,Medical Laboratory Sciences (BS),2016,27
+AHP,BS,Health Sciences (BS),2016,1
+AHP,BS,Health Sciences - Pre-Physical Therapy (BS),2016,95
+AHP,BS,Communicative Disorders (BS),2016,54
+AHP,BS,Rehabilitation and Disability Services (BS),2015,83
+AHP,BS,Medical Laboratory Sciences (BS),2015,27
+AHP,BS,Health Sciences - Pre-Physical Therapy (BS),2015,91
+AHP,BS,Communicative Disorders (BS),2015,60
+AHP,DPT,Physical Therapy (DPT),2025,28
+AHP,DPT,Physical Therapy (DPT),2024,24
+AHP,DPT,Physical Therapy (DPT),2023,32
+AHP,DPT,Physical Therapy (DPT),2022,33
+AHP,DPT,Physical Therapy (DPT),2021,24
+AHP,DPT,Physical Therapy (DPT),2020,33
+AHP,DPT,Physical Therapy (DPT),2019,30
+AHP,DPT,Physical Therapy (DPT),2018,33
+AHP,DPT,Physical Therapy (DPT),2017,32
+AHP,DPT,Physical Therapy (DPT),2016,35
+AHP,DPT,Physical Therapy (DPT),2015,37
+AHP,MA,Communicative Disorders - Speech-Language Pathology (MA),2025,21
+AHP,MA,Communicative Disorders - Speech-Language Pathology (MA),2024,23
+AHP,MA,Communicative Disorders - Speech-Language Pathology (MA),2023,15
+AHP,MA,Communicative Disorders - Speech-Language Pathology (MA),2022,20
+AHP,MA,Communicative Disorders - Speech-Language Pathology (MA),2021,20
+AHP,MA,Communicative Disorders - Speech-Language Pathology (MA),2020,22
+AHP,MA,Communicative Disorders - Speech-Language Pathology (MA),2019,23
+AHP,MA,Communicative Disorders - Audiology (MA),2019,1
+AHP,MA,Communicative Disorders - Speech-Language Pathology (MA),2018,25
+AHP,MA,Communicative Disorders - Rehabilitation Counseling (MA),2018,1
+AHP,MA,Communicative Disorders - Speech-Language Pathology (MA),2017,18
+AHP,MA,Communicative Disorders - Rehabilitation Counseling (MA),2017,1
+AHP,MA,Communicative Disorders - Speech-Language Pathology (MA),2016,15
+AHP,MA,Communicative Disorders - Rehabilitation Counseling (MA),2016,6
+AHP,MA,Communicative Disorders - Speech-Language Pathology (MA),2015,21
+AHP,MA,Communicative Disorders - Rehabilitation Counseling (MA),2015,7
+AHP,MS,Rehabilitation Counseling (MS),2019,1
+AHP,MS,Rehabilitation Counseling (MS),2018,18
+AHP,MS,Rehabilitation Counseling (MS),2017,1
+AHP,MULTBS,Communicative Disorders (MULTBS),2015,1
+ANTH,BA,Anthropology (BA),2025,6
+ANTH,BA,Anthropology (BA),2024,4
+ANTH,BA,Anthropology (BA),2023,6
+ANTH,BA,Anthropology (MULTBA),2022,1
+ANTH,BA,Anthropology (BA),2022,7
+ANTH,BA,Anthropology (MULTBA),2021,1
+ANTH,BA,Anthropology (BA),2021,7
+ANTH,BA,Anthropology (MULTBA),2020,1
+ANTH,BA,Anthropology (BA),2020,4
+ANTH,BA,Anthropology (BA),2019,12
+ANTH,BA,Anthropology (MULTBA),2018,1
+ANTH,BA,Anthropology (BA),2018,10
+ANTH,BA,Anthropology (BA),2017,13
+ANTH,BA,Anthropology (BA),2016,15
+ANTH,BA,Anthropology (BA),2015,14
+ANTH,BS,Anthropology (BS),2025,3
+ANTH,BS,Anthropology (BS),2024,1
+ANTH,BS,Anthropology (BS),2023,6
+ANTH,BS,Anthropology (BS),2021,3
+ANTH,BS,Anthropology (MULTBS),2020,1
+ANTH,BS,Anthropology (BS),2020,4
+ANTH,BS,Anthropology (MULTBS),2019,1
+ANTH,BS,Anthropology (BS),2019,1
+ANTH,BS,Anthropology (MULTBS),2018,1
+ANTH,BS,Anthropology (BS),2018,2
+ANTH,BS,Anthropology (BS),2017,5
+ANTH,BS,Anthropology (BS),2016,3
+ANTH,BS,Anthropology (BS),2015,4
+ANTH,MA,Anthropology (MA),2025,8
+ANTH,MA,Anthropology (MA),2024,6
+ANTH,MA,Anthropology (MA),2023,4
+ANTH,MA,Anthropology (MA),2022,4
+ANTH,MA,Anthropology (MA),2021,3
+ANTH,MA,Anthropology (MA),2020,3
+ANTH,MA,Anthropology (MA),2019,12
+ANTH,MA,Anthropology (MA),2018,5
+ANTH,MA,Anthropology (MA),2017,16
+ANTH,MA,Anthropology (MA),2016,9
+ANTH,MA,Anthropology (MA),2015,14
+ANTH,MULTBA,Anthropology (MULTBA),2016,2
+ART,BA,Art History and Visual Studies (BA),2025,1
+ART,BA,Art (BA),2025,1
+ART,BA,Art History and Visual Studies (BA),2024,2
+ART,BA,Art (BA),2024,5
+ART,BA,Art History and Visual Studies (BA),2023,1
+ART,BA,Art (BA),2023,4
+ART,BA,Art History and Visual Studies (BA),2022,4
+ART,BA,Art (MULTBA),2022,1
+ART,BA,Art (BA),2022,3
+ART,BA,Art History and Visual Studies (BA),2021,4
+ART,BA,Art (BA),2021,4
+ART,BA,Art History and Visual Studies (MULTBA),2020,1
+ART,BA,Art History and Visual Studies (BA),2020,5
+ART,BA,Art (MULTBA),2020,1
+ART,BA,Art (BA),2020,4
+ART,BA,Art History and Visual Studies (BA),2019,4
+ART,BA,Art (BA),2019,6
+ART,BA,Art History and Visual Studies (BA),2018,2
+ART,BA,Art (BA),2018,7
+ART,BA,Art History and Visual Studies (BA),2017,1
+ART,BA,Art (BA),2017,14
+ART,BA,Art History and Visual Studies (BA),2016,4
+ART,BA,Art (BA),2016,23
+ART,BA,Art History and Visual Studies (BA),2015,7
+ART,BA,Art (BA),2015,12
+ART,BFA,Art Studio and Design - Design and Media Arts (BFA),2025,23
+ART,BFA,Art Studio and Design - Art Studio (BFA),2025,26
+ART,BFA,Art Studio and Design - Design and Media Arts (BFA),2024,28
+ART,BFA,Art Studio and Design - Art Studio (BFA),2024,26
+ART,BFA,Art Studio and Design - Design and Media Arts (BFA),2023,30
+ART,BFA,Art Studio and Design - Art Studio (BFA),2023,16
+ART,BFA,Art Studio and Design- Design and Media Arts (BFA),2022,1
+ART,BFA,Art Studio and Design - Design and Media Arts (BFA),2022,36
+ART,BFA,Art Studio and Design - Art Studio (BFA),2022,30
+ART,BFA,Art Studio and Design - Design and Media Arts (BFA),2021,26
+ART,BFA,Art Studio and Design - Art Studio (BFA),2021,23
+ART,BFA,Art Studio and Design - Design and Media Arts (BFA),2020,25
+ART,BFA,Art Studio and Design - Art Studio (BFA),2020,22
+ART,BFA,2-D Studio (BFA),2020,1
+ART,BFA,Art Studio and Design- Design and Media Arts (BFA),2019,1
+ART,BFA,Art Studio and Design - Design and Media Arts (BFA),2019,25
+ART,BFA,Art Studio and Design - Art Studio (BFA),2019,18
+ART,BFA,3-D Studio (BFA),2019,1
+ART,BFA,2-D Studio (BFA),2019,5
+ART,BFA,Art Studio and Design - Design and Media Arts (BFA),2018,32
+ART,BFA,Art Studio and Design - Art Studio (BFA),2018,10
+ART,BFA,3-D Studio (BFA),2018,2
+ART,BFA,2-D Studio (BFA),2018,11
+ART,BFA,Art Studio and Design - Design and Media Arts (BFA),2017,28
+ART,BFA,Art Studio and Design - Art Studio (BFA),2017,3
+ART,BFA,3-D Studio (BFA),2017,3
+ART,BFA,2-D Studio (BFA),2017,23
+ART,BFA,Art Studio and Design- Design and Media Arts (BFA),2016,1
+ART,BFA,Art Studio and Design - Design and Media Arts (BFA),2016,40
+ART,BFA,3-D Studio (BFA),2016,7
+ART,BFA,2-D Studio (BFA),2016,34
+ART,BFA,Art Studio and Design - Design and Media Arts (BFA),2015,40
+ART,BFA,3-D Studio (BFA),2015,9
+ART,BFA,2-D Studio (BFA),2015,40
+ART,BS,Art (BS),2025,18
+ART,BS,Art (MULTBS),2024,1
+ART,BS,Art (BS),2024,16
+ART,BS,Art (BS),2023,18
+ART,BS,Art (MULTBS),2022,1
+ART,BS,Art (BS),2022,12
+ART,BS,Art (BS),2021,16
+ART,BS,Art (BS),2020,19
+ART,BS,Art (BS),2019,17
+ART,BS,Art (BS),2018,10
+ART,BS,Art (BS),2017,5
+ART,BSED,Art and Design Education (BSED),2025,13
+ART,BSED,Art and Design Education (BSED),2024,18
+ART,BSED,Art and Design Education (BSED),2023,13
+ART,BSED,Art and Design Education (BSED),2022,8
+ART,BSED,Art and Design Education (BSED),2021,13
+ART,BSED,Art and Design Education (BSED),2020,10
+ART,BSED,Art and Design Education (MULTBSED),2019,1
+ART,BSED,Art and Design Education (BSED),2019,9
+ART,BSED,Art and Design Education (BSED),2018,13
+ART,BSED,Art and Design Education (BSED),2017,12
+ART,BSED,Art and Design Education (BSED),2016,8
+ART,BSED,Art and Design Education (BSED),2015,14
+ART,MA,Art - Studio Art (MA),2025,3
+ART,MA,Art - Studio Art (MA),2024,2
+ART,MA,Art - Art History and Visual Studies Research (MA),2024,3
+ART,MA,Art History and Visual Studies Teaching at the Two-Year College Level (MA),2023,1
+ART,MA,Art - Art History and Visual Studies Research (MA),2023,1
+ART,MA,Art History and Visual Studies Teaching at the Two-Year College Level (MA),2022,1
+ART,MA,Art - Studio Art (MA),2022,2
+ART,MA,Art History and Visual Studies Teaching at the Two-Year College Level (MA),2021,1
+ART,MA,Art - Studio Art (MA),2021,1
+ART,MA,Art History and Visual Studies Teaching at the Two-Year College Level (MA),2020,1
+ART,MA,Art - Art History and Visual Studies Research (MA),2020,1
+ART,MA,Art - Studio Art (MA),2019,1
+ART,MA,Art - Art History and Visual Studies Research (MA),2019,1
+ART,MA,Art - Studio Art (MA),2018,2
+ART,MA,Art - Art History and Visual Studies Research (MA),2018,3
+ART,MA,Art - Art History and Visual Studies Research (MA),2017,1
+ART,MA,Art - Studio Art (MA),2016,2
+ART,MA,Art - Art History and Visual Studies Research (MA),2016,1
+ART,MA,Art - Studio Art (MA),2015,1
+ART,MA,Art - Art History and Visual Studies Research (MA),2015,7
+ART,MFA,Art and Design (MFA),2025,4
+ART,MFA,Art and Design (MFA),2024,7
+ART,MFA,Art and Design (MFA),2023,4
+ART,MFA,Art and Design (MFA),2022,8
+ART,MFA,Art and Design (MFA),2021,6
+ART,MFA,Art and Design (MFA),2020,7
+ART,MFA,Art and Design (MFA),2019,9
+ART,MFA,Art and Design (MFA),2018,13
+ART,MFA,Art and Design (MFA),2017,9
+ART,MFA,Art and Design (MFA),2016,11
+ART,MFA,Art and Design (MFA),2015,13
+ART,MS,Art: Art and Design Education (MS),2025,4
+ART,MS,Art: Art and Design Education (MS),2024,4
+ART,MS,Art: Art and Design Education (MS),2023,11
+ART,MS,Art: Art and Design Education (MS),2022,12
+ART,MS,Art: Art and Design Education (MS),2021,7
+ART,MS,Art: Art and Design Education (MS),2020,6
+ART,MS,Art: Art and Design Education (MS),2019,9
+ART,MS,Art: Art and Design Education (MS),2018,3
+ART,MS,Art: Art and Design Education (MS),2017,2
+ART,MS,Art: Art and Design Education (MS),2016,7
+ART,MS,Art: Art and Design Education (MS),2015,2
+ART,PHD,Art and Design Education (PHD),2025,2
+ART,PHD,Art and Design Education (PHD),2023,1
+ART,PHD,Art and Design Education (PHD),2020,1
+ART,PHD,Art and Design Education (PHD),2019,1
+ART,PHD,Art and Design Education (PHD),2018,4
+ART,PHD,Art and Design Education (PHD),2017,2
+ART,PHD,Art and Design Education (PHD),2015,2
+BIOS,BS,Biological Sciences (MULTBS),2025,1
+BIOS,BS,Biological Sciences (BS),2025,61
+BIOS,BS,Biological Sciences - Secondary Teaching (BS),2025,1
+BIOS,BS,Biological Sciences (MULTBS),2024,1
+BIOS,BS,Biological Sciences (BS),2024,64
+BIOS,BS,Biological Sciences (MULTBS),2023,1
+BIOS,BS,Biological Sciences (BS),2023,65
+BIOS,BS,Biological Sciences (MULTBS),2022,3
+BIOS,BS,Biological Sciences (BS),2022,77
+BIOS,BS,Biological Sciences (MULTSBS3),2021,1
+BIOS,BS,Biological Sciences (BS),2021,82
+BIOS,BS,Biological Sciences (MULTBS),2020,3
+BIOS,BS,Biological Sciences (BS),2020,113
+BIOS,BS,Biological Sciences (MULTBS),2019,4
+BIOS,BS,Biological Sciences (BS),2019,114
+BIOS,BS,Biological Sciences (MULTBS),2018,4
+BIOS,BS,Biological Sciences (BS),2018,105
+BIOS,BS,Biological Sciences (MULTBS),2017,1
+BIOS,BS,Biological Sciences (BS),2017,115
+BIOS,BS,Biological Sciences (BS),2016,114
+BIOS,BS,Biological Sciences (BS),2015,109
+BIOS,MS,Biological Sciences (MS),2025,4
+BIOS,MS,Biological Sciences - Human Anatomical Sciences (MS),2025,4
+BIOS,MS,Biological Sciences (MS),2024,5
+BIOS,MS,Biological Sciences - Human Anatomical Sciences (MS),2024,1
+BIOS,MS,Biological Sciences (MS),2023,12
+BIOS,MS,Biological Sciences - Human Anatomical Sciences (MS),2023,5
+BIOS,MS,Biological Sciences (MS),2022,6
+BIOS,MS,Biology Teaching (MS),2021,2
+BIOS,MS,Biological Sciences (MS),2021,5
+BIOS,MS,Biological Sciences - Bioinformatics (MS),2021,1
+BIOS,MS,Biological Sciences (MS),2020,10
+BIOS,MS,Biological Sciences - Human Anatomical Sciences (MS),2020,4
+BIOS,MS,Biological Sciences (MS),2019,8
+BIOS,MS,Biological Sciences - Human Anatomical Sciences (MS),2019,5
+BIOS,MS,Biological Sciences - Bioinformatics (MS),2019,2
+BIOS,MS,Biological Sciences (MS),2018,6
+BIOS,MS,Biological Sciences - Human Anatomical Sciences (MS),2018,4
+BIOS,MS,Biological Sciences - Bioinformatics (MS),2018,1
+BIOS,MS,Biology Teaching (MS),2017,1
+BIOS,MS,Biological Sciences (MS),2017,12
+BIOS,MS,Biological Sciences - Human Anatomical Sciences (MS),2017,6
+BIOS,MS,Biological Sciences (MS),2016,17
+BIOS,MS,Biological Sciences - Human Anatomical Sciences (MS),2016,4
+BIOS,MS,Biological Sciences (MS),2015,11
+BIOS,MS,Biological Sciences - Human Anatomical Sciences (MS),2015,3
+BIOS,MS,Biological Sciences - Bioinformatics (MS),2015,1
+BIOS,MULTBS,Biological Sciences (MULTBS),2015,6
+BIOS,PHD,Biological Sciences (PHD),2025,10
+BIOS,PHD,Biological Sciences (PHD),2024,4
+BIOS,PHD,Biological Sciences (PHD),2022,4
+BIOS,PHD,Biological Sciences (PHD),2021,1
+BIOS,PHD,Biological Sciences (PHD),2020,6
+BIOS,PHD,Biological Sciences (PHD),2019,6
+BIOS,PHD,Biological Sciences (PHD),2018,1
+BIOS,PHD,Biological Sciences (PHD),2017,8
+BIOS,PHD,Biological Sciences (PHD),2016,7
+BIOS,PHD,Biological Sciences (PHD),2015,5
+CAHE,EDD,Higher Education: Community College Leadership (EDD),2025,11
+CAHE,EDD,Higher Education: College Teaching (EDD),2025,2
+CAHE,EDD,Higher Education-Higher Education Administration (EDD),2025,10
+CAHE,EDD,Higher Education (EDD),2025,1
+CAHE,EDD,Higher Education: Community College Leadership (EDD),2024,10
+CAHE,EDD,Higher Education: College Teaching (EDD),2024,4
+CAHE,EDD,Higher Education-Higher Education Administration (EDD),2024,10
+CAHE,EDD,Higher Education (EDD),2024,2
+CAHE,EDD,Higher Education: Community College Leadership (EDD),2023,8
+CAHE,EDD,Higher Education (EDD),2023,13
+CAHE,EDD,Higher Education: Community College Leadership (EDD),2022,13
+CAHE,EDD,Higher Education: College Teaching (EDD),2022,1
+CAHE,EDD,Higher Education (EDD),2022,17
+CAHE,EDD,Higher Education: Community College Leadership (EDD),2021,8
+CAHE,EDD,Higher Education (EDD),2021,18
+CAHE,EDD,Higher Education: Community College Leadership (EDD),2020,12
+CAHE,EDD,Higher Education (EDD),2020,7
+CAHE,EDD,Higher Education (EDD),2019,9
+CAHE,EDD,Higher Education (EDD),2018,11
+CAHE,EDD,Higher Education (EDD),2017,13
+CAHE,EDD,Higher Education (EDD),2016,19
+CAHE,EDD,Counselor Education and Supervision (EDD),2016,3
+CAHE,EDD,Adult Continuing (EDD),2016,1
+CAHE,EDD,Higher Education (EDD),2015,8
+CAHE,EDD,Counselor Education and Supervision (EDD),2015,4
+CAHE,MSED,School Counseling (MSED),2025,8
+CAHE,MSED,Higher Education and Student Affairs (MSED),2025,24
+CAHE,MSED,Clinical Mental Health Counseling (MSED),2025,10
+CAHE,MSED,School Counseling (MSED),2024,9
+CAHE,MSED,Higher Education and Student Affairs (MSED),2024,12
+CAHE,MSED,Clinical Mental Health Counseling (MSED),2024,14
+CAHE,MSED,School Counseling (MSED),2023,10
+CAHE,MSED,Higher Education and Student Affairs (MSED),2023,22
+CAHE,MSED,Clinical Mental Health Counseling (MSED),2023,13
+CAHE,MSED,School Counseling (MSED),2022,17
+CAHE,MSED,Higher Education and Student Affairs (MSED),2022,18
+CAHE,MSED,Clinical Mental Health Counseling (MSED),2022,26
+CAHE,MSED,School Counseling (MSED),2021,14
+CAHE,MSED,Higher Education and Student Affairs (MSED),2021,26
+CAHE,MSED,Higher Education & Student Affairs: Specialization in Higher Education (MSED),2021,1
+CAHE,MSED,Counseling (MSED),2021,1
+CAHE,MSED,Clinical Mental Health Counseling (MSED),2021,17
+CAHE,MSED,School Counseling (MSED),2020,12
+CAHE,MSED,Higher Education and Student Affairs (MSED),2020,14
+CAHE,MSED,Higher Education & Student Affairs: Specialization in Higher Education (MSED),2020,5
+CAHE,MSED,Clinical Mental Health Counseling (MSED),2020,21
+CAHE,MSED,School Counseling (MSED),2019,10
+CAHE,MSED,Higher Education & Student Affairs: Specialization in Higher Education (MSED),2019,25
+CAHE,MSED,Counseling (MSED),2019,12
+CAHE,MSED,Clinical Mental Health Counseling (MSED),2019,18
+CAHE,MSED,Adult and Higher Education (MSED),2019,1
+CAHE,MSED,Higher Education & Student Affairs: Specialization in Higher Education (MSED),2018,16
+CAHE,MSED,Counseling (MSED),2018,35
+CAHE,MSED,Adult and Higher Education (MSED),2018,7
+CAHE,MSED,Higher Education & Student Affairs: Specialization in Higher Education (MSED),2017,1
+CAHE,MSED,Counseling (MSED),2017,38
+CAHE,MSED,Adult and Higher Education (MSED),2017,28
+CAHE,MSED,Counseling (MSED),2016,39
+CAHE,MSED,Adult and Higher Education (MSED),2016,27
+CAHE,MSED,Counseling (MSED),2015,46
+CAHE,MSED,Adult and Higher Education (MSED),2015,33
+CAHE,PHD,Counselor Education and Supervision (PHD),2025,2
+CAHE,PHD,Counselor Education and Supervision (PHD),2024,2
+CAHE,PHD,Counselor Education and Supervision (PHD),2023,10
+CAHE,PHD,Counselor Education and Supervision (PHD),2022,7
+CAHE,PHD,Counselor Education and Supervision (PHD),2021,6
+CAHE,PHD,Counselor Education and Supervision (PHD),2020,4
+CAHE,PHD,Counselor Education and Supervision (PHD),2019,4
+CAHE,PHD,Counselor Education and Supervision (PHD),2018,8
+CAHE,PHD,Counselor Education and Supervision (PHD),2017,3
+CAHE,PHD,Counselor Education and Supervision (PHD),2016,1
+CBUS,BS,Business Administration (MULTBS),2019,1
+CBUS,MBA,Business Administration MBA (MBA),2025,130
+CBUS,MBA,Business Administration MBA (MBA),2024,155
+CBUS,MBA,Business Administration MBA (MBA),2023,122
+CBUS,MBA,Business Administration MBA (MBA),2022,198
+CBUS,MBA,Business Administration MBA (MBA),2021,120
+CBUS,MBA,Business Administration MBA (MBA),2015,169
+CBUS,MULTBS,Business Administration (MULTBS),2015,1
+CEDU,BGS,Education - General Studies-Contract (BGS),2021,1
+CEDU,BGS,Education - General Studies-Contract (BGS),2020,1
+CEDU,BGS,Education - General Studies-Contract (BGS),2019,1
+CEDU,BGS,Education - General Studies-Contract (BGS),2018,3
+CEDU,BGS,Education - General Studies-Contract (BGS),2017,5
+CEDU,BGS,Education - General Studies-Contract (BGS),2016,3
+CEDU,BGS,Education - General Studies-Contract (BGS),2015,6
+CEDU,BS,"Applied Management-Instructional Technology, Training, and Evaluation (BS)",2025,8
+CEDU,BS,Applied Management-Equity Leadership and Mentoring (BS),2025,3
+CEDU,BS,"Applied Management-Instructional Technology, Training, and Evaluation (BS)",2024,10
+CEDU,BS,"Applied Management-Instructional Technology, Training, and Evaluation (BS)",2023,11
+CEDU,BS,Education - Contract (BS),2020,2
+CEDU,BS,Education - Contract (BS),2019,3
+CEET,BS,Mechatronics Engineering (BS),2025,18
+CEET,BS,Biomedical Engineering (BS),2025,11
+CEET,BS,Mechatronics Engineering (BS),2024,16
+CEET,BS,Biomedical Engineering (BS),2024,16
+CEET,BS,Mechatronics Engineering (BS),2023,8
+CEET,BS,Biomedical Engineering (BS),2023,14
+CEET,BS,Mechatronics Engineering (BS),2022,12
+CEET,BS,Biomedical Engineering (BS),2022,5
+CEET,BS,Biomedical Engineering (BS),2021,8
+CEET,BS,Contract (BS),2018,1
+CHEM,BS,Chemistry-Biochemistry (BS),2025,9
+CHEM,BS,Chemistry (BS),2025,7
+CHEM,BS,Chemistry - Chemistry for Preprofessional (BS),2025,9
+CHEM,BS,Chemistry-Secondary Teaching (BS),2024,3
+CHEM,BS,Chemistry-Biochemistry (BS),2024,12
+CHEM,BS,Chemistry (BS),2024,5
+CHEM,BS,Chemistry - Chemistry for Preprofessional (BS),2024,3
+CHEM,BS,Chemistry-Biochemistry (BS),2023,7
+CHEM,BS,Chemistry (BS),2023,6
+CHEM,BS,Chemistry - Chemistry for Preprofessional (BS),2023,5
+CHEM,BS,Chemistry-Secondary Teaching (BS),2022,2
+CHEM,BS,Chemistry-Biochemistry (BS),2022,11
+CHEM,BS,Chemistry (BS),2022,7
+CHEM,BS,Chemistry - Chemistry for Preprofessional (BS),2022,10
+CHEM,BS,Chemistry-Secondary Teaching (BS),2021,1
+CHEM,BS,Chemistry-Biochemistry (BS),2021,23
+CHEM,BS,Chemistry (BS),2021,5
+CHEM,BS,Chemistry - Chemistry for Preprofessional (BS),2021,9
+CHEM,BS,Chemistry-Biochemistry (BS),2020,5
+CHEM,BS,Chemistry (BS),2020,10
+CHEM,BS,Chemistry - Chemistry for Preprofessional (BS),2020,12
+CHEM,BS,Chemistry-Secondary Teaching (BS),2019,1
+CHEM,BS,Chemistry-Biochemistry (BS),2019,16
+CHEM,BS,Chemistry (BS),2019,16
+CHEM,BS,Chemistry - Chemistry for Preprofessional (BS),2019,11
+CHEM,BS,Chemistry-Secondary Teaching (BS),2018,1
+CHEM,BS,Chemistry-Biochemistry (BS),2018,16
+CHEM,BS,Chemistry (BS),2018,13
+CHEM,BS,Chemistry - Chemistry for Preprofessional (BS),2018,5
+CHEM,BS,Chemistry-Secondary Teaching (BS),2017,3
+CHEM,BS,Chemistry-Biochemistry (BS),2017,14
+CHEM,BS,Chemistry (BS),2017,16
+CHEM,BS,Chemistry - Chemistry for Preprofessional (BS),2017,7
+CHEM,BS,Chemistry-Biochemistry (BS),2016,10
+CHEM,BS,Chemistry (BS),2016,15
+CHEM,BS,Chemistry - Chemistry for Preprofessional (BS),2016,9
+CHEM,BS,Chemistry-Secondary Teaching (BS),2015,1
+CHEM,BS,Chemistry-Biochemistry (BS),2015,5
+CHEM,BS,Chemistry (BS),2015,11
+CHEM,BS,Chemistry - Chemistry for Preprofessional (BS),2015,5
+CHEM,MS,Chemistry (MS),2025,4
+CHEM,MS,Chemistry (MS),2024,4
+CHEM,MS,Chemistry (MS),2023,6
+CHEM,MS,Chemistry (MS),2022,2
+CHEM,MS,Chemistry (MS),2021,3
+CHEM,MS,Chemistry (MS),2020,4
+CHEM,MS,Chemistry (MS),2019,3
+CHEM,MS,Chemistry (MS),2018,4
+CHEM,MS,Chemistry (MS),2017,6
+CHEM,MS,Chemistry (MS),2016,3
+CHEM,MS,Chemistry (MS),2015,4
+CHEM,PHD,Chemistry (PHD),2025,6
+CHEM,PHD,Chemistry (PHD),2024,13
+CHEM,PHD,Chemistry (PHD),2023,5
+CHEM,PHD,Chemistry (PHD),2022,5
+CHEM,PHD,Chemistry (PHD),2021,3
+CHEM,PHD,Chemistry (PHD),2020,5
+CHEM,PHD,Chemistry (PHD),2019,9
+CHEM,PHD,Chemistry - Nanoscience (PHD),2019,1
+CHEM,PHD,Chemistry (PHD),2018,5
+CHEM,PHD,Chemistry (PHD),2017,7
+CHEM,PHD,Chemistry (PHD),2016,6
+CHEM,PHD,Chemistry (PHD),2015,9
+CHHS,BGS,Health & Human Sciences - General Studies (BGS),2020,1
+CHHS,BGS,Health & Human Sciences - General Studies (BGS),2019,1
+CHHS,BGS,Health & Human Sciences - General Studies (BGS),2018,7
+CHHS,BGS,Health & Human Sciences - General Studies (BGS),2017,15
+CHHS,BGS,Health & Human Sciences - General Studies (BGS),2016,6
+CHHS,BGS,Health & Human Sciences - General Studies (BGS),2015,13
+CHHS,BS,Contract (BS),2025,1
+CHHS,BS,Contract (BS),2020,1
+CHHS,BS,Contract (BS),2017,1
+CHHS,BS,Contract (BS),2016,2
+CHHS,BS,Contract (BS),2015,4
+CHHS,PHD,Health Sciences (PHD),2025,8
+CHHS,PHD,Health Sciences (PHD),2024,12
+CHHS,PHD,Health Sciences (PHD),2023,10
+CHHS,PHD,Health Sciences (PHD),2022,6
+CHHS,PHD,Health Sciences (PHD),2021,2
+CHHS,PHD,Health Sciences (PHD),2020,8
+CHHS,PHD,Health Sciences (PHD),2019,4
+CLAS,BA,Contract (BA),2022,1
+CLAS,BA,Contract (BA),2021,2
+CLAS,BA,Contract (BA),2020,1
+CLAS,BA,Contract (BA),2016,1
+CLAS,BA,Contract (BA),2015,1
+CLAS,BGS,General Emphasis (BGS),2025,88
+CLAS,BGS,General Emphasis (BGS),2024,92
+CLAS,BGS,General Emphasis (BGS),2023,95
+CLAS,BGS,General Emphasis (BGS),2022,68
+CLAS,BGS,General Emphasis (BGS),2021,83
+CLAS,BGS,General Emphasis (BGS),2020,52
+CLAS,BGS,General Emphasis (BGS),2019,68
+CLAS,BGS,General Emphasis (BGS),2018,63
+CLAS,BGS,General Emphasis (BGS),2017,86
+CLAS,BGS,General Emphasis (BGS),2016,70
+CLAS,BGS,General Emphasis (BGS),2015,82
+CLAS,BS,Contract (BS),2024,1
+CLAS,BS,Contract (BS),2023,1
+CLAS,BS,Contract (BS),2017,1
+CLAS,BS,Contract (BS),2016,1
+COMS,BA,Journalism (MULTBA),2025,1
+COMS,BA,Journalism (BA),2025,7
+COMS,BA,Communication - Organizational - Corporate (BA),2025,27
+COMS,BA,Communication - Media Studies (BA),2025,24
+COMS,BA,Advocacy and Public Communication (BA),2025,14
+COMS,BA,Journalism (BA),2024,9
+COMS,BA,Communication - Organizational - Corporate (BA),2024,21
+COMS,BA,Communication - Media Studies (BA),2024,19
+COMS,BA,Advocacy and Public Communication (BA),2024,10
+COMS,BA,Journalism (BA),2023,11
+COMS,BA,Communication - Organizational - Corporate (BA),2023,34
+COMS,BA,Communication - Media Studies (BA),2023,27
+COMS,BA,Advocacy and Public Communication (BA),2023,14
+COMS,BA,Journalism (BA),2022,17
+COMS,BA,Communication - Organizational - Corporate (BA),2022,36
+COMS,BA,Communication - Media Studies (BA),2022,39
+COMS,BA,Advocacy and Public Communication (BA),2022,14
+COMS,BA,Journalism (BA),2021,13
+COMS,BA,Communication - Organizational - Corporate (BA),2021,55
+COMS,BA,Communication - Media Studies (BA),2021,37
+COMS,BA,Advocacy and Public Communication (BA),2021,22
+COMS,BA,Journalism (BA),2020,23
+COMS,BA,Communication - Organizational - Corporate (BA),2020,62
+COMS,BA,Communication - Media Studies (BA),2020,45
+COMS,BA,Advocacy and Public Communication (BA),2020,24
+COMS,BA,Journalism (BA),2019,23
+COMS,BA,Communication - Organizational - Corporate (BA),2019,92
+COMS,BA,Communication - Media Studies (BA),2019,47
+COMS,BA,Advocacy and Public Communication (BA),2019,19
+COMS,BA,Journalism (MULTBA),2018,1
+COMS,BA,Journalism (BA),2018,34
+COMS,BA,Communication - Organizational - Corporate (BA),2018,90
+COMS,BA,Communication - Media Studies (BA),2018,39
+COMS,BA,Advocacy and Public Communication (BA),2018,15
+COMS,BA,Journalism (BA),2017,27
+COMS,BA,Communication - Organizational - Corporate (MULTBA),2017,1
+COMS,BA,Communication - Organizational - Corporate (BA),2017,113
+COMS,BA,Communication - Media Studies (BA),2017,57
+COMS,BA,Advocacy and Public Communication (BA),2017,23
+COMS,BA,Journalism (BA),2016,35
+COMS,BA,Communication - Organizational - Corporate (BA),2016,108
+COMS,BA,Communication - Media Studies (BA),2016,64
+COMS,BA,Advocacy and Public Communication (BA),2016,8
+COMS,BA,Journalism (BA),2015,24
+COMS,BA,Communication - Organizational - Corporate (BA),2015,103
+COMS,BA,Communication - Media Studies (BA),2015,53
+COMS,BA,Advocacy and Public Communication (BA),2015,10
+COMS,BS,Journalism (BS),2025,2
+COMS,BS,Communication - Organizational - Corporate (BS),2025,12
+COMS,BS,Communication - Media Studies (BS),2025,7
+COMS,BS,Advocacy and Public Communication (BS),2025,6
+COMS,BS,Journalism (BS),2024,4
+COMS,BS,Communication - Organizational - Corporate (BS),2024,6
+COMS,BS,Communication - Media Studies (BS),2024,6
+COMS,BS,Journalism (BS),2023,4
+COMS,BS,Communication - Organizational - Corporate (BS),2023,8
+COMS,BS,Communication - Media Studies (BS),2023,7
+COMS,BS,Advocacy and Public Communication (BS),2023,5
+COMS,BS,Journalism (BS),2022,2
+COMS,BS,Communication - Organizational - Corporate (BS),2022,17
+COMS,BS,Communication - Media Studies (BS),2022,7
+COMS,BS,Advocacy and Public Communication (BS),2022,1
+COMS,BS,Journalism (BS),2021,4
+COMS,BS,Communication - Organizational - Corporate (BS),2021,29
+COMS,BS,Communication - Media Studies (BS),2021,12
+COMS,BS,Advocacy and Public Communication (BS),2021,5
+COMS,BS,Journalism (BS),2020,5
+COMS,BS,Communication - Organizational - Corporate (BS),2020,24
+COMS,BS,Communication - Media Studies (BS),2020,7
+COMS,BS,Advocacy and Public Communication (BS),2020,2
+COMS,BS,Journalism (BS),2019,3
+COMS,BS,Communication - Organizational - Corporate (BS),2019,17
+COMS,BS,Communication - Media Studies (BS),2019,12
+COMS,BS,Advocacy and Public Communication (BS),2019,5
+COMS,BS,Journalism (BS),2018,4
+COMS,BS,Communication - Organizational - Corporate (BS),2018,38
+COMS,BS,Communication - Media Studies (BS),2018,14
+COMS,BS,Advocacy and Public Communication (BS),2018,6
+COMS,BS,Journalism (BS),2017,4
+COMS,BS,Communication - Organizational - Corporate (BS),2017,35
+COMS,BS,Communication - Media Studies (BS),2017,7
+COMS,BS,Advocacy and Public Communication (BS),2017,1
+COMS,BS,Journalism (BS),2016,3
+COMS,BS,Communication - Organizational - Corporate (BS),2016,44
+COMS,BS,Communication - Media Studies (BS),2016,11
+COMS,BS,Advocacy and Public Communication (BS),2016,2
+COMS,BS,Journalism (BS),2015,7
+COMS,BS,Communication - Organizational - Corporate (BS),2015,56
+COMS,BS,Communication - Media Studies (BS),2015,12
+COMS,BS,Advocacy and Public Communication (BS),2015,4
+COMS,MA,Communication Studies (MA),2025,9
+COMS,MA,Communication Studies (MA),2024,11
+COMS,MA,Communication Studies (MA),2023,8
+COMS,MA,Communication Studies (MA),2022,4
+COMS,MA,Communication Studies (MA),2021,14
+COMS,MA,Communication Studies (MA),2020,8
+COMS,MA,Communication Studies (MA),2019,9
+COMS,MA,Communication Studies (MA),2018,9
+COMS,MA,Communication Studies (MA),2017,14
+COMS,MA,Communication Studies (MA),2016,14
+COMS,MA,Communication Studies (MA),2015,17
+COMS,MULTBA,Communication - Organizational - Corporate (MULTBA),2016,1
+COMS,MULTBA,Journalism (MULTBA),2015,1
+COMS,MULTSBA3,Rhetoric and Public Communication (MULTSBA3),2018,1
+CSCI,BS,Computer Science: Software Development (MULTBS),2025,1
+CSCI,BS,Computer Science - Software Development (BS),2025,106
+CSCI,BS,Computer Science - Enterprise Software (BS),2025,16
+CSCI,BS,Computer Science - Computational Software (BS),2025,16
+CSCI,BS,Computer Science: Software Development (MULTBS),2024,1
+CSCI,BS,Computer Science - Software Development (BS),2024,98
+CSCI,BS,Computer Science - Enterprise Software (BS),2024,13
+CSCI,BS,Computer Science - Computational Software (BS),2024,10
+CSCI,BS,Computer Science - Software Development (BS),2023,84
+CSCI,BS,Computer Science - Enterprise Software (BS),2023,15
+CSCI,BS,Computer Science - Computational Software (MULTBS),2023,1
+CSCI,BS,Computer Science - Computational Software (BS),2023,10
+CSCI,BS,Computer Science: Software Development (MULTBS),2022,1
+CSCI,BS,Computer Science - Software Development (BS),2022,97
+CSCI,BS,Computer Science - Enterprise Software (BS),2022,24
+CSCI,BS,Computer Science - Computational Software (BS),2022,10
+CSCI,BS,Computer Science: Software Development (MULTBS),2021,2
+CSCI,BS,Computer Science - Software Development (BS),2021,98
+CSCI,BS,Computer Science - Enterprise Software (BS),2021,15
+CSCI,BS,Computer Science - Computational Software (MULTBS),2021,1
+CSCI,BS,Computer Science - Computational Software (BS),2021,12
+CSCI,BS,Computer Science: Software Development (MULTBS),2020,1
+CSCI,BS,Computer Science - Software Development (BS),2020,102
+CSCI,BS,Computer Science - Enterprise Software (BS),2020,19
+CSCI,BS,Computer Science - Computational Software (MULTBS),2020,1
+CSCI,BS,Computer Science - Computational Software (BS),2020,11
+CSCI,BS,Computer Science - Software Development (BS),2019,103
+CSCI,BS,Computer Science - Enterprise Software (BS),2019,25
+CSCI,BS,Computer Science - Computational Software (MULTBS),2019,1
+CSCI,BS,Computer Science - Computational Software (BS),2019,21
+CSCI,BS,Computer Science - Software Development (BS),2018,86
+CSCI,BS,Computer Science - Enterprise Software (BS),2018,34
+CSCI,BS,Computer Science - Computational Software (BS),2018,13
+CSCI,BS,Computer Science - Software Development (BS),2017,69
+CSCI,BS,Computer Science - Enterprise Software (BS),2017,30
+CSCI,BS,Computer Science - Computational Software (BS),2017,15
+CSCI,BS,Computer Science - Software Development (BS),2016,61
+CSCI,BS,Computer Science - Enterprise Software (BS),2016,35
+CSCI,BS,Computer Science - Computational Software (BS),2016,8
+CSCI,BS,Computer Science - Software Development (BS),2015,44
+CSCI,BS,Computer Science - Enterprise Software (BS),2015,27
+CSCI,BS,Computer Science - Computational Software (BS),2015,8
+CSCI,BS,Applied Management-Computer Science (BS),2015,1
+CSCI,MS,Computer Science (MS),2025,74
+CSCI,MS,Computer Science (MS),2024,110
+CSCI,MS,Computer Science (MS),2023,60
+CSCI,MS,Computer Science (MS),2022,37
+CSCI,MS,Computer Science (MS),2021,42
+CSCI,MS,Computer Science (MS),2020,65
+CSCI,MS,Computer Science (MS),2019,72
+CSCI,MS,Computer Science (MS),2018,101
+CSCI,MS,Computer Science (MS),2017,102
+CSCI,MS,Computer Science (MS),2016,144
+CSCI,MS,Computer Science (MS),2015,124
+CSCI,MULTBS,Computer Science - Computational Software (MULTBS),2015,1
+CSCI,PHD,Computer Science (PHD),2025,1
+CSCI,PHD,Computer Science (PHD),2024,1
+CVPA,BA,Contract (BA),2023,1
+CVPA,BA,Contract (BA),2022,6
+CVPA,BA,Contract (BA),2021,2
+CVPA,BA,Contract (BA),2020,3
+CVPA,BA,Contract (BA),2019,2
+CVPA,BA,Contract (BA),2018,4
+CVPA,BA,Contract (BA),2017,1
+CVPA,BA,Contract (BA),2016,2
+CVPA,BA,Contract (BA),2015,3
+CVPA,BGS,General Studies - Contract (BGS),2017,2
+CVPA,BGS,General Studies - Contract (BGS),2016,1
+CVPA,BGS,General Studies - Contract (BGS),2015,1
+EAE,BS,Meteorology (BS),2025,15
+EAE,BS,Geology - Geology (BS),2025,11
+EAE,BS,Geology - Environmental Geosciences (BS),2025,2
+EAE,BS,Geography (BS),2025,3
+EAE,BS,"Earth, Atmosphere and Environment - Geospatial Systems (BS)",2025,3
+EAE,BS,"Earth, Atmosphere and Environment - Earth and Planetary Science (BS)",2025,6
+EAE,BS,Meteorology (BS),2024,11
+EAE,BS,Geology - Geology (BS),2024,7
+EAE,BS,Geology - Environmental Geosciences (BS),2024,1
+EAE,BS,Geography (BS),2024,11
+EAE,BS,"Earth, Atmosphere and Environment - Water and Soil Science (BS)",2024,1
+EAE,BS,Meteorology (BS),2023,11
+EAE,BS,Geology - Geology (BS),2023,6
+EAE,BS,Geology - Environmental Geosciences (BS),2023,3
+EAE,BS,Geography-Geomatics (BS),2023,1
+EAE,BS,Geography (MULTBS),2023,1
+EAE,BS,Geography (BS),2023,12
+EAE,MS,Geology (MS),2025,2
+EAE,MS,"Earth, Atmosphere and Environment (MS)",2025,4
+EAE,MS,Geology (MS),2024,2
+EAE,MS,Geography (MS),2024,4
+EAE,MS,"Earth, Atmosphere and Environment (MS)",2024,1
+EAE,MS,Geology (MS),2023,8
+EAE,MS,Geography (MS),2023,3
+EAE,PHD,Geology (PHD),2025,2
+EAE,PHD,Geography (PHD),2025,1
+EAE,PHD,"Earth, Atmosphere and Environment (PHD)",2025,1
+EAE,PHD,Geology (PHD),2024,2
+EAE,PHD,Geography (PHD),2024,3
+ECON,BA,Economics (BA),2025,10
+ECON,BA,Economics (BA),2024,2
+ECON,BA,Economics (BA),2023,3
+ECON,BA,Economics (BA),2022,9
+ECON,BA,Economics (MULTBA),2021,1
+ECON,BA,Economics (BA),2021,5
+ECON,BA,Economics (BA),2020,10
+ECON,BA,Economics (MULTBA),2019,1
+ECON,BA,Economics (BA),2019,9
+ECON,BA,Economics (MULTBA),2018,1
+ECON,BA,Economics (BA),2018,10
+ECON,BA,Economics (MULTBA),2017,1
+ECON,BA,Economics (BA),2017,11
+ECON,BA,Economics (BA),2016,11
+ECON,BA,Economics (BA),2015,13
+ECON,BS,Economics: Financial Economics (BS),2025,3
+ECON,BS,Economics (BS),2025,9
+ECON,BS,Economics: Financial Economics (BS),2024,1
+ECON,BS,Economics (BS),2024,16
+ECON,BS,Economics (BS),2023,13
+ECON,BS,Economics: Financial Economics (BS),2022,1
+ECON,BS,Economics (MULTBS),2022,1
+ECON,BS,Economics (BS),2022,17
+ECON,BS,Economics: Financial Economics (MULTBS),2021,1
+ECON,BS,Economics (BS),2021,12
+ECON,BS,Economics (BS),2020,14
+ECON,BS,Economics: Financial Economics (BS),2019,1
+ECON,BS,Economics (BS),2019,25
+ECON,BS,Economics (MULTBS),2018,2
+ECON,BS,Economics (BS),2018,32
+ECON,BS,Economics (MULTBS),2017,2
+ECON,BS,Economics (BS),2017,38
+ECON,BS,Economics (BS),2016,51
+ECON,BS,Economics (BS),2015,56
+ECON,MA,Economics (MA),2025,2
+ECON,MA,Economics (MA),2024,5
+ECON,MA,Economics (MA),2023,2
+ECON,MA,Economics (MA),2022,4
+ECON,MA,Economics (MA),2021,3
+ECON,MA,Economics (MA),2020,4
+ECON,MA,Economics (MA),2019,8
+ECON,MA,Economics (MA),2018,5
+ECON,MA,Economics (MA),2017,3
+ECON,MA,Economics (MA),2016,5
+ECON,MA,Economics (MA),2015,4
+ECON,MULTBA,Economics (MULTBA),2016,1
+ECON,MULTBS,Economics (MULTBS),2016,3
+ECON,PHD,Economics (PHD),2025,3
+ECON,PHD,Economics (PHD),2024,2
+ECON,PHD,Economics (PHD),2023,1
+ECON,PHD,Economics (PHD),2022,3
+ECON,PHD,Economics (PHD),2021,5
+ECON,PHD,Economics (PHD),2020,2
+ECON,PHD,Economics (PHD),2019,5
+ECON,PHD,Economics (PHD),2018,5
+ECON,PHD,Economics (PHD),2017,4
+ECON,PHD,Economics (PHD),2016,4
+ECON,PHD,Economics (PHD),2015,4
+ELE,BS,Electrical Engineering (BS),2025,42
+ELE,BS,Electrical Engineering (BS),2024,41
+ELE,BS,Electrical Engineering: Biomedical Engineering (BS),2023,1
+ELE,BS,Electrical Engineering (MULTBS),2023,1
+ELE,BS,Electrical Engineering (BS),2023,40
+ELE,BS,Electrical Engineering: Biomedical Engineering (BS),2022,2
+ELE,BS,Electrical Engineering (BS),2022,35
+ELE,BS,Electrical Engineering: Biomedical Engineering (BS),2021,5
+ELE,BS,Electrical Engineering (BS),2021,61
+ELE,BS,Electrical Engineering: Biomedical Engineering (BS),2020,9
+ELE,BS,Electrical Engineering (BS),2020,81
+ELE,BS,Biomedical Engineering (BS),2020,2
+ELE,BS,Electrical Engineering: Biomedical Engineering (BS),2019,20
+ELE,BS,Electrical Engineering (MULTBS),2019,1
+ELE,BS,Electrical Engineering (BS),2019,61
+ELE,BS,Electrical Engineering: Biomedical Engineering (BS),2018,10
+ELE,BS,Electrical Engineering (BS),2018,65
+ELE,BS,Electrical Engineering: Biomedical Engineering (BS),2017,13
+ELE,BS,Electrical Engineering (BS),2017,51
+ELE,BS,Electrical Engineering: Biomedical Engineering (BS),2016,9
+ELE,BS,Electrical Engineering (BS),2016,61
+ELE,BS,Electrical Engineering: Biomedical Engineering (BS),2015,7
+ELE,BS,Electrical Engineering (BS),2015,38
+ELE,MS,Electrical Engineering (MS),2025,8
+ELE,MS,Electrical Engineering (MS),2024,43
+ELE,MS,Electrical Engineering (MS),2023,8
+ELE,MS,Electrical Engineering (MS),2022,15
+ELE,MS,Electrical Engineering (MS),2021,19
+ELE,MS,Electrical Engineering (MS),2020,14
+ELE,MS,Electrical Engineering (MS),2019,18
+ELE,MS,Electrical Engineering (MS),2018,13
+ELE,MS,Electrical Engineering (MS),2017,16
+ELE,MS,Electrical Engineering (MS),2016,41
+ELE,MS,Electrical Engineering (MS),2015,30
+ENGL,BA,English (MULTBA),2025,2
+ENGL,BA,English (BA),2025,32
+ENGL,BA,English (BA),2024,40
+ENGL,BA,English (BA),2023,43
+ENGL,BA,English (BA),2022,40
+ENGL,BA,English (MULTBA),2021,1
+ENGL,BA,English (BA),2021,46
+ENGL,BA,English (MULTBA),2020,3
+ENGL,BA,English (BA),2020,56
+ENGL,BA,English (MULTBA),2019,1
+ENGL,BA,English (BA),2019,62
+ENGL,BA,English (BA),2018,66
+ENGL,BA,English (BA),2017,76
+ENGL,BA,English (BA),2016,65
+ENGL,BA,English (BA),2015,86
+ENGL,BS,English (BS),2025,7
+ENGL,BS,English (BS),2024,9
+ENGL,BS,English (BS),2023,4
+ENGL,BS,English (MULTBS),2022,1
+ENGL,BS,English (BS),2022,2
+ENGL,BS,English (BS),2021,1
+ENGL,BS,English (BS),2020,1
+ENGL,MA,English (MA),2025,15
+ENGL,MA,English (MA),2024,15
+ENGL,MA,English (MA),2023,10
+ENGL,MA,English (MA),2022,13
+ENGL,MA,English (MA),2021,7
+ENGL,MA,English (MA),2020,17
+ENGL,MA,English (MA),2019,14
+ENGL,MA,English (MA),2018,22
+ENGL,MA,English (MA),2017,18
+ENGL,MA,English (MA),2016,16
+ENGL,MA,English (MA),2015,22
+ENGL,MULTBA,English (MULTBA),2016,3
+ENGL,MULTBA,English (MULTBA),2015,1
+ENGL,PHD,English (PHD),2025,4
+ENGL,PHD,English (PHD),2024,7
+ENGL,PHD,English (PHD),2023,2
+ENGL,PHD,English (PHD),2022,7
+ENGL,PHD,English (PHD),2021,3
+ENGL,PHD,English (PHD),2020,8
+ENGL,PHD,English (PHD),2019,3
+ENGL,PHD,English (PHD),2018,4
+ENGL,PHD,English (PHD),2017,10
+ENGL,PHD,English (PHD),2016,6
+ENGL,PHD,English (PHD),2015,8
+ENVS,BA,Environmental Studies - Environmental Policy and Law (BA),2025,2
+ENVS,BA,Environmental Studies - Environmental Justice (BA),2025,6
+ENVS,BA,Environmental Studies (BA),2024,4
+ENVS,BA,Environmental Studies (BA),2023,13
+ENVS,BA,Environmental Studies (BA),2022,9
+ENVS,BA,Environmental Studies (MULTBA),2021,1
+ENVS,BA,Environmental Studies (BA),2021,2
+ENVS,BA,Environmental Studies (BA),2020,4
+ENVS,BA,Environmental Studies (BA),2019,9
+ENVS,BA,Environmental Studies (BA),2018,2
+ENVS,BA,Environmental Studies (BA),2017,8
+ENVS,BA,Environmental Studies (BA),2016,2
+ENVS,BA,Environmental Studies (BA),2015,1
+ENVS,BS,Environmental Studies - Water Science (BS),2025,1
+ENVS,BS,Environmental Studies - Sustainable Food Systems (BS),2025,1
+ENVS,BS,Environmental Studies - Sustainability and Energy Studies (BS),2025,2
+ENVS,BS,Environmental Studies - Environmental Policy and Law (BS),2025,2
+ENVS,BS,Environmental Studies - Biodiversity and Environmental Restoration (BS),2025,14
+ENVS,BS,Environmental Studies (BS),2024,23
+ENVS,BS,Environmental Studies (MULTBS),2023,2
+ENVS,BS,Environmental Studies (BS),2023,21
+ENVS,BS,Environmental Studies (BS),2022,26
+ENVS,BS,Environmental Studies (BS),2021,28
+ENVS,BS,Environmental Studies (MULTBS),2020,1
+ENVS,BS,Environmental Studies (BS),2020,29
+ENVS,BS,Environmental Studies (BS),2019,21
+ENVS,BS,Environmental Studies (BS),2018,31
+ENVS,BS,Environmental Studies (BS),2017,29
+ENVS,BS,Environmental Studies (BS),2016,28
+ENVS,BS,Environmental Studies (BS),2015,22
+ENVS,MULTBS,Environmental Studies (MULTBS),2016,2
+ETRA,BS,"Applied Management-Instructional Technology, Training, and Evaluation (BS)",2022,7
+ETRA,BS,"Applied Management-Instructional Technology, Training, and Evaluation (BS)",2021,3
+ETRA,BS,"Applied Management-Instructional Technology, Training, and Evaluation (BS)",2020,6
+ETRA,BS,"Applied Management-Instructional Technology, Training, and Evaluation (BS)",2019,5
+ETRA,BS,"Applied Management-Instructional Technology, Training, and Evaluation (BS)",2018,2
+ETRA,EDD,Instructional Technology (EDD),2020,1
+ETRA,EDD,Instructional Technology (EDD),2019,1
+ETRA,EDD,Instructional Technology (EDD),2018,1
+ETRA,EDD,Instructional Technology (EDD),2016,3
+ETRA,EDD,Instructional Technology (EDD),2015,5
+ETRA,MS,"Educational Research, Evaluation, and Assessment (MS)",2025,2
+ETRA,MS,"Educational Research, Evaluation, and Assessment (MS)",2024,4
+ETRA,MS,"Educational Research, Evaluation, and Assessment (MS)",2023,4
+ETRA,MS,"Educational Research, Evaluation, and Assessment (MS)",2022,7
+ETRA,MS,"Educational Research, Evaluation, and Assessment (MS)",2021,12
+ETRA,MS,"Educational Research, Evaluation, and Assessment (MS)",2020,13
+ETRA,MS,"Educational Research, Evaluation, and Assessment (MS)",2019,4
+ETRA,MS,"Educational Research, Evaluation, and Assessment (MS)",2018,6
+ETRA,MS,"Educational Research, Evaluation, and Assessment (MS)",2017,8
+ETRA,MS,"Educational Research, Evaluation, and Assessment (MS)",2016,3
+ETRA,MS,"Educational Research, Evaluation, and Assessment (MS)",2015,1
+ETRA,MSED,Instructional Technology (MSED),2025,16
+ETRA,MSED,Instructional Technology (MSED),2024,20
+ETRA,MSED,Instructional Technology (MSED),2023,24
+ETRA,MSED,Instructional Technology (MSED),2022,30
+ETRA,MSED,Instructional Technology (MSED),2021,29
+ETRA,MSED,Instructional Technology (MSED),2020,40
+ETRA,MSED,Instructional Technology (MSED),2019,32
+ETRA,MSED,Instructional Technology (MSED),2018,33
+ETRA,MSED,Instructional Technology (MSED),2017,45
+ETRA,MSED,Instructional Technology (MSED),2016,35
+ETRA,MSED,Instructional Technology (MSED),2015,39
+ETRA,PHD,Instructional Technology (PHD),2025,5
+ETRA,PHD,Instructional Technology (PHD),2024,6
+ETRA,PHD,Instructional Technology (PHD),2023,5
+ETRA,PHD,Instructional Technology (PHD),2022,3
+ETRA,PHD,Instructional Technology (PHD),2021,10
+ETRA,PHD,Instructional Technology (PHD),2020,6
+ETRA,PHD,Instructional Technology (PHD),2019,11
+ETRA,PHD,Instructional Technology (PHD),2018,9
+ETRA,PHD,Instructional Technology (PHD),2017,12
+ETRA,PHD,Instructional Technology (PHD),2016,7
+FACS,BS,Human Development & Family Sciences: Family Social Services (BS),2022,31
+FACS,BS,Human Development & Family Sciences: Child Development (BS),2022,19
+FACS,BS,"Human Dev & Family Sci: Family Relations, Prevention and Wellness (BS)",2022,22
+FACS,BS,Hospitality and Tourism Management (BS),2022,19
+FACS,BS,Fashion Merchandising (BS),2022,10
+FACS,MS,Applied Human Development and Family Sciences (MS),2022,1
+FACS,MS,Applied Human Development & Family Sciences: Marriage and Family Therapy (MS),2022,7
+FACS,MS,Applied Human Development & Family Sciences: Leadership in Aging Studies (MS),2022,1
+FCNS,BS,Human Development & Family Sciences: Family Social Services (BS),2025,19
+FCNS,BS,Human Development & Family Sciences: Child Development (BS),2025,25
+FCNS,BS,"Human Dev & Family Sci: Family Relations, Prevention and Wellness (BS)",2025,20
+FCNS,BS,Fashion Merchandising (BS),2025,5
+FCNS,BS,Human Development & Family Sciences: Family Social Services (BS),2024,20
+FCNS,BS,Human Development & Family Sciences: Child Development (BS),2024,18
+FCNS,BS,"Human Dev & Family Sci: Family Relations, Prevention and Wellness (BS)",2024,18
+FCNS,BS,Hospitality and Tourism Management (BS),2024,8
+FCNS,BS,Fashion Merchandising (BS),2024,8
+FCNS,BS,Human Development & Family Sciences: Family Social Services (BS),2023,31
+FCNS,BS,Human Development & Family Sciences: Child Development (BS),2023,11
+FCNS,BS,"Human Dev & Family Sci: Family Relations, Prevention and Wellness (BS)",2023,21
+FCNS,BS,Hospitality and Tourism Management (BS),2023,16
+FCNS,BS,Fashion Merchandising (BS),2023,18
+FCNS,BS,Human Development & Family Sciences: Family Social Services (BS),2021,33
+FCNS,BS,Human Development & Family Sciences: Child Development (BS),2021,25
+FCNS,BS,"Human Dev & Family Sci: Family Relations, Prevention and Wellness (BS)",2021,21
+FCNS,BS,Hospitality and Tourism Management (BS),2021,27
+FCNS,BS,Fashion Merchandising (BS),2021,15
+FCNS,BS,Human Development & Family Sciences: Family Social Services (BS),2020,36
+FCNS,BS,Human Development & Family Sciences: Child Development (BS),2020,22
+FCNS,BS,"Human Dev & Family Sci: Family Relations, Prevention and Wellness (BS)",2020,49
+FCNS,BS,Hospitality and Tourism Management (BS),2020,20
+FCNS,BS,Fashion Merchandising (BS),2020,14
+FCNS,BS,Human Development & Family Sciences: Family Social Services (BS),2019,35
+FCNS,BS,Human Development & Family Sciences: Child Development (BS),2019,30
+FCNS,BS,"Human Dev & Family Sci: Family Relations, Prevention and Wellness (BS)",2019,59
+FCNS,BS,Hospitality Management (BS),2019,1
+FCNS,BS,Hospitality and Tourism Management (BS),2019,27
+FCNS,BS,Fashion Merchandising (BS),2019,10
+FCNS,BS,Human Development & Family Sciences: Family Social Services (MULTBS),2018,1
+FCNS,BS,Human Development & Family Sciences: Family Social Services (BS),2018,30
+FCNS,BS,Human Development & Family Sciences: Child Development (BS),2018,25
+FCNS,BS,"Human Dev & Family Sci: Family Relations, Prevention and Wellness (BS)",2018,58
+FCNS,BS,Hospitality and Tourism Management (BS),2018,29
+FCNS,BS,Fashion Merchandising (BS),2018,18
+FCNS,BS,Early Childhood Education (BS),2018,2
+FCNS,BS,"Nutrition, Dietetics, and Wellness (BS)",2017,39
+FCNS,BS,Human Development & Family Sciences: Family Social Services (BS),2017,27
+FCNS,BS,Human Development & Family Sciences: Child Development (BS),2017,32
+FCNS,BS,"Human Dev & Family Sci: Family Relations, Prevention and Wellness (BS)",2017,57
+FCNS,BS,Hospitality and Tourism Management (BS),2017,20
+FCNS,BS,Fashion Merchandising (BS),2017,9
+FCNS,BS,Early Childhood Education (BS),2017,3
+FCNS,BS,"Nutrition, Dietetics, and Wellness (BS)",2016,58
+FCNS,BS,Human Development & Family Sciences: Family Social Services (BS),2016,35
+FCNS,BS,Human Development & Family Sciences: Child Development (BS),2016,29
+FCNS,BS,"Human Dev & Family Sci: Family Relations, Prevention and Wellness (BS)",2016,65
+FCNS,BS,Hospitality and Tourism Management (BS),2016,29
+FCNS,BS,Fashion Merchandising (BS),2016,14
+FCNS,BS,Early Childhood Education (BS),2016,4
+FCNS,BS,"Nutrition, Dietetics, and Wellness (BS)",2015,40
+FCNS,BS,Human Development & Family Sciences: Family Social Services (BS),2015,38
+FCNS,BS,Human Development & Family Sciences: Family & Individual Development (BS),2015,1
+FCNS,BS,Human Development & Family Sciences: Child Development (BS),2015,44
+FCNS,BS,"Human Dev & Family Sci: Family Relations, Prevention and Wellness (BS)",2015,73
+FCNS,BS,Hospitality and Tourism Management (BS),2015,29
+FCNS,BS,Fashion Merchandising (BS),2015,28
+FCNS,BS,Early Childhood Education (BS),2015,2
+FCNS,MS,Applied Human Development and Family Sciences (MS),2025,3
+FCNS,MS,Applied Human Development & Family Sciences: Marriage and Family Therapy (MS),2025,14
+FCNS,MS,Applied Human Development and Family Sciences (MS),2024,5
+FCNS,MS,Applied Human Development & Family Sciences: Marriage and Family Therapy (MS),2024,10
+FCNS,MS,Applied Human Development and Family Sciences (MS),2023,2
+FCNS,MS,Applied Human Development & Family Sciences: Marriage and Family Therapy (MS),2023,12
+FCNS,MS,Applied Human Development & Family Sciences: Leadership in Aging Studies (MS),2023,2
+FCNS,MS,Applied Human Development and Family Sciences (MS),2021,1
+FCNS,MS,Applied Human Development & Family Sciences: Marriage and Family Therapy (MS),2021,9
+FCNS,MS,Applied Human Development and Family Sciences (MS),2020,2
+FCNS,MS,Applied Human Development & Family Sciences: Marriage and Family Therapy (MS),2020,15
+FCNS,MS,Applied Human Development and Family Sciences (MS),2019,8
+FCNS,MS,Applied Human Development & Family Sciences: Marriage and Family Therapy (MS),2019,7
+FCNS,MS,Applied Human Development and Family Sciences (MS),2018,4
+FCNS,MS,Applied Human Development & Family Sciences: Marriage and Family Therapy (MS),2018,7
+FCNS,MS,Nutrition and Dietetics (MS),2017,13
+FCNS,MS,Applied Human Development and Family Sciences (MS),2017,3
+FCNS,MS,Applied Human Development & Family Sciences: Marriage and Family Therapy (MS),2017,3
+FCNS,MS,Nutrition and Dietetics (MS),2016,10
+FCNS,MS,Applied Human Development and Family Sciences (MS),2016,7
+FCNS,MS,Applied Human Development & Family Sciences: Marriage and Family Therapy (MS),2016,11
+FCNS,MS,Nutrition and Dietetics (MS),2015,16
+FCNS,MS,Applied Human Development and Family Sciences (MS),2015,3
+FCNS,MS,Applied Human Development & Family Sciences: Marriage and Family Therapy (MS),2015,10
+FINA,BS,Finance (BS),2025,64
+FINA,BS,Finance (MULTBS),2024,1
+FINA,BS,Finance (BS),2024,47
+FINA,BS,Finance (BS),2023,56
+FINA,BS,Finance (BS),2022,48
+FINA,BS,Finance (MULTBS),2021,1
+FINA,BS,Finance (BS),2021,76
+FINA,BS,Finance (BS),2020,90
+FINA,BS,Finance (BS),2019,78
+FINA,BS,Finance (MULTBS),2018,1
+FINA,BS,Finance (BS),2018,77
+FINA,BS,Finance (MULTBS),2017,1
+FINA,BS,Finance (BS),2017,82
+FINA,BS,Finance (BS),2016,88
+FINA,BS,Finance (BS),2015,64
+FINA,MS,Finance (MS),2025,19
+FINA,MS,Finance (MS),2024,9
+FINA,MS,Finance (MS),2023,10
+FINA,MS,Finance (MS),2022,13
+FINA,MS,Financial Risk Management (MS),2021,1
+FINA,MS,Finance (MS),2021,15
+FINA,MS,Financial Risk Management (MS),2020,3
+FINA,MS,Finance (MS),2020,1
+FINA,MS,Financial Risk Management (MS),2019,6
+FINA,MS,Financial Risk Management (MS),2018,3
+FINA,MULTBS,Finance (MULTBS),2016,1
+FL,BA,World Lang & Cultures: Spanish & Hispanic Studies (MULTBA),2025,1
+FL,BA,World Lang & Cultures: Spanish & Hispanic Studies (BA),2025,14
+FL,BA,World Lang & Cultures: German Studies (BA),2025,1
+FL,BA,World Lang & Cultures: French & Francophone Studies (BA),2025,3
+FL,BA,World Lang & Cultures: Spanish & Hispanic Studies (MULTBA),2024,1
+FL,BA,World Lang & Cultures: Spanish & Hispanic Studies (BA),2024,11
+FL,BA,World Lang & Cultures: German Studies (BA),2024,1
+FL,BA,World Lang & Cultures: French & Francophone Studies (BA),2024,4
+FL,BA,World Lang & Cultures: Spanish & Hispanic Studies (BA),2023,22
+FL,BA,World Lang & Cultures: French & Francophone Studies (BA),2023,6
+FL,BA,Spanish Language & Literature (BA),2023,1
+FL,BA,French: French and Francophone Studies (MULTBA),2023,1
+FL,BA,World Lang & Cultures: Spanish & Hispanic Studies (BA),2022,13
+FL,BA,World Lang & Cultures: German Studies (BA),2022,2
+FL,BA,World Lang & Cultures: French & Francophone Studies (BA),2022,2
+FL,BA,Spanish Translation & Business (BA),2022,3
+FL,BA,Spanish Language & Literature (BA),2022,1
+FL,BA,World Lang & Cultures: Spanish & Hispanic Studies (BA),2021,10
+FL,BA,World Lang & Cultures: German Studies (BA),2021,1
+FL,BA,World Lang & Cultures: French & Francophone Studies (BA),2021,4
+FL,BA,Spanish Translation & Business (MULTBA),2021,1
+FL,BA,Spanish Translation & Business (BA),2021,5
+FL,BA,Spanish Language & Literature (BA),2021,6
+FL,BA,German - Language & Literature (BA),2021,1
+FL,BA,World Lang & Cultures: Spanish & Hispanic Studies (BA),2020,7
+FL,BA,World Lang & Cultures: French & Francophone Studies (BA),2020,3
+FL,BA,Spanish Translation & Business (BA),2020,5
+FL,BA,Spanish Language & Literature (BA),2020,10
+FL,BA,German - Translation & Business (BA),2020,1
+FL,BA,German - Language & Literature (BA),2020,1
+FL,BA,World Lang & Cultures: Spanish & Hispanic Studies (BA),2019,1
+FL,BA,World Lang & Cultures: French & Francophone Studies (BA),2019,5
+FL,BA,Spanish Translation & Business (BA),2019,17
+FL,BA,Spanish Language & Literature (BA),2019,12
+FL,BA,German - Language & Literature (BA),2019,2
+FL,BA,World Lang & Cultures: French & Francophone Studies (BA),2018,4
+FL,BA,Spanish Translation & Business (BA),2018,12
+FL,BA,Spanish Language & Literature (BA),2018,16
+FL,BA,German - Translation & Business (BA),2018,2
+FL,BA,German - Language & Literature (BA),2018,1
+FL,BA,World Lang & Cultures: French & Francophone Studies (BA),2017,2
+FL,BA,Spanish Translation & Business (MULTBA),2017,1
+FL,BA,Spanish Translation & Business (BA),2017,19
+FL,BA,Spanish Language & Literature (BA),2017,8
+FL,BA,German - Translation & Business (BA),2017,2
+FL,BA,German - Language & Literature (BA),2017,2
+FL,BA,French - Translation & Business (BA),2017,6
+FL,BA,World Lang & Cultures: French & Francophone Studies (BA),2016,2
+FL,BA,Spanish Translation & Business (BA),2016,15
+FL,BA,Spanish Language & Literature (BA),2016,12
+FL,BA,German - Language & Literature (BA),2016,2
+FL,BA,French - Translation & Business (BA),2016,2
+FL,BA,World Lang & Cultures: French & Francophone Studies (BA),2015,6
+FL,BA,Spanish Translation & Business (BA),2015,13
+FL,BA,Spanish Language & Literature (BA),2015,25
+FL,BA,German - Translation & Business (BA),2015,1
+FL,BA,German - Language & Literature (BA),2015,2
+FL,BA,French - Translation & Business (BA),2015,4
+FL,MA,World Lang & Cultures-Spanish & Hispanic Studies (MA),2025,2
+FL,MA,World Lang & Cultures-Spanish & Hispanic Studies (MA),2024,1
+FL,MA,World Lang & Cultures-Spanish & Hispanic Studies (MA),2023,2
+FL,MA,World Lang & Cultures-Spanish & Hispanic Studies (MA),2022,3
+FL,MA,World Lang & Cultures-Spanish & Hispanic Studies (MA),2021,4
+FL,MA,World Lang & Cultures-Spanish & Hispanic Studies (MA),2020,4
+FL,MA,World Lang & Cultures-Spanish & Hispanic Studies (MA),2019,1
+FL,MA,World Lang & Cultures-Spanish & Hispanic Studies (MA),2018,3
+FL,MA,Foreign Languages - French (MA),2017,2
+FL,MA,World Lang & Cultures-Spanish & Hispanic Studies (MA),2016,6
+FL,MA,Foreign Languages - French (MA),2016,1
+FL,MA,World Lang & Cultures-Spanish & Hispanic Studies (MA),2015,4
+FL,MA,Foreign Languages - French (MA),2015,2
+FL,MULTBA,Spanish Language & Literature (MULTBA),2015,1
+GEOG,BA,Geography (BA),2021,1
+GEOG,BA,Geography (BA),2018,2
+GEOG,BA,Geography (BA),2017,2
+GEOG,BA,Geography (BA),2016,1
+GEOG,BA,Geography (BA),2015,1
+GEOG,BS,Meteorology (BS),2022,7
+GEOG,BS,Geography (BS),2022,13
+GEOG,BS,Meteorology (MULTBS),2021,1
+GEOG,BS,Meteorology (BS),2021,7
+GEOG,BS,Geography-Geomatics (BS),2021,1
+GEOG,BS,Geography (BS),2021,6
+GEOG,BS,Meteorology (BS),2020,13
+GEOG,BS,Geography-Geomatics (BS),2020,2
+GEOG,BS,Geography (BS),2020,11
+GEOG,BS,Meteorology (BS),2019,15
+GEOG,BS,Geography-Geomatics (BS),2019,1
+GEOG,BS,Geography (BS),2019,14
+GEOG,BS,Meteorology (BS),2018,13
+GEOG,BS,Geography-Geomatics (BS),2018,4
+GEOG,BS,Geography (MULTBS),2018,1
+GEOG,BS,Geography (BS),2018,10
+GEOG,BS,Meteorology (BS),2017,13
+GEOG,BS,Geography-Geomatics (BS),2017,3
+GEOG,BS,Geography (BS),2017,9
+GEOG,BS,Meteorology (BS),2016,10
+GEOG,BS,Geography-Geomatics (BS),2016,1
+GEOG,BS,Geography (BS),2016,14
+GEOG,BS,Meteorology (BS),2015,23
+GEOG,BS,Geography (BS),2015,11
+GEOG,MS,Geography (MS),2022,4
+GEOG,MS,Geography (MS),2021,2
+GEOG,MS,Geography (MS),2020,4
+GEOG,MS,Geography (MS),2019,3
+GEOG,MS,Geography (MS),2018,3
+GEOG,MS,Geography (MS),2017,7
+GEOG,MS,Geography (MS),2016,8
+GEOG,MS,Geography (MS),2015,2
+GEOG,MULTBS,Meteorology (MULTBS),2015,1
+GEOG,MULTBS,Geography (MULTBS),2015,1
+GEOG,PHD,Geography (PHD),2022,1
+GEOG,PHD,Geography (PHD),2021,2
+GEOG,PHD,Geography (PHD),2019,4
+GEOG,PHD,Geography (PHD),2018,1
+GEOG,PHD,Geography (PHD),2017,2
+GEOG,PHD,Geography (PHD),2016,1
+GEOL,BS,Geology - Geology (BS),2022,11
+GEOL,BS,Geology - Environmental Geosciences (BS),2022,2
+GEOL,BS,Geology - Geology (BS),2021,4
+GEOL,BS,Geology - Environmental Geosciences (BS),2021,1
+GEOL,BS,Geology - Geology (BS),2020,8
+GEOL,BS,Geology - Environmental Geosciences (BS),2020,3
+GEOL,BS,Geology - Geology (BS),2019,8
+GEOL,BS,Geology - Environmental Geosciences (BS),2019,2
+GEOL,BS,Geology - Geology (BS),2018,7
+GEOL,BS,Geology - Environmental Geosciences (BS),2018,7
+GEOL,BS,Geology - Geology (BS),2017,9
+GEOL,BS,Geology - Environmental Geosciences (BS),2017,8
+GEOL,BS,Geology - Geology (BS),2016,5
+GEOL,BS,Geology - Environmental Geosciences (BS),2016,8
+GEOL,BS,Geology - Geology (BS),2015,10
+GEOL,BS,Geology - Environmental Geosciences (BS),2015,13
+GEOL,BS,Geology - Earth & Space Science Education (BS),2015,3
+GEOL,MS,Geology (MS),2022,8
+GEOL,MS,Geology (MS),2021,5
+GEOL,MS,Geology (MS),2020,9
+GEOL,MS,Geology (MS),2019,7
+GEOL,MS,Geology (MS),2018,7
+GEOL,MS,Geology (MS),2017,17
+GEOL,MS,Geology (MS),2016,7
+GEOL,MS,Geology (MS),2015,10
+GEOL,MULTMS,Geology (MULTMS),2019,1
+GEOL,PHD,Geology (PHD),2022,2
+GEOL,PHD,Geology (PHD),2019,1
+GEOL,PHD,Geology (PHD),2018,1
+GEOL,PHD,Geology (PHD),2017,1
+HIST,BA,History (MULTBA),2025,1
+HIST,BA,History (BA),2025,26
+HIST,BA,History (BA),2024,36
+HIST,BA,History (BA),2023,26
+HIST,BA,History (BA),2022,39
+HIST,BA,History (MULTBA),2021,1
+HIST,BA,History (BA),2021,32
+HIST,BA,History (BA),2020,30
+HIST,BA,History (MULTBA),2019,1
+HIST,BA,History (BA),2019,45
+HIST,BA,History (MULTBA),2018,1
+HIST,BA,History (BA),2018,37
+HIST,BA,History (MULTBA),2017,3
+HIST,BA,History (BA),2017,37
+HIST,BA,History (BA),2016,37
+HIST,BA,History (BA),2015,53
+HIST,BS,History (BS),2025,7
+HIST,BS,History (BS),2024,4
+HIST,BS,History (BS),2023,7
+HIST,BS,History (BS),2022,7
+HIST,BS,History (BS),2021,8
+HIST,BS,History (MULTBS),2020,1
+HIST,BS,History (BS),2020,8
+HIST,BS,History (BS),2019,12
+HIST,BS,History (BS),2018,5
+HIST,BS,History (BS),2017,11
+HIST,BS,History (BS),2016,12
+HIST,BS,History (BS),2015,15
+HIST,MA,History (MA),2025,7
+HIST,MA,History (MA),2024,9
+HIST,MA,History (MA),2023,7
+HIST,MA,History (MA),2022,6
+HIST,MA,History (MA),2021,9
+HIST,MA,History (MA),2020,5
+HIST,MA,History (MA),2019,5
+HIST,MA,History (MA),2018,7
+HIST,MA,History (MA),2017,7
+HIST,MA,History (MA),2016,9
+HIST,MA,History (MA),2015,9
+HIST,MULTBA,History (MULTBA),2016,3
+HIST,MULTBA,History (MULTBA),2015,2
+HIST,PHD,History (PHD),2025,4
+HIST,PHD,History (PHD),2024,2
+HIST,PHD,History (PHD),2023,2
+HIST,PHD,History (PHD),2022,1
+HIST,PHD,History (PHD),2021,1
+HIST,PHD,History (PHD),2020,3
+HIST,PHD,History (PHD),2019,2
+HIST,PHD,History (PHD),2018,3
+HIST,PHD,History (PHD),2017,3
+HIST,PHD,History (PHD),2016,4
+HIST,PHD,History (PHD),2015,1
+HLTH,BS,Public Health-Health Promotion (BS),2025,2
+HLTH,BS,Public Health-Environment and Health (BS),2025,2
+HLTH,BS,Public Health - Health Administration (BS),2025,13
+HLTH,BS,Public Health - Gen Public Health (BS),2025,4
+HLTH,BS,"Nutrition, Dietetics, and Wellness (BS)",2025,9
+HLTH,BS,Medical Laboratory Sciences (BS),2025,16
+HLTH,BS,Public Health-Health Promotion (BS),2024,4
+HLTH,BS,Public Health-Environment and Health (BS),2024,1
+HLTH,BS,Public Health - Health Administration (BS),2024,25
+HLTH,BS,Public Health - Gen Public Health (BS),2024,3
+HLTH,BS,"Nutrition, Dietetics, and Wellness (MULTBS)",2024,1
+HLTH,BS,"Nutrition, Dietetics, and Wellness (BS)",2024,14
+HLTH,BS,Medical Laboratory Sciences (BS),2024,22
+HLTH,BS,Public Health-Health Promotion (BS),2023,5
+HLTH,BS,Public Health-Environment and Health (BS),2023,2
+HLTH,BS,Public Health - Health Administration (BS),2023,18
+HLTH,BS,Public Health - Gen Public Health (BS),2023,1
+HLTH,BS,"Nutrition, Dietetics, and Wellness (BS)",2023,23
+HLTH,BS,Medical Laboratory Sciences (BS),2023,20
+HLTH,BS,Public Health-Health Promotion (BS),2022,8
+HLTH,BS,Public Health-Environment and Health (BS),2022,6
+HLTH,BS,Public Health - Health Administration (BS),2022,25
+HLTH,BS,Public Health - Gen Public Health (BS),2022,6
+HLTH,BS,"Nutrition, Dietetics, and Wellness (BS)",2022,26
+HLTH,BS,Medical Laboratory Sciences (BS),2022,19
+HLTH,BS,Public Health: General Public Health (MULTBS),2021,1
+HLTH,BS,Public Health-Health Promotion (BS),2021,11
+HLTH,BS,Public Health-Environment and Health (BS),2021,8
+HLTH,BS,Public Health - Health Administration (BS),2021,35
+HLTH,BS,Public Health - Gen Public Health (BS),2021,9
+HLTH,BS,"Nutrition, Dietetics, and Wellness (BS)",2021,22
+HLTH,BS,Medical Laboratory Sciences (BS),2021,18
+HLTH,BS,Public Health-Health Promotion (BS),2020,18
+HLTH,BS,Public Health-Environment and Health (BS),2020,7
+HLTH,BS,Public Health - Health Administration (BS),2020,38
+HLTH,BS,Public Health - Gen Public Health (BS),2020,10
+HLTH,BS,"Nutrition, Dietetics, and Wellness (BS)",2020,34
+HLTH,BS,Medical Laboratory Sciences (BS),2020,21
+HLTH,BS,Public Health-Health Promotion (BS),2019,30
+HLTH,BS,Public Health-Environment and Health (BS),2019,8
+HLTH,BS,Public Health - Health Administration (BS),2019,34
+HLTH,BS,Public Health - Gen Public Health (BS),2019,17
+HLTH,BS,"Nutrition, Dietetics, and Wellness (BS)",2019,30
+HLTH,BS,Medical Laboratory Sciences (BS),2019,29
+HLTH,BS,Public Health-Health Promotion (BS),2018,31
+HLTH,BS,Public Health-Environment and Health (BS),2018,12
+HLTH,BS,Public Health - Health Administration (BS),2018,42
+HLTH,BS,Public Health - Gen Public Health (BS),2018,15
+HLTH,BS,"Nutrition, Dietetics, and Wellness (BS)",2018,41
+HLTH,BS,Medical Laboratory Sciences (BS),2018,29
+HLTH,BS,Public Health-Health Promotion (BS),2017,18
+HLTH,BS,Public Health-Environment and Health (BS),2017,15
+HLTH,BS,Public Health - Health Administration (BS),2017,25
+HLTH,BS,Public Health - Gen Public Health (BS),2017,9
+HLTH,BSED,Health Education (BSED),2017,5
+HLTH,MPH,Public Health - Health Services Management (MPH),2025,9
+HLTH,MPH,Public Health - Health Promotion (MPH),2025,14
+HLTH,MPH,Public Health - Health Services Management (MPH),2024,13
+HLTH,MPH,Public Health - Health Promotion (MPH),2024,15
+HLTH,MPH,Public Health - Health Services Management (MPH),2023,15
+HLTH,MPH,Public Health - Health Promotion (MPH),2023,26
+HLTH,MPH,Public Health - Health Services Management (MPH),2022,11
+HLTH,MPH,Public Health - Health Promotion (MPH),2022,20
+HLTH,MPH,Public Health - Health Services Management (MPH),2021,6
+HLTH,MPH,Public Health - Health Promotion (MPH),2021,8
+HLTH,MPH,Public Health - Health Services Management (MPH),2020,3
+HLTH,MPH,Public Health - Health Promotion (MPH),2020,13
+HLTH,MPH,Public Health - Health Services Management (MPH),2019,12
+HLTH,MPH,Public Health - Health Promotion (MPH),2019,10
+HLTH,MPH,Public Health - Health Services Management (MPH),2018,11
+HLTH,MPH,Public Health - Health Promotion (MPH),2018,1
+HLTH,MS,Nutrition and Dietetics (MS),2025,14
+HLTH,MS,Nutrition and Dietetics (MS),2024,16
+HLTH,MS,Nutrition and Dietetics (MS),2023,13
+HLTH,MS,Nutrition and Dietetics (MS),2022,9
+HLTH,MS,Nutrition and Dietetics (MS),2021,16
+HLTH,MS,Nutrition and Dietetics (MS),2020,12
+HLTH,MS,Nutrition and Dietetics (MS),2019,12
+HLTH,MS,Nutrition and Dietetics (MS),2018,17
+IHP,BS,Rehabilitation and Disability Services (MULTBS),2025,1
+IHP,BS,Rehabilitation and Disability Services (BS),2025,12
+IHP,BS,Health Sciences: General (MULTBS),2025,1
+IHP,BS,Health Sciences: General (BS),2025,70
+IHP,BS,Health Sciences: Degree Completion (BS),2025,15
+IHP,BS,Health Sciences - Pre-Physical Therapy (BS),2025,26
+IHP,BS,Rehabilitation and Disability Services (BS),2024,16
+IHP,BS,Health Sciences: General (MULTBS),2024,1
+IHP,BS,Health Sciences: General (BS),2024,60
+IHP,BS,Health Sciences: Degree Completion (BS),2024,20
+IHP,BS,Health Sciences - Pre-Physical Therapy (BS),2024,16
+IHP,BS,Rehabilitation and Disability Services (BS),2023,26
+IHP,BS,Health Sciences: General (BS),2023,58
+IHP,BS,Health Sciences: Degree Completion (BS),2023,17
+IHP,BS,Health Sciences - Pre-Physical Therapy (BS),2023,38
+IHP,BS,Rehabilitation and Disability Services (MULTBS),2022,2
+IHP,BS,Rehabilitation and Disability Services (BS),2022,32
+IHP,BS,Health Sciences: General (BS),2022,53
+IHP,BS,Health Sciences: Degree Completion (BS),2022,22
+IHP,BS,Health Sciences - Pre-Physical Therapy (BS),2022,44
+IHP,BS,Rehabilitation and Disability Services (MULTBS),2021,1
+IHP,BS,Rehabilitation and Disability Services (BS),2021,51
+IHP,BS,Health Sciences: General (BS),2021,45
+IHP,BS,Health Sciences: Degree Completion (BS),2021,22
+IHP,BS,Health Sciences - Pre-Physical Therapy (BS),2021,45
+IHP,BS,Rehabilitation and Disability Services (BS),2020,70
+IHP,BS,Health Sciences: General (BS),2020,40
+IHP,BS,Health Sciences: Degree Completion (BS),2020,13
+IHP,BS,Health Sciences - Pre-Physical Therapy (BS),2020,34
+IHP,BS,Rehabilitation and Disability Services (BS),2019,87
+IHP,BS,Health Sciences: General (BS),2019,14
+IHP,BS,Health Sciences: Degree Completion (BS),2019,12
+IHP,BS,Health Sciences - Pre-Physical Therapy (BS),2019,59
+IHP,MS,Rehabilitation Counseling (MS),2025,7
+IHP,MS,Health Sciences (MS),2025,3
+IHP,MS,Rehabilitation Counseling (MS),2024,2
+IHP,MS,Health Sciences (MS),2024,4
+IHP,MS,Rehabilitation Counseling (MS),2023,5
+IHP,MS,Health Sciences (MS),2023,3
+IHP,MS,Rehabilitation Counseling (MS),2022,6
+IHP,MS,Health Sciences (MS),2022,3
+IHP,MS,Rehabilitation Counseling (MS),2021,6
+IHP,MS,Health Sciences (MS),2021,2
+IHP,MS,Rehabilitation Counseling (MS),2020,7
+IHP,MS,Rehabilitation Counseling (MS),2019,10
+ISYE,BS,Industrial & Systems Engineering (BS),2025,15
+ISYE,BS,Health and Systems Engineering (BS),2025,1
+ISYE,BS,Engineering Management (BS),2025,1
+ISYE,BS,Industrial & Systems Engineering (BS),2024,13
+ISYE,BS,Health and Systems Engineering (BS),2024,2
+ISYE,BS,Engineering Management (BS),2024,4
+ISYE,BS,ISYE-Manufacturing Systems (BS),2023,1
+ISYE,BS,Industrial & Systems Engineering (BS),2023,5
+ISYE,BS,Engineering Management (BS),2023,5
+ISYE,BS,ISYE-Manufacturing Systems (BS),2022,3
+ISYE,BS,Industrial & Systems Engineering (BS),2022,14
+ISYE,BS,Engineering Management (BS),2022,4
+ISYE,BS,ISYE-Manufacturing Systems (BS),2021,3
+ISYE,BS,Industrial & Systems Engineering (BS),2021,15
+ISYE,BS,Health and Systems Engineering (BS),2021,2
+ISYE,BS,Engineering Management (BS),2021,8
+ISYE,BS,Industrial & Systems Engineering (BS),2020,18
+ISYE,BS,Health and Systems Engineering (BS),2020,1
+ISYE,BS,Engineering Management (BS),2020,4
+ISYE,BS,Industrial & Systems Engineering (BS),2019,17
+ISYE,BS,Health and Systems Engineering (BS),2019,1
+ISYE,BS,Engineering Management (BS),2019,10
+ISYE,BS,ISYE-Manufacturing Systems (BS),2018,2
+ISYE,BS,Industrial & Systems Engineering (BS),2018,16
+ISYE,BS,Health and Systems Engineering (BS),2018,1
+ISYE,BS,Engineering Management (BS),2018,9
+ISYE,BS,ISYE-Manufacturing Systems (BS),2017,3
+ISYE,BS,Industrial & Systems Engineering (BS),2017,19
+ISYE,BS,Health and Systems Engineering (BS),2017,3
+ISYE,BS,Engineering Management (BS),2017,12
+ISYE,BS,ISYE-Manufacturing Systems (BS),2016,4
+ISYE,BS,Industrial & Systems Engineering (BS),2016,17
+ISYE,BS,Engineering Management (BS),2016,11
+ISYE,BS,ISYE-Manufacturing Systems (BS),2015,3
+ISYE,BS,Industrial & Systems Engineering (BS),2015,14
+ISYE,BS,Health and Systems Engineering (BS),2015,2
+ISYE,BS,Engineering Management (BS),2015,3
+ISYE,MS,ISYE-Engineering Management (MS),2025,16
+ISYE,MS,Industrial and Systems Engineering (MS),2025,24
+ISYE,MS,ISYE-Engineering Management (MS),2024,8
+ISYE,MS,Industrial and Systems Engineering (MS),2024,47
+ISYE,MS,ISYE-Engineering Management (MS),2023,16
+ISYE,MS,Industrial and Systems Engineering (MS),2023,33
+ISYE,MS,ISYE-Engineering Management (MS),2022,11
+ISYE,MS,Industrial and Systems Engineering (MS),2022,24
+ISYE,MS,ISYE-Engineering Management (MS),2021,11
+ISYE,MS,Industrial and Systems Engineering (MS),2021,42
+ISYE,MS,ISYE-Engineering Management (MS),2020,10
+ISYE,MS,Industrial and Systems Engineering (MS),2020,58
+ISYE,MS,ISYE-Engineering Management (MS),2019,3
+ISYE,MS,Industrial and Systems Engineering (MS),2019,55
+ISYE,MS,ISYE-Engineering Management (MS),2018,4
+ISYE,MS,Industrial and Systems Engineering (MS),2018,68
+ISYE,MS,ISYE-Engineering Management (MS),2017,6
+ISYE,MS,Industrial and Systems Engineering (MS),2017,82
+ISYE,MS,Industrial and Systems Engineering (MS),2016,41
+ISYE,MS,Industrial and Systems Engineering (MS),2015,39
+ISYE,PHD,Industrial and Systems Engineering (PHD),2025,1
+KNPE,BS,Sport Management (BS),2025,53
+KNPE,BS,Kinesiology (BS),2025,55
+KNPE,BS,Sport Management (MULTBS),2024,1
+KNPE,BS,Sport Management (BS),2024,44
+KNPE,BS,Kinesiology (BS),2024,58
+KNPE,BS,Sport Management (BS),2023,24
+KNPE,BS,Kinesiology (BS),2023,60
+KNPE,BS,Sport Management (BS),2022,36
+KNPE,BS,Kinesiology (BS),2022,70
+KNPE,BS,Sport Management (BS),2021,17
+KNPE,BS,Kinesiology (BS),2021,54
+KNPE,BS,Athletic Training (BS),2021,11
+KNPE,BS,Kinesiology (BS),2020,62
+KNPE,BS,Athletic Training (BS),2020,20
+KNPE,BS,Kinesiology (BS),2019,74
+KNPE,BS,Athletic Training (BS),2019,16
+KNPE,BS,Kinesiology (BS),2018,72
+KNPE,BS,Athletic Training (BS),2018,24
+KNPE,BS,Kinesiology (BS),2017,97
+KNPE,BS,Athletic Training (BS),2017,19
+KNPE,BS,Kinesiology (BS),2016,65
+KNPE,BS,Athletic Training (BS),2016,16
+KNPE,BS,Kinesiology (BS),2015,50
+KNPE,BS,Athletic Training (BS),2015,22
+KNPE,BSED,Physical Education (BSED),2025,25
+KNPE,BSED,Physical Education (BSED),2024,28
+KNPE,BSED,Physical Education (BSED),2023,27
+KNPE,BSED,Physical Education (BSED),2022,29
+KNPE,BSED,Physical Education (BSED),2021,27
+KNPE,BSED,Physical Education (BSED),2020,23
+KNPE,BSED,Physical Education (BSED),2019,14
+KNPE,BSED,Physical Education (BSED),2018,17
+KNPE,BSED,Physical Education (BSED),2017,22
+KNPE,BSED,Physical Education (BSED),2016,25
+KNPE,BSED,Physical Education (BSED),2015,28
+KNPE,MS,Sport Management (MS),2025,25
+KNPE,MS,Kinesiology and Physical Education - Sport and Exercise Psychology (MS),2025,6
+KNPE,MS,Kinesiology and Physical Education - Physical Education Pedagogy (MS),2025,11
+KNPE,MS,Kinesiology and Physical Education - Exercise Physiology (MS),2025,10
+KNPE,MS,Athletic Training (MS),2025,8
+KNPE,MS,Sport Management (MS),2024,19
+KNPE,MS,Kinesiology and Physical Education - Sport and Exercise Psychology (MS),2024,13
+KNPE,MS,Kinesiology and Physical Education - Physical Education Pedagogy (MS),2024,14
+KNPE,MS,Kinesiology and Physical Education - Exercise Physiology (MS),2024,4
+KNPE,MS,Athletic Training (MS),2024,7
+KNPE,MS,Sport Management (MS),2023,17
+KNPE,MS,Kinesiology and Physical Education - Sport and Exercise Psychology (MS),2023,9
+KNPE,MS,Kinesiology and Physical Education - Physical Education Pedagogy (MS),2023,2
+KNPE,MS,Kinesiology and Physical Education - Exercise Physiology (MS),2023,8
+KNPE,MS,Athletic Training (MS),2023,7
+KNPE,MS,Sport Management (MS),2022,28
+KNPE,MS,Kinesiology and Physical Education - Sport and Exercise Psychology (MS),2022,4
+KNPE,MS,Kinesiology and Physical Education - Physical Education Pedagogy (MS),2022,4
+KNPE,MS,Kinesiology and Physical Education - Exercise Physiology (MS),2022,1
+KNPE,MS,Sport Management (MS),2021,27
+KNPE,MS,Sport Management (MS),2020,25
+KNPE,MS,Sport Management (MS),2019,26
+KNPE,MS,Sport Management (MS),2018,31
+KNPE,MS,Sport Management (MS),2017,31
+KNPE,MS,Sport Management (MS),2016,39
+KNPE,MS,Sport Management (MS),2015,31
+KNPE,MSED,Pedagogy - Curriculum Development in Physical Education (MSED),2024,4
+KNPE,MSED,Sport and Exercise Psychology (MSED),2023,1
+KNPE,MSED,Physical Education - Exercise Physiology (MSED),2023,3
+KNPE,MSED,Pedagogy - Curriculum Development in Physical Education (MSED),2023,7
+KNPE,MSED,Sport and Exercise Psychology (MSED),2022,13
+KNPE,MSED,Physical Education - Exercise Physiology (MSED),2022,9
+KNPE,MSED,Pedagogy - Curriculum Development in Physical Education (MSED),2022,13
+KNPE,MSED,Sport and Exercise Psychology (MSED),2021,9
+KNPE,MSED,Physical Education - Exercise Physiology (MSED),2021,18
+KNPE,MSED,Pedagogy - Curriculum Development in Physical Education (MSED),2021,6
+KNPE,MSED,Adapted Physical Education (MSED),2021,4
+KNPE,MSED,Sport and Exercise Psychology (MSED),2020,16
+KNPE,MSED,Physical Education - Exercise Physiology (MSED),2020,13
+KNPE,MSED,Pedagogy - Curriculum Development in Physical Education (MSED),2020,2
+KNPE,MSED,Adapted Physical Education (MSED),2020,2
+KNPE,MSED,Sport and Exercise Psychology (MSED),2019,10
+KNPE,MSED,Physical Education - Exercise Physiology (MSED),2019,15
+KNPE,MSED,Pedagogy - Curriculum Development in Physical Education (MSED),2019,8
+KNPE,MSED,Adapted Physical Education (MSED),2019,4
+KNPE,MSED,Sport and Exercise Psychology (MSED),2018,5
+KNPE,MSED,Physical Education - Exercise Physiology (MSED),2018,10
+KNPE,MSED,Pedagogy - Curriculum Development in Physical Education (MSED),2018,7
+KNPE,MSED,Adapted Physical Education (MSED),2018,7
+KNPE,MSED,Sport and Exercise Psychology (MSED),2017,2
+KNPE,MSED,Physical Education - Exercise Physiology (MSED),2017,15
+KNPE,MSED,Pedagogy - Curriculum Development in Physical Education (MSED),2017,3
+KNPE,MSED,Adapted Physical Education (MSED),2017,5
+KNPE,MSED,Sport and Exercise Psychology (MSED),2016,7
+KNPE,MSED,Physical Education - Exercise Physiology (MSED),2016,13
+KNPE,MSED,Pedagogy - Curriculum Development in Physical Education (MSED),2016,9
+KNPE,MSED,Adapted Physical Education (MSED),2016,3
+KNPE,MSED,Sport and Exercise Psychology (MSED),2015,9
+KNPE,MSED,Physical Education - Exercise Physiology (MSED),2015,11
+KNPE,MSED,Pedagogy - Curriculum Development in Physical Education (MSED),2015,6
+KNPE,MSED,Adapted Physical Education (MSED),2015,4
+KNPE,PHD,Kinesiology and Physical Education (PHD),2025,1
+KNPE,PHD,Kinesiology and Physical Education (PHD),2023,1
+LAW,JD,Law (JD),2025,109
+LAW,JD,Law (JD),2024,94
+LAW,JD,Law (JD),2023,90
+LAW,JD,Law (JD),2022,104
+LAW,JD,Law (JD),2021,73
+LAW,JD,Law (JD),2020,80
+LAW,JD,Law (JD),2019,85
+LAW,JD,Law (JD),2018,77
+LAW,JD,Law (JD),2017,70
+LAW,JD,Law (JD),2016,88
+LAW,JD,Law (JD),2015,100
+LEPF,EDD,Educational Leadership and Policy Studies (EDD),2025,5
+LEPF,EDD,Educational Leadership & Policy Studies: Educational Leadership (EDD),2025,9
+LEPF,EDD,Educational Leadership and Policy Studies (EDD),2024,2
+LEPF,EDD,Educational Leadership & Policy Studies: Educational Leadership (EDD),2024,14
+LEPF,EDD,Educational Leadership & Policy Studies: Educational Leadership (EDD),2023,13
+LEPF,EDD,Educational Administration (EDD),2023,2
+LEPF,EDD,Educational Leadership & Policy Studies: Educational Leadership (EDD),2022,11
+LEPF,EDD,Educational Administration (EDD),2022,2
+LEPF,EDD,Educational Leadership & Policy Studies: Educational Leadership (EDD),2021,4
+LEPF,EDD,Educational Administration (EDD),2021,3
+LEPF,EDD,Educational Leadership & Policy Studies: Educational Leadership (EDD),2020,2
+LEPF,EDD,Educational Administration (EDD),2020,6
+LEPF,EDD,Educational Administration (EDD),2019,7
+LEPF,EDD,Educational Administration (EDD),2018,12
+LEPF,EDD,Curriculum and Instruction - Secondary Education (EDD),2018,1
+LEPF,EDD,Curriculum and Instruction - Curriculum Leadership (EDD),2018,14
+LEPF,EDD,Educational Psychology (EDD),2017,1
+LEPF,EDD,Educational Administration (EDD),2017,13
+LEPF,EDD,Curriculum and Instruction - Curriculum Leadership (EDD),2017,12
+LEPF,EDD,Educational Psychology (EDD),2016,1
+LEPF,EDD,Educational Administration (EDD),2016,12
+LEPF,EDD,Curriculum and Instruction - Curriculum Leadership (EDD),2016,15
+LEPF,EDD,Educational Administration (EDD),2015,13
+LEPF,EDD,Curriculum and Instruction - Secondary Education (EDD),2015,1
+LEPF,EDD,Curriculum and Instruction - Curriculum Leadership (EDD),2015,7
+LEPF,EDS,Educational Administration (EDS),2025,15
+LEPF,EDS,Educational Administration (EDS),2024,18
+LEPF,EDS,Educational Administration (EDS),2023,19
+LEPF,EDS,Educational Administration (EDS),2022,22
+LEPF,EDS,Educational Administration (EDS),2021,19
+LEPF,EDS,Educational Administration (EDS),2020,13
+LEPF,EDS,Educational Administration (EDS),2019,19
+LEPF,EDS,Educational Administration (EDS),2018,2
+LEPF,EDS,Educational Administration (EDS),2017,20
+LEPF,EDS,Educational Administration (EDS),2016,17
+LEPF,EDS,Educational Administration (EDS),2015,13
+LEPF,MSED,School Business Management (MSED),2025,26
+LEPF,MSED,Educational Administration (MSED),2025,26
+LEPF,MSED,School Business Management (MSED),2024,11
+LEPF,MSED,Educational Psychology (MSED),2024,2
+LEPF,MSED,Educational Administration (MSED),2024,24
+LEPF,MSED,School Business Management (MSED),2023,17
+LEPF,MSED,Educational Administration (MSED),2023,16
+LEPF,MSED,School Business Management (MSED),2022,10
+LEPF,MSED,Educational Psychology (MSED),2022,1
+LEPF,MSED,Educational Administration (MSED),2022,13
+LEPF,MSED,School Business Management (MSED),2021,16
+LEPF,MSED,Educational Psychology (MSED),2021,1
+LEPF,MSED,Educational Administration (MSED),2021,17
+LEPF,MSED,School Business Management (MSED),2020,8
+LEPF,MSED,Educational Psychology (MSED),2020,2
+LEPF,MSED,Educational Administration (MSED),2020,15
+LEPF,MSED,School Business Management (MSED),2019,11
+LEPF,MSED,Educational Psychology (MSED),2019,3
+LEPF,MSED,Educational Administration (MSED),2019,36
+LEPF,MSED,School Business Management (MSED),2018,16
+LEPF,MSED,Foundations of Education (MSED),2018,1
+LEPF,MSED,Educational Psychology (MSED),2018,3
+LEPF,MSED,Educational Administration (MSED),2018,21
+LEPF,MSED,Curriculum and Instruction (MSED),2018,9
+LEPF,MSED,School Business Management (MSED),2017,13
+LEPF,MSED,Foundations of Education (MSED),2017,2
+LEPF,MSED,Educational Psychology (MSED),2017,2
+LEPF,MSED,Educational Administration (MSED),2017,23
+LEPF,MSED,Curriculum and Instruction (MSED),2017,7
+LEPF,MSED,School Business Management (MSED),2016,17
+LEPF,MSED,Foundations of Education (MSED),2016,2
+LEPF,MSED,Educational Psychology (MSED),2016,2
+LEPF,MSED,Educational Administration (MSED),2016,10
+LEPF,MSED,Curriculum and Instruction (MSED),2016,5
+LEPF,MSED,School Business Management (MSED),2015,13
+LEPF,MSED,Foundations of Education (MSED),2015,1
+LEPF,MSED,Educational Psychology (MSED),2015,4
+LEPF,MSED,Curriculum and Instruction (MSED),2015,11
+LEPF,PHD,Educational Psychology (PHD),2025,3
+LEPF,PHD,Educational Psychology (PHD),2024,3
+LEPF,PHD,Educational Psychology (PHD),2023,5
+LEPF,PHD,Educational Psychology (PHD),2022,3
+LEPF,PHD,Educational Psychology (PHD),2021,2
+LEPF,PHD,Educational Psychology (PHD),2019,4
+LEPF,PHD,Educational Psychology (PHD),2018,3
+LEPF,PHD,Educational Psychology (PHD),2017,2
+LEPF,PHD,Educational Psychology (PHD),2016,2
+LEPF,PHD,Educational Psychology (PHD),2015,2
+LTCY,BSED,Middle Level Teaching and Learning (BSED),2025,16
+LTCY,BSED,Elementary Education: Special Education (BSED),2025,13
+LTCY,BSED,Elementary Education: Reading Teacher (BSED),2025,14
+LTCY,BSED,Elementary Education: General Elementary Education (BSED),2025,30
+LTCY,BSED,Elementary Education: Bilingual/ESL (BSED),2025,44
+LTCY,BSED,Middle Level Teaching and Learning (BSED),2024,23
+LTCY,BSED,Elementary Education: Special Education (BSED),2024,14
+LTCY,BSED,Elementary Education: Reading Teacher (BSED),2024,13
+LTCY,BSED,Elementary Education: General Elementary Education (BSED),2024,11
+LTCY,BSED,Elementary Education: Elementary Mathematics Education (BSED),2024,1
+LTCY,BSED,Elementary Education: Early Childhood Education (BSED),2024,1
+LTCY,BSED,Elementary Education: Bilingual/ESL (BSED),2024,37
+LTCY,BSED,Middle Level Teaching and Learning (BSED),2023,18
+LTCY,BSED,Elementary Education: Special Education (BSED),2023,26
+LTCY,BSED,Elementary Education: Reading Teacher (BSED),2023,18
+LTCY,BSED,Elementary Education: Elementary Mathematics Education (BSED),2023,1
+LTCY,BSED,Elementary Education: Bilingual/ESL (BSED),2023,49
+LTCY,BSED,Middle Level Teaching and Learning (BSED),2022,13
+LTCY,BSED,Elementary Education: Special Education (BSED),2022,26
+LTCY,BSED,Elementary Education: Reading Teacher (BSED),2022,12
+LTCY,BSED,Elementary Education: Elementary Mathematics Education (BSED),2022,3
+LTCY,BSED,Elementary Education: Bilingual/ESL (BSED),2022,52
+LTCY,BSED,Middle Level Teaching and Learning (BSED),2021,18
+LTCY,BSED,Elementary Education: Special Education (BSED),2021,16
+LTCY,BSED,Elementary Education: Reading Teacher (BSED),2021,8
+LTCY,BSED,Elementary Education: Elementary Mathematics Education (BSED),2021,3
+LTCY,BSED,Elementary Education: Bilingual/ESL (BSED),2021,50
+LTCY,BSED,Middle Level Teaching and Learning (BSED),2020,17
+LTCY,BSED,Elementary Education: Special Education (BSED),2020,10
+LTCY,BSED,Elementary Education: Reading Teacher (BSED),2020,7
+LTCY,BSED,Elementary Education: Elementary Mathematics Education (BSED),2020,1
+LTCY,BSED,Elementary Education: Bilingual/ESL (BSED),2020,41
+LTCY,BSED,Elementary Educ-General (BSED),2020,2
+LTCY,BSED,Middle Level Teaching and Learning (BSED),2019,13
+LTCY,BSED,Elementary Education: Special Education (BSED),2019,6
+LTCY,BSED,Elementary Education: Reading Teacher (BSED),2019,4
+LTCY,BSED,Elementary Education: Elementary Mathematics Education (BSED),2019,2
+LTCY,BSED,Elementary Education: Bilingual/ESL (BSED),2019,21
+LTCY,BSED,Elementary Educ-General (BSED),2019,29
+LTCY,BSED,Middle Level Teaching and Learning (BSED),2018,15
+LTCY,BSED,Elementary Educ-General (BSED),2018,58
+LTCY,BSED,Elementary Educ-General (BSED),2017,91
+LTCY,BSED,Elementary Educ-General (BSED),2016,83
+LTCY,BSED,Elementary Educ-General (BSED),2015,91
+LTCY,EDD,Curriculum and Instruction-Literacy Education (EDD),2025,4
+LTCY,EDD,Curriculum and Instruction - Curriculum Leadership (EDD),2025,1
+LTCY,EDD,Curriculum and Instruction - Curriculum Leadership (EDD),2024,7
+LTCY,EDD,Curriculum and Instruction-Literacy Education (EDD),2023,4
+LTCY,EDD,Curriculum and Instruction - Secondary Education (EDD),2023,1
+LTCY,EDD,Curriculum and Instruction - Curriculum Leadership (EDD),2023,4
+LTCY,EDD,Curriculum and Instruction-Literacy Education (EDD),2022,4
+LTCY,EDD,Curriculum and Instruction - Curriculum Leadership (EDD),2022,3
+LTCY,EDD,Curriculum and Instruction-Literacy Education (EDD),2021,1
+LTCY,EDD,Curriculum and Instruction - Curriculum Leadership (EDD),2021,6
+LTCY,EDD,Curriculum and Instruction-Literacy Education (EDD),2020,4
+LTCY,EDD,"Curriculum and Instruction - Science, Social Studies, and Environmental Edu (EDD)",2020,2
+LTCY,EDD,Curriculum and Instruction - Curriculum Leadership (EDD),2020,8
+LTCY,EDD,Curriculum and Instruction-Literacy Education (EDD),2019,3
+LTCY,EDD,Curriculum and Instruction - Curriculum Leadership (EDD),2019,6
+LTCY,EDD,"Curriculum and Instruction - Science, Social Studies, and Environmental Edu (EDD)",2018,2
+LTCY,EDD,Curriculum and Instruction-Literacy Education (EDD),2017,4
+LTCY,EDD,"Curriculum and Instruction - Science, Social Studies, and Environmental Edu (EDD)",2017,2
+LTCY,EDD,Curriculum and Instruction-Literacy Education (EDD),2016,2
+LTCY,EDD,"Curriculum and Instruction - Science, Social Studies, and Environmental Edu (EDD)",2016,3
+LTCY,EDD,Curriculum and Instruction-Literacy Education (EDD),2015,4
+LTCY,EDD,"Curriculum and Instruction - Science, Social Studies, and Environmental Edu (EDD)",2015,4
+LTCY,MAT,Elementary Education (MAT),2025,24
+LTCY,MAT,Elementary Education (MAT),2024,35
+LTCY,MAT,Elementary Education (MAT),2023,7
+LTCY,MAT,Elementary Education (MAT),2022,23
+LTCY,MAT,Elementary Education (MAT),2021,14
+LTCY,MAT,Elementary Education (MAT),2020,16
+LTCY,MAT,Elementary Education (MAT),2019,12
+LTCY,MAT,Elementary Education (MAT),2018,18
+LTCY,MAT,Elementary Education (MAT),2017,14
+LTCY,MAT,Elementary Education (MAT),2016,10
+LTCY,MSED,Literacy Education: Reading (MSED),2025,18
+LTCY,MSED,Literacy Education: English as a Second Language/Bilingual Education (MSED),2025,34
+LTCY,MSED,Literacy Education (MSED),2025,2
+LTCY,MSED,Curriculum and Instruction: Teacher Leader with Endorsement (MSED),2025,6
+LTCY,MSED,Curriculum & Instr: Curriculum & Cultural Pedagogies in Social Justice (MSED),2025,5
+LTCY,MSED,Literacy Education: English as a Second Language/Bilingual Education (MSED),2024,12
+LTCY,MSED,Literacy Education (MSED),2024,3
+LTCY,MSED,Curriculum and Instruction: Teacher Leader with Endorsement (MSED),2024,16
+LTCY,MSED,Curriculum & Instr: Curriculum & Cultural Pedagogies in Social Justice (MSED),2024,3
+LTCY,MSED,Literacy Education: Reading (MSED),2023,6
+LTCY,MSED,Literacy Education: English as a Second Language/Bilingual Education (MSED),2023,12
+LTCY,MSED,Literacy Education (MSED),2023,33
+LTCY,MSED,Curriculum and Instruction: Teacher Leader with Endorsement (MSED),2023,4
+LTCY,MSED,Curriculum and Instruction (MSED),2023,2
+LTCY,MSED,Curriculum & Instr: Curriculum & Cultural Pedagogies in Social Justice (MSED),2023,3
+LTCY,MSED,Literacy Education: English as a Second Language/Bilingual Education (MSED),2022,2
+LTCY,MSED,Literacy Education (MSED),2022,32
+LTCY,MSED,Curriculum and Instruction (MSED),2022,14
+LTCY,MSED,Curriculum & Instr: Curriculum & Cultural Pedagogies in Social Justice (MSED),2022,3
+LTCY,MSED,Literacy Education (MSED),2021,48
+LTCY,MSED,Curriculum and Instruction (MSED),2021,18
+LTCY,MSED,Literacy Education (MSED),2020,35
+LTCY,MSED,Curriculum and Instruction (MSED),2020,15
+LTCY,MSED,Literacy Education (MSED),2019,71
+LTCY,MSED,Curriculum and Instruction (MSED),2019,8
+LTCY,MSED,Literacy Education (MSED),2018,42
+LTCY,MSED,Literacy Education (MSED),2017,63
+LTCY,MSED,Elementary Education (MSED),2017,1
+LTCY,MSED,Literacy Education (MSED),2016,74
+LTCY,MSED,Literacy Education (MSED),2015,31
+MATH,BS,Mathematics - Mathematics Education (BS),2025,5
+MATH,BS,Mathematics - General Mathematics (BS),2025,6
+MATH,BS,Mathematics - Computational Math (BS),2025,4
+MATH,BS,Mathematics - Applied Mathematics (MULTBS),2025,2
+MATH,BS,Mathematics - Applied Mathematics (BS),2025,8
+MATH,BS,Mathematics - Mathematics Education (BS),2024,7
+MATH,BS,Mathematics - General Mathematics (BS),2024,3
+MATH,BS,Mathematics - Computational Math (BS),2024,2
+MATH,BS,Mathematics - Applied Mathematics (BS),2024,5
+MATH,BS,Mathematics - Probability & Statistics (BS),2023,1
+MATH,BS,Mathematics - Mathematics Education (BS),2023,8
+MATH,BS,Mathematics - General Mathematics (BS),2023,8
+MATH,BS,Mathematics - Computational Math (MULTBS),2023,1
+MATH,BS,Mathematics - Computational Math (BS),2023,4
+MATH,BS,Mathematics - Applied Mathematics (MULTSBS3),2023,1
+MATH,BS,Mathematics - Applied Mathematics (MULTBS),2023,2
+MATH,BS,Mathematics - Applied Mathematics (BS),2023,6
+MATH,BS,Mathematics - Probability & Statistics (BS),2022,1
+MATH,BS,Mathematics - Mathematics Education (MULTBS),2022,1
+MATH,BS,Mathematics - Mathematics Education (BS),2022,13
+MATH,BS,Mathematics - General Mathematics (BS),2022,4
+MATH,BS,Mathematics - Computational Math (MULTBS),2022,1
+MATH,BS,Mathematics - Computational Math (BS),2022,5
+MATH,BS,Mathematics - Applied Mathematics (BS),2022,3
+MATH,BS,Actuarial Science (BS),2022,1
+MATH,BS,Mathematics - Probability & Statistics (BS),2021,3
+MATH,BS,Mathematics - Mathematics Education (BS),2021,13
+MATH,BS,Mathematics - General Mathematics (BS),2021,8
+MATH,BS,Mathematics - Computational Math (MULTBS),2021,1
+MATH,BS,Mathematics - Computational Math (BS),2021,3
+MATH,BS,Mathematics - Applied Mathematics (MULTBS),2021,1
+MATH,BS,Mathematics - Applied Mathematics (BS),2021,7
+MATH,BS,Actuarial Science (BS),2021,5
+MATH,BS,Mathematics - Probability & Statistics (BS),2020,23
+MATH,BS,Mathematics - Mathematics Education (BS),2020,9
+MATH,BS,Mathematics - General Mathematics (BS),2020,7
+MATH,BS,Mathematics - Computational Math (BS),2020,4
+MATH,BS,Mathematics - Applied Mathematics (BS),2020,4
+MATH,BS,Actuarial Science (BS),2020,11
+MATH,BS,Mathematics - Probability & Statistics (BS),2019,18
+MATH,BS,Mathematics - Mathematics Education (BS),2019,16
+MATH,BS,Mathematics - General Mathematics (MULTBS),2019,1
+MATH,BS,Mathematics - General Mathematics (BS),2019,2
+MATH,BS,Mathematics - Computational Math (BS),2019,6
+MATH,BS,Mathematics - Applied Mathematics (MULTSBS3),2019,1
+MATH,BS,Mathematics - Applied Mathematics (BS),2019,8
+MATH,BS,Actuarial Science (BS),2019,8
+MATH,BS,Mathematics - Probability & Statistics (BS),2018,13
+MATH,BS,Mathematics - Mathematics Education (MULTBS),2018,1
+MATH,BS,Mathematics - Mathematics Education (BS),2018,12
+MATH,BS,Mathematics - General Mathematics (MULTBS),2018,1
+MATH,BS,Mathematics - General Mathematics (BS),2018,6
+MATH,BS,Mathematics - Computational Math (MULTBS),2018,1
+MATH,BS,Mathematics - Computational Math (BS),2018,2
+MATH,BS,Mathematics - Applied Mathematics (MULTBS),2018,2
+MATH,BS,Mathematics - Applied Mathematics (BS),2018,3
+MATH,BS,Actuarial Science (BS),2018,5
+MATH,BS,Mathematics - Probability & Statistics (BS),2017,6
+MATH,BS,Mathematics - Mathematics Education (BS),2017,23
+MATH,BS,Mathematics - General Mathematics (MULTBS),2017,1
+MATH,BS,Mathematics - General Mathematics (BS),2017,4
+MATH,BS,Mathematics - Computational Math (MULTBS),2017,1
+MATH,BS,Mathematics - Computational Math (BS),2017,4
+MATH,BS,Mathematics - Applied Mathematics (BS),2017,11
+MATH,BS,Actuarial Science (BS),2017,9
+MATH,BS,Mathematics - Probability & Statistics (BS),2016,17
+MATH,BS,Mathematics - Mathematics Education (BS),2016,15
+MATH,BS,Mathematics - General Mathematics (BS),2016,10
+MATH,BS,Mathematics - Computational Math (BS),2016,7
+MATH,BS,Mathematics - Applied Mathematics (BS),2016,5
+MATH,BS,Actuarial Science (BS),2016,8
+MATH,BS,Mathematics - Probability & Statistics (BS),2015,16
+MATH,BS,Mathematics - Mathematics Education (BS),2015,13
+MATH,BS,Mathematics - General Mathematics (BS),2015,7
+MATH,BS,Mathematics - Computational Math (BS),2015,6
+MATH,BS,Mathematics - Applied Mathematics (BS),2015,4
+MATH,BS,Actuarial Science (BS),2015,6
+MATH,MS,Mathematics - Mathematics Education (MS),2025,3
+MATH,MS,Mathematics - Pure Mathematics (MS),2024,5
+MATH,MS,Mathematics - Mathematics Education (MS),2024,1
+MATH,MS,Mathematics - Pure Mathematics (MS),2023,5
+MATH,MS,Mathematics - Mathematics Education (MS),2023,2
+MATH,MS,Mathematics - Applied Mathematics (MS),2023,2
+MATH,MS,Mathematics - Pure Mathematics (MS),2022,2
+MATH,MS,Mathematics - Computational Mathematics (MS),2022,1
+MATH,MS,Mathematics - Applied Mathematics (MS),2022,1
+MATH,MS,Mathematics - Mathematics Education (MS),2021,2
+MATH,MS,Mathematics - Computational Mathematics (MS),2021,3
+MATH,MS,Mathematics - Pure Mathematics (MS),2020,5
+MATH,MS,Mathematics - Mathematics Education (MS),2020,5
+MATH,MS,Mathematics - Applied Mathematics (MS),2020,1
+MATH,MS,Statistics (MS),2019,9
+MATH,MS,Mathematics - Pure Mathematics (MS),2019,6
+MATH,MS,Mathematics - Mathematics Education (MS),2019,1
+MATH,MS,Mathematics - Computational Mathematics (MS),2019,1
+MATH,MS,Mathematics - Applied Mathematics (MS),2019,1
+MATH,MS,Statistics (MS),2018,20
+MATH,MS,Mathematics - Pure Mathematics (MS),2018,6
+MATH,MS,Mathematics - Mathematics Education (MS),2018,2
+MATH,MS,Mathematics - Computational Mathematics (MS),2018,2
+MATH,MS,Statistics (MS),2017,11
+MATH,MS,Mathematics - Pure Mathematics (MS),2017,8
+MATH,MS,Mathematics - Mathematics Education (MS),2017,2
+MATH,MS,Mathematics - Applied Mathematics (MS),2017,3
+MATH,MS,Statistics (MS),2016,12
+MATH,MS,Mathematics - Pure Mathematics (MS),2016,7
+MATH,MS,Mathematics - Mathematics Education (MS),2016,1
+MATH,MS,Mathematics - Applied Mathematics (MS),2016,1
+MATH,MS,Statistics (MS),2015,17
+MATH,MS,Mathematics - Pure Mathematics (MS),2015,8
+MATH,MS,Mathematics - Mathematics Education (MS),2015,4
+MATH,MS,Mathematics - Applied Mathematics (MS),2015,3
+MATH,MSTCH,Middle School Mathematics Education (MSTCH),2018,1
+MATH,MSTCH,Middle School Mathematics Education (MSTCH),2015,1
+MATH,MULTBS,Mathematics - Applied Mathematics (MULTBS),2016,2
+MATH,MULTBS,Mathematics - Applied Mathematics (MULTBS),2015,3
+MATH,PHD,Mathematical Science (PHD),2025,9
+MATH,PHD,Mathematical Science (PHD),2024,3
+MATH,PHD,Mathematical Science (PHD),2023,3
+MATH,PHD,Mathematical Science (PHD),2022,4
+MATH,PHD,Mathematical Science (PHD),2021,5
+MATH,PHD,Mathematical Science (PHD),2020,6
+MATH,PHD,Mathematical Science (PHD),2019,3
+MATH,PHD,Mathematical Science (PHD),2018,3
+MATH,PHD,Mathematical Science (PHD),2017,5
+MATH,PHD,Mathematical Science (PHD),2016,3
+MATH,PHD,Mathematical Science (PHD),2015,4
+MEE,BS,Mechanical Engineering: Sustainable Energy (BS),2025,5
+MEE,BS,Mechanical Engineering: Advanced Computing (BS),2025,2
+MEE,BS,Mechanical Engineering-Robotics and Controls (BS),2025,4
+MEE,BS,Mechanical Engineering (BS),2025,77
+MEE,BS,Mechanical Engineering: Sustainable Energy (BS),2024,4
+MEE,BS,Mechanical Engineering-Robotics and Controls (BS),2024,5
+MEE,BS,Mechanical Engineering (MULTBS),2024,1
+MEE,BS,Mechanical Engineering (BS),2024,93
+MEE,BS,Mechanical Engineering: Sustainable Energy (BS),2023,1
+MEE,BS,Mechanical Engineering: Advanced Computing (BS),2023,1
+MEE,BS,Mechanical Engineering-Robotics and Controls (BS),2023,1
+MEE,BS,Mechanical Engineering (BS),2023,90
+MEE,BS,Mechanical Engineering: Sustainable Energy (BS),2022,6
+MEE,BS,Mechanical Engineering: Advanced Computing (BS),2022,4
+MEE,BS,Mechanical Engineering-Robotics and Controls (BS),2022,8
+MEE,BS,Mechanical Engineering (BS),2022,85
+MEE,BS,Mechanical Engineering: Sustainable Energy (BS),2021,8
+MEE,BS,Mechanical Engineering: Advanced Computing (BS),2021,3
+MEE,BS,Mechanical Engineering-Robotics and Controls (BS),2021,11
+MEE,BS,Mechanical Engineering (BS),2021,98
+MEE,BS,Mechanical Engineering: Sustainable Energy (BS),2020,11
+MEE,BS,Mechanical Engineering: Advanced Computing (BS),2020,3
+MEE,BS,Mechanical Engineering-Robotics and Controls (BS),2020,19
+MEE,BS,Mechanical Engineering (MULTBS),2020,1
+MEE,BS,Mechanical Engineering (BS),2020,89
+MEE,BS,Mechanical Engineering: Sustainable Energy (BS),2019,19
+MEE,BS,Mechanical Engineering: Advanced Computing (BS),2019,6
+MEE,BS,Mechanical Engineering-Robotics and Controls (BS),2019,13
+MEE,BS,Mechanical Engineering (BS),2019,132
+MEE,BS,Mechanical Engineering: Sustainable Energy (BS),2018,26
+MEE,BS,Mechanical Engineering: Advanced Computing (BS),2018,4
+MEE,BS,Mechanical Engineering-Robotics and Controls (BS),2018,17
+MEE,BS,Mechanical Engineering (BS),2018,89
+MEE,BS,Mechanical Engineering: Sustainable Energy (BS),2017,10
+MEE,BS,Mechanical Engineering: Advanced Computing (BS),2017,3
+MEE,BS,Mechanical Engineering-Robotics and Controls (BS),2017,13
+MEE,BS,Mechanical Engineering (BS),2017,92
+MEE,BS,Mechanical Engineering: Sustainable Energy (BS),2016,3
+MEE,BS,Mechanical Engineering: Advanced Computing (BS),2016,2
+MEE,BS,Mechanical Engineering-Robotics and Controls (BS),2016,11
+MEE,BS,Mechanical Engineering (BS),2016,83
+MEE,BS,Mechanical Engineering: Sustainable Energy (BS),2015,2
+MEE,BS,Mechanical Engineering: Advanced Computing (BS),2015,3
+MEE,BS,Mechanical Engineering-Robotics and Controls (BS),2015,12
+MEE,BS,Mechanical Engineering (BS),2015,60
+MEE,MS,Mechanical Engineering (MS),2025,5
+MEE,MS,Mechanical Engineering (MS),2024,18
+MEE,MS,Mechanical Engineering (MS),2023,11
+MEE,MS,Mechanical Engineering (MS),2022,38
+MEE,MS,Mechanical Engineering (MS),2021,15
+MEE,MS,Mechanical Engineering (MS),2020,18
+MEE,MS,Mechanical Engineering (MS),2019,43
+MEE,MS,Mechanical Engineering (MS),2018,30
+MEE,MS,Mechanical Engineering (MS),2017,53
+MEE,MS,Mechanical Engineering (MS),2016,36
+MEE,MS,Mechanical Engineering (MS),2015,39
+MGMT,BS,Management - Leadership and Management (BS),2025,31
+MGMT,BS,Management - Human Resource Management (BS),2025,13
+MGMT,BS,Management - Entrepreneurship and Social Responsibility (BS),2025,13
+MGMT,BS,Business Administration: Hospitality and Tourism Management (BS),2025,5
+MGMT,BS,Business Administration (BS),2025,55
+MGMT,BS,Management - Leadership and Management (MULTBS),2024,1
+MGMT,BS,Management - Leadership and Management (BS),2024,35
+MGMT,BS,Management - Human Resource Management (BS),2024,17
+MGMT,BS,Management - Entrepreneurship and Social Responsibility (BS),2024,12
+MGMT,BS,Business Administration: Hospitality and Tourism Management (BS),2024,6
+MGMT,BS,Business Administration (BS),2024,52
+MGMT,BS,Management - Leadership and Management (BS),2023,32
+MGMT,BS,Management - Human Resource Management (BS),2023,21
+MGMT,BS,Management - Entrepreneurship and Social Responsibility (BS),2023,10
+MGMT,BS,Business Administration (BS),2023,54
+MGMT,BS,Management - Leadership and Management (BS),2022,28
+MGMT,BS,Management - Human Resource Management (BS),2022,36
+MGMT,BS,Management - Entrepreneurship and Social Responsibility (BS),2022,21
+MGMT,BS,Business Administration (BS),2022,72
+MGMT,BS,Management - Leadership and Management (BS),2021,27
+MGMT,BS,Management - Human Resource Management (BS),2021,40
+MGMT,BS,Management - Entrepreneurship and Social Responsibility (BS),2021,11
+MGMT,BS,Business Administration (BS),2021,74
+MGMT,BS,Management - Leadership and Management (BS),2020,38
+MGMT,BS,Management - Human Resource Management (BS),2020,31
+MGMT,BS,Management - Entrepreneurship and Social Responsibility (BS),2020,15
+MGMT,BS,Business Administration (BS),2020,78
+MGMT,BS,Management - Leadership and Management (BS),2019,47
+MGMT,BS,Management - Human Resource Management (BS),2019,19
+MGMT,BS,Management - Entrepreneurship and Social Responsibility (BS),2019,11
+MGMT,BS,Business Administration (BS),2019,75
+MGMT,BS,Management - Leadership and Management (BS),2018,46
+MGMT,BS,Management - Human Resource Management (BS),2018,32
+MGMT,BS,Management - Entrepreneurship and Social Responsibility (BS),2018,12
+MGMT,BS,Business Administration (BS),2018,69
+MGMT,BS,Management - Leadership and Management (BS),2017,35
+MGMT,BS,Management - Human Resource Management (BS),2017,40
+MGMT,BS,Management - Entrepreneurship and Social Responsibility (BS),2017,2
+MGMT,BS,Business Administration (BS),2017,64
+MGMT,BS,Management - Leadership and Management (BS),2016,35
+MGMT,BS,Management - Human Resource Management (BS),2016,25
+MGMT,BS,Business Administration (BS),2016,76
+MGMT,BS,Management - Leadership and Management (BS),2015,28
+MGMT,BS,Management - Human Resource Management (BS),2015,24
+MGMT,BS,Business Administration (BS),2015,77
+MGMT,MBA,Business Administration MBA (MBA),2021,23
+MGMT,MBA,Business Administration MBA (MBA),2020,146
+MGMT,MBA,Business Administration MBA (MBA),2019,206
+MGMT,MBA,Business Administration MBA (MBA),2018,243
+MGMT,MBA,Business Administration MBA (MBA),2017,215
+MGMT,MBA,Business Administration MBA (MBA),2016,307
+MGMT,MBA,Business Administration MBA (MBA),2015,106
+MKTG,BS,Marketing (BS),2025,82
+MKTG,BS,Marketing (MULTBS),2024,3
+MKTG,BS,Marketing (BS),2024,109
+MKTG,BS,Marketing (MULTBS),2023,2
+MKTG,BS,Marketing (BS),2023,117
+MKTG,BS,Marketing (MULTBS),2022,3
+MKTG,BS,Marketing (BS),2022,122
+MKTG,BS,Marketing (MULTBS),2021,2
+MKTG,BS,Marketing (BS),2021,123
+MKTG,BS,Marketing (MULTBS),2020,3
+MKTG,BS,Marketing (BS),2020,149
+MKTG,BS,Marketing (MULTBS),2019,4
+MKTG,BS,Marketing (BS),2019,159
+MKTG,BS,Marketing (MULTBS),2018,2
+MKTG,BS,Marketing (BS),2018,142
+MKTG,BS,Marketing (BS),2017,126
+MKTG,BS,Marketing (BS),2016,111
+MKTG,BS,Marketing (BS),2015,76
+MKTG,MS,Digital Marketing (MS),2025,26
+MKTG,MS,Digital Marketing (MS),2024,33
+MKTG,MS,Digital Marketing (MS),2023,49
+MKTG,MS,Digital Marketing (MS),2022,35
+MKTG,MS,Digital Marketing (MS),2021,29
+MKTG,MS,Digital Marketing (MS),2020,20
+MUSC,BA,Music (BA),2025,7
+MUSC,BA,Music (BA),2024,1
+MUSC,BA,Music (BA),2023,5
+MUSC,BA,Music (BA),2021,1
+MUSC,BA,Music (BA),2020,2
+MUSC,BA,Music (MULTBA),2019,1
+MUSC,BA,Music (BA),2018,2
+MUSC,BA,Music (BA),2017,3
+MUSC,BA,Music (BA),2015,4
+MUSC,BM,Music - Performance (MULTBM),2025,4
+MUSC,BM,Music - Performance (BM),2025,13
+MUSC,BM,Music - Education (MULTBM),2025,4
+MUSC,BM,Music - Education (BM),2025,20
+MUSC,BM,Music - Composition (BM),2025,1
+MUSC,BM,Music - Performance (MULTBM),2024,2
+MUSC,BM,Music - Performance (BM),2024,13
+MUSC,BM,Music - Education (BM),2024,8
+MUSC,BM,Music - Performance (MULTBM),2023,3
+MUSC,BM,Music - Performance (BM),2023,13
+MUSC,BM,Music - Education (BM),2023,13
+MUSC,BM,Music - Composition (BM),2023,1
+MUSC,BM,Music - Performance (MULTBM),2022,2
+MUSC,BM,Music - Performance (BM),2022,13
+MUSC,BM,Music - Education (MULTBM),2022,1
+MUSC,BM,Music - Education (BM),2022,21
+MUSC,BM,Music - Performance (MULTBM),2021,4
+MUSC,BM,Music - Performance (BM),2021,14
+MUSC,BM,Music - Education (BM),2021,13
+MUSC,BM,Music - Composition (BM),2021,2
+MUSC,BM,Music - Performance (MULTBM),2020,1
+MUSC,BM,Music - Performance (BM),2020,17
+MUSC,BM,Music - Education (MULTBM),2020,4
+MUSC,BM,Music - Education (BM),2020,11
+MUSC,BM,Music - Composition (BM),2020,2
+MUSC,BM,Music - Performance (MULTBM),2019,3
+MUSC,BM,Music - Performance (BM),2019,10
+MUSC,BM,Music - Education (MULTBM),2019,1
+MUSC,BM,Music - Education (BM),2019,16
+MUSC,BM,Music - Performance (MULTBM),2018,1
+MUSC,BM,Music - Performance (BM),2018,18
+MUSC,BM,Music - Education (MULTBM),2018,2
+MUSC,BM,Music - Education (BM),2018,8
+MUSC,BM,Music - Composition (BM),2018,1
+MUSC,BM,Music - Performance (MULTBM),2017,1
+MUSC,BM,Music - Performance (BM),2017,18
+MUSC,BM,Music - Education (MULTBM),2017,3
+MUSC,BM,Music - Education (BM),2017,7
+MUSC,BM,Music - Composition (BM),2017,1
+MUSC,BM,Music - Performance (BM),2016,17
+MUSC,BM,Music - Education (BM),2016,6
+MUSC,BM,Music - Composition (BM),2016,2
+MUSC,BM,Music - Performance (BM),2015,11
+MUSC,BM,Music - Education (BM),2015,5
+MUSC,MM,Music Performance (MM),2025,6
+MUSC,MM,Individualized Specialization (MM),2025,9
+MUSC,MM,Music Performance (MM),2024,23
+MUSC,MM,Individualized Specialization (MM),2024,12
+MUSC,MM,Music Performance (MM),2023,15
+MUSC,MM,Music Education (MM),2023,2
+MUSC,MM,Individualized Specialization (MM),2023,13
+MUSC,MM,Music Performance (MM),2022,11
+MUSC,MM,Individualized Specialization (MM),2022,13
+MUSC,MM,Music Performance (MM),2021,11
+MUSC,MM,Individualized Specialization (MM),2021,12
+MUSC,MM,Music Performance (MM),2020,7
+MUSC,MM,Music Education (MM),2020,4
+MUSC,MM,Individualized Specialization (MM),2020,18
+MUSC,MM,Music Performance (MM),2019,10
+MUSC,MM,Music Education (MM),2019,5
+MUSC,MM,Individualized Specialization (MM),2019,13
+MUSC,MM,Music Performance (MM),2018,12
+MUSC,MM,Music Education (MM),2018,3
+MUSC,MM,Individualized Specialization (MM),2018,9
+MUSC,MM,Music Performance (MULTMM),2017,1
+MUSC,MM,Music Performance (MM),2017,10
+MUSC,MM,Music Education (MM),2017,1
+MUSC,MM,Individualized Specialization (MM),2017,20
+MUSC,MM,Music Performance (MM),2016,25
+MUSC,MM,Music Education (MM),2016,4
+MUSC,MM,Individualized Specialization (MM),2016,15
+MUSC,MM,Music Performance (MM),2015,10
+MUSC,MM,Music Education (MM),2015,5
+MUSC,MM,Individualized Specialization (MM),2015,10
+MUSC,MULTBA,Music (MULTBA),2015,1
+MUSC,MULTBM,Music - Education (MULTBM),2016,1
+MUSC,MULTBM,Music - Performance (MULTBM),2015,1
+MUSC,MULTBM,Music - Education (MULTBM),2015,1
+MUSC,MULTMM,Music Performance (MULTMM),2024,1
+MUSC,PC,Performers Certificate (PC),2025,6
+MUSC,PC,Performers Certificate (PC),2024,3
+MUSC,PC,Performers Certificate (PC),2023,9
+MUSC,PC,Performers Certificate (PC),2022,11
+MUSC,PC,Performers Certificate (PC),2021,7
+MUSC,PC,Performers Certificate (PC),2020,5
+MUSC,PC,Performers Certificate (PC),2019,8
+MUSC,PC,Performers Certificate (PC),2018,5
+MUSC,PC,Performers Certificate (PC),2017,6
+MUSC,PC,Performers Certificate (PC),2016,5
+MUSC,PC,Performers Certificate (PC),2015,4
+NGOLD,BA,Nonprofit and NGO Studies (BA),2025,5
+NGOLD,BA,Nonprofit and NGO Studies (BA),2024,3
+NGOLD,BA,Nonprofit and NGO Studies (BA),2023,12
+NGOLD,BA,Nonprofit and NGO Studies (BA),2022,6
+NGOLD,BA,Nonprofit and NGO Studies (BA),2021,11
+NGOLD,BA,Nonprofit and NGO Studies (BA),2020,14
+NGOLD,BA,Nonprofit and NGO Studies (BA),2019,21
+NGOLD,BA,Nonprofit and NGO Studies (BA),2018,25
+NGOLD,BA,Nonprofit and NGO Studies (BA),2017,22
+NGOLD,BS,Nonprofit and NGO Studies (MULTBS),2024,1
+NGOLD,BS,Nonprofit and NGO Studies (BS),2024,3
+NGOLD,BS,Nonprofit and NGO Studies (BS),2023,4
+NGOLD,BS,Nonprofit and NGO Studies (BS),2022,5
+NGOLD,BS,Nonprofit and NGO Studies (BS),2021,4
+NGOLD,BS,Nonprofit and NGO Studies (BS),2020,8
+NGOLD,BS,Nonprofit and NGO Studies (BS),2019,6
+NGOLD,BS,Nonprofit and NGO Studies (MULTBS),2018,1
+NGOLD,BS,Nonprofit and NGO Studies (BS),2018,9
+NGOLD,BS,Nonprofit and NGO Studies (BS),2017,2
+NNGO,BA,Nonprofit and NGO Studies (BA),2016,23
+NNGO,BA,Nonprofit and NGO Studies (BA),2015,13
+NNGO,BS,Nonprofit and NGO Studies (BS),2016,2
+NNGO,BS,Nonprofit and NGO Studies (BS),2015,5
+NURS,BS,Nursing (BS),2025,154
+NURS,BS,Nursing (BS),2024,124
+NURS,BS,Nursing (MULTBS),2023,1
+NURS,BS,Nursing (BS),2023,152
+NURS,BS,Nursing (BS),2022,166
+NURS,BS,Nursing (MULTBS),2021,1
+NURS,BS,Nursing (BS),2021,184
+NURS,BS,Nursing (MULTBS),2020,1
+NURS,BS,Nursing (BS),2020,158
+NURS,BS,Nursing (BS),2019,136
+NURS,BS,Nursing (BS),2018,161
+NURS,BS,Public Health-Health Promotion (BS),2017,9
+NURS,BS,Public Health-Environment and Health (BS),2017,3
+NURS,BS,Public Health - Health Administration (BS),2017,15
+NURS,BS,Public Health - Gen Public Health (BS),2017,6
+NURS,BS,Nursing (BS),2017,191
+NURS,BS,Public Health-Health Promotion (BS),2016,19
+NURS,BS,Public Health-Environment and Health (BS),2016,7
+NURS,BS,Public Health - Health Administration (BS),2016,22
+NURS,BS,Public Health - Gen Public Health (BS),2016,33
+NURS,BS,Nursing (BS),2016,219
+NURS,BS,Public Health-Health Promotion (BS),2015,5
+NURS,BS,Public Health-Environment and Health (BS),2015,4
+NURS,BS,Public Health - Health Administration (BS),2015,37
+NURS,BS,Public Health - Gen Public Health (BS),2015,35
+NURS,BS,Nursing (BS),2015,213
+NURS,BSED,Health Education (BSED),2016,4
+NURS,BSED,Health Education (BSED),2015,4
+NURS,DNP,Nursing Practice (DNP),2025,10
+NURS,DNP,Nursing Practice (DNP),2024,4
+NURS,DNP,Nursing Practice (DNP),2023,9
+NURS,DNP,Nursing Practice (DNP),2022,6
+NURS,DNP,Nursing Practice (DNP),2021,4
+NURS,MAT,"Health Education, 6-12 and Middle School (MAT)",2017,1
+NURS,MAT,"Health Education, 6-12 and Middle School (MAT)",2016,3
+NURS,MAT,"Health Education, 6-12 and Middle School (MAT)",2015,2
+NURS,MPH,Public Health - Health Services Management (MPH),2017,10
+NURS,MPH,Public Health - Health Promotion (MPH),2017,8
+NURS,MPH,Public Health - Health Services Management (MPH),2016,13
+NURS,MPH,Public Health - Health Promotion (MPH),2016,5
+NURS,MPH,Public Health - Health Services Management (MPH),2015,11
+NURS,MPH,Public Health - Health Promotion (MPH),2015,12
+NURS,MS,Family Nurse Practitioner (MS),2025,32
+NURS,MS,Nursing Education (MS),2024,2
+NURS,MS,Family Nurse Practitioner (MS),2024,33
+NURS,MS,Nursing Education (MS),2023,1
+NURS,MS,Family Nurse Practitioner (MS),2023,31
+NURS,MS,Nursing Education (MS),2022,1
+NURS,MS,Family Nurse Practitioner (MS),2022,32
+NURS,MS,Nursing Education (MS),2021,3
+NURS,MS,Family Nurse Practitioner (MS),2021,24
+NURS,MS,Nursing Education (MS),2020,13
+NURS,MS,Family Nurse Practitioner (MS),2020,18
+NURS,MS,Nursing Education (MS),2019,4
+NURS,MS,Family Nurse Practitioner (MS),2019,18
+NURS,MS,Nursing Education (MS),2018,3
+NURS,MS,Family Nurse Practitioner (MS),2018,34
+NURS,MS,Adult-Gerontology Primary Care Nurse Practitioner (MS),2018,6
+NURS,MS,Adult-Gerontology Clinical Nurse Specialist (MS),2018,1
+NURS,MS,Nursing Education (MS),2017,7
+NURS,MS,Family Nurse Practitioner (MS),2017,36
+NURS,MS,Adult-Gerontology Primary Care Nurse Practitioner (MS),2017,8
+NURS,MS,Adult-Gerontology Clinical Nurse Specialist (MS),2017,2
+NURS,MS,Nursing Education (MS),2016,7
+NURS,MS,Family Nurse Practitioner (MS),2016,48
+NURS,MS,Adult-Gerontology Primary Care Nurse Practitioner (MS),2016,15
+NURS,MS,Adult-Gerontology Clinical Nurse Specialist (MS),2016,1
+NURS,MS,Nursing Education (MS),2015,11
+NURS,MS,Family Nurse Practitioner (MS),2015,52
+NURS,MS,Adult-Gerontology Primary Care Nurse Practitioner (MS),2015,14
+NURS,MSTCH,"Health Education, 6-12 and Middle School (MSTCH)",2020,1
+NURS,MSTCH,"Health Education, 6-12 and Middle School (MSTCH)",2019,1
+NURS,MSTCH,"Health Education, 6-12 and Middle School (MSTCH)",2018,2
+NURS,MSTCH,"Health Education, 6-12 and Middle School (MSTCH)",2017,1
+NURS,MSTCH,"Health Education, 6-12 and Middle School (MSTCH)",2016,4
+NURS,MSTCH,"Health Education, 6-12 and Middle School (MSTCH)",2015,2
+NURS,MULTBS,Nursing (MULTBS),2016,3
+NURS,MULTBS,Nursing (MULTBS),2015,1
+OMIS,BS,Operations & Information Management (BS),2025,39
+OMIS,BS,Operations & Information Management (BS),2024,43
+OMIS,BS,Operations & Information Management (BS),2023,55
+OMIS,BS,Operations & Information Management (BS),2022,76
+OMIS,BS,Operations & Information Management (BS),2021,100
+OMIS,BS,Operations & Information Management (BS),2020,96
+OMIS,BS,Operations & Information Management (BS),2019,102
+OMIS,BS,Operations & Information Management (BS),2018,71
+OMIS,BS,Operations & Information Management (BS),2017,69
+OMIS,BS,Operations & Information Management (BS),2016,85
+OMIS,BS,Operations & Information Management (BS),2015,83
+OMIS,MS,Management and Information Systems (MS),2025,144
+OMIS,MS,Data Analytics (MS),2025,48
+OMIS,MS,Management and Information Systems (MS),2024,144
+OMIS,MS,Data Analytics (MS),2024,40
+OMIS,MS,Management and Information Systems (MS),2023,105
+OMIS,MS,Data Analytics (MS),2023,63
+OMIS,MS,Management and Information Systems (MS),2022,52
+OMIS,MS,Data Analytics (MS),2022,73
+OMIS,MS,Management and Information Systems (MS),2021,76
+OMIS,MS,Data Analytics (MS),2021,28
+OMIS,MS,Management and Information Systems (MS),2020,83
+OMIS,MS,Data Analytics (MS),2020,8
+OMIS,MS,Management and Information Systems (MS),2019,91
+OMIS,MS,Management and Information Systems (MS),2018,112
+OMIS,MS,Management and Information Systems (MS),2017,130
+OMIS,MS,Management and Information Systems (MS),2016,109
+OMIS,MS,Management and Information Systems (MS),2015,53
+PHIL,BA,Philosophy (BA),2025,4
+PHIL,BA,Philosophy (MULTBA),2024,2
+PHIL,BA,Philosophy (BA),2024,4
+PHIL,BA,Philosophy (BA),2023,3
+PHIL,BA,Philosophy (MULTBA),2022,1
+PHIL,BA,Philosophy (BA),2022,9
+PHIL,BA,Philosophy (BA),2021,9
+PHIL,BA,Philosophy (BA),2020,6
+PHIL,BA,Philosophy (BA),2019,8
+PHIL,BA,Philosophy (BA),2018,5
+PHIL,BA,Philosophy (BA),2017,2
+PHIL,BA,Philosophy (BA),2016,2
+PHIL,BA,Philosophy (BA),2015,8
+PHIL,BS,Philosophy (BS),2025,5
+PHIL,BS,Philosophy (MULTBS),2024,1
+PHIL,BS,Philosophy (BS),2023,4
+PHIL,BS,Philosophy (BS),2022,2
+PHIL,BS,Philosophy (BS),2021,5
+PHIL,BS,Philosophy (MULTBS),2020,1
+PHIL,BS,Philosophy (BS),2020,5
+PHIL,BS,Philosophy (BS),2019,5
+PHIL,BS,Philosophy (BS),2018,3
+PHIL,BS,Philosophy (BS),2017,4
+PHIL,BS,Philosophy (BS),2016,1
+PHIL,BS,Philosophy (BS),2015,5
+PHIL,MA,Philosophy (MA),2025,14
+PHIL,MA,Philosophy (MA),2024,12
+PHIL,MA,Philosophy (MA),2023,9
+PHIL,MA,Philosophy (MA),2022,9
+PHIL,MA,Philosophy (MA),2021,11
+PHIL,MA,Philosophy (MA),2020,14
+PHIL,MA,Philosophy (MA),2019,8
+PHIL,MA,Philosophy (MA),2018,17
+PHIL,MA,Philosophy (MA),2017,14
+PHIL,MA,Philosophy (MA),2016,14
+PHIL,MA,Philosophy (MA),2015,13
+PHIL,MULTBA,Philosophy (MULTBA),2016,1
+PHIL,MULTBS,Philosophy (MULTBS),2016,2
+PHIL,MULTBS,Philosophy (MULTBS),2015,1
+PHYS,BS,Physics - Secondary Teaching (BS),2025,1
+PHYS,BS,Physics - Professional Physics (BS),2025,3
+PHYS,BS,Physics - Applied Physics (BS),2025,1
+PHYS,BS,Physics - Professional Physics (BS),2024,3
+PHYS,BS,Physics - Applied Physics (BS),2024,6
+PHYS,BS,Physics - Professional Physics (BS),2023,2
+PHYS,BS,Physics - Applied Physics (BS),2023,3
+PHYS,BS,Physics - Secondary Teaching (BS),2022,2
+PHYS,BS,Physics - Professional Physics (BS),2022,2
+PHYS,BS,Physics - Applied Physics (BS),2022,6
+PHYS,BS,Physics - Professional Physics (BS),2021,1
+PHYS,BS,Physics - Applied Physics (BS),2021,1
+PHYS,BS,Physics - Secondary Teaching (BS),2020,1
+PHYS,BS,Physics - Professional Physics (MULTBS),2020,1
+PHYS,BS,Physics - Professional Physics (BS),2020,2
+PHYS,BS,Physics - Applied Physics (BS),2020,1
+PHYS,BS,Physics - Secondary Teaching (BS),2019,3
+PHYS,BS,Physics - Professional Physics (BS),2019,1
+PHYS,BS,Physics - Applied Physics (BS),2019,5
+PHYS,BS,Physics - Secondary Teaching (BS),2018,3
+PHYS,BS,Physics - Professional Physics (MULTBS),2018,1
+PHYS,BS,Physics - Professional Physics (BS),2018,4
+PHYS,BS,Physics - Applied Physics (BS),2018,9
+PHYS,BS,Physics - Secondary Teaching (BS),2017,2
+PHYS,BS,Physics - Professional Physics (BS),2017,7
+PHYS,BS,Physics - Professional Physics (BS),2016,3
+PHYS,BS,Physics - Applied Physics (BS),2016,2
+PHYS,BS,Physics - Secondary Teaching (BS),2015,2
+PHYS,BS,Physics - Professional Physics (BS),2015,11
+PHYS,BS,Physics - Applied Physics (BS),2015,4
+PHYS,MS,Physics - Professional Physics (MS),2025,1
+PHYS,MS,Physics - Physics Teaching (MS),2025,1
+PHYS,MS,Physics - Professional Physics (MS),2024,3
+PHYS,MS,Physics - Interdisciplinary Physics (MS),2024,3
+PHYS,MS,Physics - Professional Physics (MS),2023,5
+PHYS,MS,Physics - Professional Physics (MS),2022,3
+PHYS,MS,Physics - Interdisciplinary Physics (MS),2022,1
+PHYS,MS,Physics - Professional Physics (MS),2021,2
+PHYS,MS,Physics - Interdisciplinary Physics (MS),2021,3
+PHYS,MS,Physics - Professional Physics (MS),2020,5
+PHYS,MS,Physics - Physics Teaching (MS),2020,1
+PHYS,MS,Physics - Interdisciplinary Physics (MS),2020,3
+PHYS,MS,Physics - Professional Physics (MS),2019,3
+PHYS,MS,Physics - Interdisciplinary Physics (MS),2019,1
+PHYS,MS,Physics - Professional Physics (MS),2018,5
+PHYS,MS,Physics - Interdisciplinary Physics (MS),2018,1
+PHYS,MS,Physics - Professional Physics (MS),2017,5
+PHYS,MS,Physics - Interdisciplinary Physics (MS),2017,1
+PHYS,MS,Physics - Professional Physics (MS),2016,3
+PHYS,MS,Physics - Physics Teaching (MS),2016,2
+PHYS,MS,Physics - Interdisciplinary Physics (MS),2016,1
+PHYS,MS,Physics - Professional Physics (MS),2015,4
+PHYS,MS,Physics - Interdisciplinary Physics (MS),2015,2
+PHYS,PHD,Physics (PHD),2025,3
+PHYS,PHD,Physics (PHD),2024,6
+PHYS,PHD,Physics (PHD),2023,9
+PHYS,PHD,Physics (PHD),2022,6
+PHYS,PHD,Physics (PHD),2021,2
+PHYS,PHD,Physics (PHD),2020,4
+PHYS,PHD,Physics (PHD),2019,6
+PHYS,PHD,Nanoscience (PHD),2019,1
+PHYS,PHD,Physics (PHD),2018,3
+PHYS,PHD,Physics (PHD),2017,3
+PHYS,PHD,Nanoscience (PHD),2017,1
+PHYS,PHD,Physics (PHD),2016,3
+PHYS,PHD,Physics (PHD),2015,5
+POLS,BA,Political Science - Public Law (BA),2025,10
+POLS,BA,Political Science - Public Administration & Service (BA),2025,2
+POLS,BA,Political Science - Politics and Governance (BA),2025,43
+POLS,BA,Political Science - International Politics (BA),2025,10
+POLS,BA,Political Science - Public Law (BA),2024,11
+POLS,BA,Political Science - Public Administration & Service (BA),2024,2
+POLS,BA,Political Science - Politics and Governance (BA),2024,21
+POLS,BA,Political Science - International Politics (BA),2024,11
+POLS,BA,Political Science - Public Law (BA),2023,11
+POLS,BA,Political Science - Public Administration & Service (BA),2023,4
+POLS,BA,Political Science - Politics and Governance (MULTBA),2023,1
+POLS,BA,Political Science - Politics and Governance (BA),2023,25
+POLS,BA,Political Science - International Politics (BA),2023,12
+POLS,BA,Political Science - Public Law (BA),2022,18
+POLS,BA,Political Science - Public Administration & Service (BA),2022,1
+POLS,BA,Political Science - Politics and Governance (BA),2022,22
+POLS,BA,Political Science - International Politics (BA),2022,12
+POLS,BA,Political Science-Justice and Democracy: The American Experiment (BA),2021,1
+POLS,BA,Political Science - Public Law (BA),2021,17
+POLS,BA,Political Science - Public Administration & Service (BA),2021,4
+POLS,BA,Political Science - Politics and Governance (BA),2021,25
+POLS,BA,Political Science - International Politics (BA),2021,8
+POLS,BA,Political Science-Justice and Democracy: The American Experiment (BA),2020,1
+POLS,BA,Political Science - Public Law (BA),2020,18
+POLS,BA,Political Science - Public Administration & Service (BA),2020,6
+POLS,BA,Political Science - Politics and Governance (BA),2020,36
+POLS,BA,Political Science - International Politics (BA),2020,8
+POLS,BA,Political Science-Justice and Democracy: The American Experiment (BA),2019,1
+POLS,BA,Political Science - Public Law (BA),2019,14
+POLS,BA,Political Science - Public Administration & Service (BA),2019,4
+POLS,BA,Political Science - Politics and Governance (MULTBA),2019,2
+POLS,BA,Political Science - Politics and Governance (BA),2019,22
+POLS,BA,Political Science - International Politics (BA),2019,12
+POLS,BA,Political Science-Justice and Democracy: The American Experiment (BA),2018,1
+POLS,BA,Political Science - Public Law (BA),2018,19
+POLS,BA,Political Science - Public Administration & Service (BA),2018,12
+POLS,BA,Political Science - Politics and Governance (BA),2018,21
+POLS,BA,Political Science - International Politics (BA),2018,12
+POLS,BA,Political Science - Public Law (BA),2017,16
+POLS,BA,Political Science - Public Administration & Service (BA),2017,5
+POLS,BA,Political Science - Politics and Governance (BA),2017,28
+POLS,BA,Political Science - International Politics (MULTBA),2017,1
+POLS,BA,Political Science - International Politics (BA),2017,18
+POLS,BA,Political Science - Public Law (BA),2016,24
+POLS,BA,Political Science - Public Administration & Service (BA),2016,14
+POLS,BA,Political Science - Politics and Governance (BA),2016,30
+POLS,BA,Political Science - International Politics (BA),2016,12
+POLS,BA,Political Science - Public Law (BA),2015,21
+POLS,BA,Political Science - Public Administration & Service (BA),2015,12
+POLS,BA,Political Science - Politics and Governance (BA),2015,28
+POLS,BA,Political Science - International Politics (BA),2015,27
+POLS,BS,Political Science - Public Law (BS),2025,4
+POLS,BS,Political Science - Politics and Governance (BS),2025,5
+POLS,BS,Political Science - International Politics (BS),2025,2
+POLS,BS,Political Science - Public Law (BS),2024,2
+POLS,BS,Political Science - Public Administration and Service (BS),2024,1
+POLS,BS,Political Science - Politics and Governance (BS),2024,5
+POLS,BS,Political Science - Public Administration and Service (BS),2023,3
+POLS,BS,Political Science - Politics and Governance (BS),2023,5
+POLS,BS,Political Science - International Politics (BS),2023,2
+POLS,BS,Political Science - Public Law (MULTBS),2022,1
+POLS,BS,Political Science - Public Law (BS),2022,4
+POLS,BS,Political Science - Public Administration and Service (BS),2022,1
+POLS,BS,Political Science - Politics and Governance (BS),2022,6
+POLS,BS,Political Science - International Politics (BS),2022,2
+POLS,BS,Political Science - Public Law (BS),2021,2
+POLS,BS,Political Science - Public Administration and Service (BS),2021,1
+POLS,BS,Political Science - Politics and Governance (BS),2021,7
+POLS,BS,Political Science - International Politics (BS),2021,2
+POLS,BS,Political Science - Public Law (BS),2020,5
+POLS,BS,Political Science - Public Administration and Service (BS),2020,2
+POLS,BS,Political Science - Politics and Governance (BS),2020,10
+POLS,BS,Political Science - International Politics (BS),2020,1
+POLS,BS,Political Science-Justice and Democracy: The American Experiment (BS),2019,1
+POLS,BS,Political Science - Public Law (BS),2019,4
+POLS,BS,Political Science - Public Administration and Service (BS),2019,1
+POLS,BS,Political Science - Politics and Governance (BS),2019,8
+POLS,BS,Political Science - International Politics (BS),2019,4
+POLS,BS,Political Science-Justice and Democracy: The American Experiment (BS),2018,1
+POLS,BS,Political Science - Public Law (BS),2018,5
+POLS,BS,Political Science - Public Administration and Service (BS),2018,6
+POLS,BS,Political Science - Politics and Governance (BS),2018,9
+POLS,BS,Political Science - International Politics (BS),2018,3
+POLS,BS,Political Science - Public Law (BS),2017,7
+POLS,BS,Political Science - Public Administration and Service (BS),2017,1
+POLS,BS,Political Science - Politics and Governance (BS),2017,6
+POLS,BS,Political Science - International Politics (BS),2017,4
+POLS,BS,Political Science - Public Law (BS),2016,10
+POLS,BS,Political Science - Public Administration and Service (BS),2016,4
+POLS,BS,Political Science - Politics and Governance (BS),2016,8
+POLS,BS,Political Science - International Politics (BS),2016,4
+POLS,BS,Political Science - Public Law (BS),2015,10
+POLS,BS,Political Science - Public Administration and Service (BS),2015,4
+POLS,BS,Political Science - Politics and Governance (BS),2015,6
+POLS,BS,Political Science - International Politics (BS),2015,5
+POLS,MA,Political Science (MA),2025,5
+POLS,MA,Political Science (MA),2024,7
+POLS,MA,Political Science (MA),2023,7
+POLS,MA,Political Science (MA),2022,5
+POLS,MA,Political Science (MA),2021,5
+POLS,MA,Political Science (MA),2020,2
+POLS,MA,Political Science (MA),2019,6
+POLS,MA,Political Science (MA),2018,2
+POLS,MA,Political Science (MA),2017,3
+POLS,MA,Political Science (MA),2016,10
+POLS,MA,Political Science (MA),2015,9
+POLS,MPA,Public Administration: Strategic Public Management and Leadership (MPA),2016,2
+POLS,MPA,Public Administration-Public Financial Management (MPA),2016,1
+POLS,MPA,Public Administration-Local Government Management (MPA),2016,1
+POLS,MPA,Public Administration: Strategic Public Management and Leadership (MPA),2015,10
+POLS,MPA,Public Administration-Public Financial Management (MPA),2015,5
+POLS,MPA,Public Administration-Nonprofit Management (MPA),2015,7
+POLS,MPA,Public Administration-Local Government Management (MPA),2015,12
+POLS,PHD,Political Science (PHD),2025,3
+POLS,PHD,Political Science (PHD),2024,2
+POLS,PHD,Political Science (PHD),2023,2
+POLS,PHD,Political Science (PHD),2022,2
+POLS,PHD,Political Science (PHD),2021,3
+POLS,PHD,Political Science (PHD),2020,2
+POLS,PHD,Political Science (PHD),2019,5
+POLS,PHD,Political Science (PHD),2018,7
+POLS,PHD,Political Science (PHD),2017,5
+POLS,PHD,Political Science (PHD),2016,6
+POLS,PHD,Political Science (PHD),2015,5
+PSPA,MPA,Public Administration: Strategic Public Management and Leadership (MPA),2025,10
+PSPA,MPA,Public Administration-Nonprofit Management (MPA),2025,1
+PSPA,MPA,Public Administration-Local Government Management (MPA),2025,12
+PSPA,MPA,Public Administration: Strategic Public Management and Leadership (MPA),2024,5
+PSPA,MPA,Public Administration: Public Service Law & Management (MPA),2024,2
+PSPA,MPA,Public Administration-Nonprofit Management (MPA),2024,5
+PSPA,MPA,Public Administration-Local Government Management (MPA),2024,19
+PSPA,MPA,Public Administration: Strategic Public Management and Leadership (MPA),2023,4
+PSPA,MPA,Public Administration-Nonprofit Management (MPA),2023,2
+PSPA,MPA,Public Administration-Local Government Management (MPA),2023,26
+PSPA,MPA,Public Administration-Comparative Public Service (MPA),2023,1
+PSPA,MPA,Public Administration: Strategic Public Management and Leadership (MPA),2022,1
+PSPA,MPA,Public Administration: Public Service Law & Management (MPA),2022,2
+PSPA,MPA,Public Administration-Public Financial Management (MPA),2022,1
+PSPA,MPA,Public Administration-Nonprofit Management (MPA),2022,5
+PSPA,MPA,Public Administration-Local Government Management (MPA),2022,23
+PSPA,MPA,Public Administration-Comparative Public Service (MPA),2022,1
+PSPA,MPA,Public Administration: Strategic Public Management and Leadership (MPA),2021,5
+PSPA,MPA,Public Administration: Public Service Law & Management (MPA),2021,1
+PSPA,MPA,Public Administration-Public Financial Management (MPA),2021,3
+PSPA,MPA,Public Administration-Nonprofit Management (MPA),2021,2
+PSPA,MPA,Public Administration-Local Government Management (MPA),2021,24
+PSPA,MPA,Public Administration: Strategic Public Management and Leadership (MPA),2020,4
+PSPA,MPA,Public Administration-Public Financial Management (MPA),2020,2
+PSPA,MPA,Public Administration-Nonprofit Management (MPA),2020,6
+PSPA,MPA,Public Administration-Local Government Management (MPA),2020,20
+PSPA,MPA,Public Administration: Strategic Public Management and Leadership (MPA),2019,9
+PSPA,MPA,Public Administration: Public Service Law & Management (MPA),2019,3
+PSPA,MPA,Public Administration-Public Financial Management (MPA),2019,9
+PSPA,MPA,Public Administration-Nonprofit Management (MPA),2019,3
+PSPA,MPA,Public Administration-Local Government Management (MPA),2019,21
+PSPA,MPA,Public Administration: Strategic Public Management and Leadership (MPA),2018,8
+PSPA,MPA,Public Administration: Public Service Law & Management (MPA),2018,1
+PSPA,MPA,Public Administration-Public Financial Management (MPA),2018,1
+PSPA,MPA,Public Administration-Nonprofit Management (MPA),2018,2
+PSPA,MPA,Public Administration-Local Government Management (MPA),2018,20
+PSPA,MPA,Public Administration: Strategic Public Management and Leadership (MPA),2017,12
+PSPA,MPA,Public Administration-Public Financial Management (MPA),2017,5
+PSPA,MPA,Public Administration-Nonprofit Management (MPA),2017,3
+PSPA,MPA,Public Administration-Local Government Management (MPA),2017,22
+PSPA,MPA,Public Administration-Comparative Public Service (MPA),2017,2
+PSPA,MPA,Public Administration: Strategic Public Management and Leadership (MPA),2016,7
+PSPA,MPA,Public Administration-Public Financial Management (MPA),2016,2
+PSPA,MPA,Public Administration-Nonprofit Management (MPA),2016,4
+PSPA,MPA,Public Administration-Local Government Management (MPA),2016,7
+PSYC,BA,Psychology (MULTBA),2025,2
+PSYC,BA,Psychology (BA),2025,136
+PSYC,BA,Psychology (MULTBA),2024,2
+PSYC,BA,Psychology (BA),2024,136
+PSYC,BA,Psychology (BA),2023,137
+PSYC,BA,Psychology (MULTBA),2022,2
+PSYC,BA,Psychology (BA),2022,124
+PSYC,BA,Psychology (MULTBA),2021,2
+PSYC,BA,Psychology (BA),2021,125
+PSYC,BA,Psychology (MULTBA),2020,4
+PSYC,BA,Psychology (BA),2020,131
+PSYC,BA,Psychology (MULTBA),2019,4
+PSYC,BA,Psychology (BA),2019,115
+PSYC,BA,Psychology (MULTBA),2018,2
+PSYC,BA,Psychology (BA),2018,131
+PSYC,BA,Psychology (MULTBA),2017,2
+PSYC,BA,Psychology (BA),2017,140
+PSYC,BA,Psychology (BA),2016,150
+PSYC,BA,Psychology (BA),2015,153
+PSYC,BS,Psychology (MULTBS),2025,5
+PSYC,BS,Psychology (BS),2025,102
+PSYC,BS,Psychology (MULTBS),2024,3
+PSYC,BS,Psychology (BS),2024,73
+PSYC,BS,Psychology (MULTBS),2023,1
+PSYC,BS,Psychology (BS),2023,73
+PSYC,BS,Psychology (MULTBS),2022,7
+PSYC,BS,Psychology (BS),2022,60
+PSYC,BS,Psychology (MULTBS),2021,3
+PSYC,BS,Psychology (BS),2021,59
+PSYC,BS,Psychology (MULTBS),2020,2
+PSYC,BS,Psychology (BS),2020,51
+PSYC,BS,Psychology (MULTBS),2019,4
+PSYC,BS,Psychology (BS),2019,64
+PSYC,BS,Psychology (MULTBS),2018,2
+PSYC,BS,Psychology (BS),2018,67
+PSYC,BS,Psychology (BS),2017,74
+PSYC,BS,Psychology (BS),2016,48
+PSYC,BS,Psychology (BS),2015,54
+PSYC,MA,Psychology (MA),2025,27
+PSYC,MA,Psychology (MA),2024,15
+PSYC,MA,Psychology (MA),2023,9
+PSYC,MA,Psychology (MA),2022,13
+PSYC,MA,Psychology (MA),2021,22
+PSYC,MA,Psychology (MA),2020,17
+PSYC,MA,Psychology (MA),2019,17
+PSYC,MA,Psychology (MA),2018,18
+PSYC,MA,Psychology (MA),2017,14
+PSYC,MA,Psychology (MA),2016,17
+PSYC,MA,Psychology (MA),2015,23
+PSYC,MULTBA,Psychology (MULTBA),2016,1
+PSYC,MULTBA,Psychology (MULTBA),2015,1
+PSYC,MULTBS,Psychology (MULTBS),2015,5
+PSYC,PHD,Psychology (PHD),2025,13
+PSYC,PHD,Psychology (PHD),2024,17
+PSYC,PHD,Psychology (PHD),2023,12
+PSYC,PHD,Psychology (PHD),2022,15
+PSYC,PHD,Psychology (PHD),2021,14
+PSYC,PHD,Psychology (PHD),2020,10
+PSYC,PHD,Psychology (PHD),2019,18
+PSYC,PHD,Psychology (PHD),2018,18
+PSYC,PHD,Psychology (PHD),2017,23
+PSYC,PHD,Psychology (PHD),2016,12
+PSYC,PHD,Psychology (PHD),2015,18
+PSYC,SSP,School Psychology (SSP),2025,3
+PSYC,SSP,School Psychology (SSP),2024,2
+PSYC,SSP,School Psychology (SSP),2023,2
+PSYC,SSP,School Psychology (SSP),2022,4
+PSYC,SSP,School Psychology (SSP),2021,4
+SOCI,BA,Sociology: General Sociology (BA),2025,17
+SOCI,BA,Sociology: Criminology (BA),2025,28
+SOCI,BA,Sociology (BA),2025,3
+SOCI,BA,Sociology: General Sociology (BA),2024,13
+SOCI,BA,Sociology: Criminology (BA),2024,11
+SOCI,BA,Sociology (MULTBA),2024,1
+SOCI,BA,Sociology (BA),2024,12
+SOCI,BA,Sociology: General Sociology (BA),2023,5
+SOCI,BA,Sociology: Criminology (BA),2023,8
+SOCI,BA,Sociology (BA),2023,22
+SOCI,BA,Sociology: General Sociology (BA),2022,1
+SOCI,BA,Sociology: Criminology (BA),2022,2
+SOCI,BA,Sociology (BA),2022,36
+SOCI,BA,Sociology (BA),2021,59
+SOCI,BA,Sociology (MULTBA),2020,1
+SOCI,BA,Sociology (BA),2020,64
+SOCI,BA,Sociology (MULTBA),2019,1
+SOCI,BA,Sociology (BA),2019,58
+SOCI,BA,Sociology (MULTBA),2018,1
+SOCI,BA,Sociology (BA),2018,61
+SOCI,BA,Sociology (MULTBA),2017,1
+SOCI,BA,Sociology (BA),2017,68
+SOCI,BA,Sociology (BA),2016,77
+SOCI,BA,Sociology (BA),2015,83
+SOCI,BS,Sociology: General Sociology (BS),2025,6
+SOCI,BS,Sociology: Criminology (BS),2025,4
+SOCI,BS,Sociology: General Sociology (BS),2024,2
+SOCI,BS,Sociology: Criminology (BS),2024,3
+SOCI,BS,Sociology: Criminology (BS),2023,1
+SOCI,BS,Sociology (MULTBS),2023,1
+SOCI,BS,Sociology (BS),2023,7
+SOCI,BS,Sociology: General Sociology (BS),2022,2
+SOCI,BS,Sociology (MULTBS),2022,1
+SOCI,BS,Sociology (BS),2022,4
+SOCI,BS,Sociology (MULTBS),2021,1
+SOCI,BS,Sociology (BS),2021,9
+SOCI,BS,Sociology (MULTBS),2020,1
+SOCI,BS,Sociology (BS),2020,6
+SOCI,BS,Sociology (BS),2019,16
+SOCI,BS,Sociology (BS),2018,10
+SOCI,BS,Sociology (MULTBS),2017,1
+SOCI,BS,Sociology (BS),2017,14
+SOCI,BS,Public Service Leadership (BS),2017,5
+SOCI,BS,Sociology (BS),2016,13
+SOCI,BS,Public Service Leadership (BS),2016,6
+SOCI,BS,Sociology (BS),2015,20
+SOCI,BS,Public Service Leadership (BS),2015,4
+SOCI,MA,Sociology (MA),2025,4
+SOCI,MA,Sociology - Criminology (MA),2024,4
+SOCI,MA,Sociology (MA),2023,1
+SOCI,MA,Sociology - Criminology (MA),2023,3
+SOCI,MA,Sociology (MA),2022,5
+SOCI,MA,Sociology - Criminology (MA),2022,1
+SOCI,MA,Sociology (MA),2021,4
+SOCI,MA,Sociology - Criminology (MA),2021,7
+SOCI,MA,Sociology (MA),2020,1
+SOCI,MA,Sociology - Criminology (MA),2020,2
+SOCI,MA,Sociology (MA),2019,4
+SOCI,MA,Sociology - Criminology (MA),2019,3
+SOCI,MA,Sociology (MA),2018,7
+SOCI,MA,Sociology - Criminology (MA),2018,2
+SOCI,MA,Sociology (MA),2017,6
+SOCI,MA,Sociology - Criminology (MA),2017,1
+SOCI,MA,Sociology (MA),2016,2
+SOCI,MA,Sociology (MA),2015,3
+SPGA,BS,Public Service Leadership (BS),2025,4
+SPGA,BS,Public Service Leadership (BS),2024,1
+SPGA,BS,Public Service Leadership (BS),2023,1
+SPGA,BS,Public Service Leadership (BS),2022,1
+SPGA,BS,Public Service Leadership (BS),2019,1
+SPGA,BS,Public Service Leadership (BS),2018,4
+STAT,BS,Statistics (BS),2025,7
+STAT,BS,Actuarial Science (BS),2025,2
+STAT,BS,Statistics (BS),2024,8
+STAT,BS,Statistics (BS),2023,9
+STAT,BS,Actuarial Science (BS),2023,5
+STAT,BS,Statistics (BS),2022,11
+STAT,BS,Actuarial Science (BS),2022,1
+STAT,BS,Statistics (BS),2021,11
+STAT,BS,Mathematics - Probability & Statistics (BS),2020,1
+STAT,MS,Statistics (MS),2025,9
+STAT,MS,Statistics (MS),2024,5
+STAT,MS,Statistics (MS),2023,6
+STAT,MS,Statistics (MS),2022,3
+STAT,MS,Statistics (MS),2021,6
+STAT,MS,Statistics (MS),2020,7
+TECH,BS,Engineering Technology-Sustainability Engineering Technology (BS),2025,2
+TECH,BS,Engineering Technology-Manufacturing Engineering Technology (BS),2025,8
+TECH,BS,Engineering Technology-Industrial Management and Technology (BS),2025,11
+TECH,BS,Engineering Technology-Electrical Engineering Technology (BS),2025,7
+TECH,BS,Engineering Technology-Applied Manufacturing Technology (BS),2025,17
+TECH,BS,Engineering Technology-Sustainability Engineering Technology (BS),2024,2
+TECH,BS,Engineering Technology-Manufacturing Engineering Technology (BS),2024,4
+TECH,BS,Engineering Technology-Industrial Management and Technology (BS),2024,13
+TECH,BS,Engineering Technology-Electrical Engineering Technology (BS),2024,5
+TECH,BS,Engineering Technology-Applied Manufacturing Technology (BS),2024,19
+TECH,BS,Engineering Technology-Sustainability Engineering Technology (BS),2023,3
+TECH,BS,Engineering Technology-Manufacturing Engineering Technology (BS),2023,7
+TECH,BS,Engineering Technology-Industrial Management and Technology (BS),2023,15
+TECH,BS,Engineering Technology-Electrical Engineering Technology (BS),2023,9
+TECH,BS,Engineering Technology-Applied Manufacturing Technology (BS),2023,22
+TECH,BS,Engineering Technology-Sustainability Engineering Technology (BS),2022,4
+TECH,BS,Engineering Technology-Manufacturing Engineering Technology (BS),2022,8
+TECH,BS,Engineering Technology-Industrial Management and Technology (BS),2022,17
+TECH,BS,Engineering Technology-Electrical Engineering Technology (BS),2022,7
+TECH,BS,Engineering Technology-Applied Manufacturing Technology (BS),2022,22
+TECH,BS,Engineering Technology-Sustainability Engineering Technology (BS),2021,6
+TECH,BS,Engineering Technology-Manufacturing Engineering Technology (BS),2021,18
+TECH,BS,Engineering Technology-Industrial Management and Technology (BS),2021,24
+TECH,BS,Engineering Technology-Electrical Engineering Technology (BS),2021,10
+TECH,BS,Engineering Technology-Applied Manufacturing Technology (BS),2021,24
+TECH,BS,Engineering Technology-Sustainability Engineering Technology (BS),2020,3
+TECH,BS,Engineering Technology-Manufacturing Engineering Technology (BS),2020,31
+TECH,BS,Engineering Technology-Industrial Management and Technology (BS),2020,28
+TECH,BS,Engineering Technology-Electrical Engineering Technology (BS),2020,12
+TECH,BS,Engineering Technology-Applied Manufacturing Technology (BS),2020,27
+TECH,BS,Technology - Aviation Management Technology (BS),2019,1
+TECH,BS,Engineering Technology-Sustainability Engineering Technology (BS),2019,9
+TECH,BS,Engineering Technology-Manufacturing Engineering Technology (BS),2019,26
+TECH,BS,Engineering Technology-Industrial Management and Technology (BS),2019,33
+TECH,BS,Engineering Technology-Electrical Engineering Technology (BS),2019,11
+TECH,BS,Engineering Technology-Applied Manufacturing Technology (BS),2019,18
+TECH,BS,Technology - Aviation Management Technology (BS),2018,1
+TECH,BS,Engineering Technology-Sustainability Engineering Technology (BS),2018,8
+TECH,BS,Engineering Technology-Manufacturing Engineering Technology (BS),2018,16
+TECH,BS,Engineering Technology-Industrial Management and Technology (BS),2018,46
+TECH,BS,Engineering Technology-Electrical Engineering Technology (BS),2018,13
+TECH,BS,Engineering Technology-Applied Manufacturing Technology (BS),2018,21
+TECH,BS,Engineering Technology-Sustainability Engineering Technology (BS),2017,3
+TECH,BS,Engineering Technology-Manufacturing Engineering Technology (BS),2017,15
+TECH,BS,Engineering Technology-Industrial Management and Technology (BS),2017,49
+TECH,BS,Engineering Technology-Electrical Engineering Technology (BS),2017,11
+TECH,BS,Engineering Technology-Applied Manufacturing Technology (BS),2017,6
+TECH,BS,Engineering Technology-Sustainability Engineering Technology (BS),2016,12
+TECH,BS,Engineering Technology-Manufacturing Engineering Technology (BS),2016,15
+TECH,BS,Engineering Technology-Industrial Management and Technology (BS),2016,48
+TECH,BS,Engineering Technology-Electrical Engineering Technology (BS),2016,9
+TECH,BS,Engineering Technology-Applied Manufacturing Technology (BS),2016,2
+TECH,BS,Engineering Technology-Sustainability Engineering Technology (BS),2015,5
+TECH,BS,Engineering Technology-Manufacturing Engineering Technology (BS),2015,21
+TECH,BS,Engineering Technology-Industrial Management and Technology (BS),2015,42
+TECH,BS,Engineering Technology-Electrical Engineering Technology (BS),2015,11
+TECH,BS,Engineering Technology-Applied Manufacturing Technology (BS),2015,1
+TECH,MS,Industrial Management and Engineering Technology (MS),2025,1
+TECH,MS,Industrial Management and Engineering Technology (MS),2024,3
+TECH,MS,Industrial Management and Engineering Technology (MS),2023,2
+TECH,MS,Industrial Management and Engineering Technology (MS),2022,4
+TECH,MS,Industrial Management and Engineering Technology (MS),2021,8
+TECH,MS,Industrial Management and Engineering Technology (MS),2020,7
+TECH,MS,Industrial Management and Engineering Technology (MS),2019,9
+TECH,MS,Industrial Management and Engineering Technology (MS),2018,10
+TECH,MS,Industrial Management and Engineering Technology (MS),2017,6
+TECH,MS,Industrial Management and Engineering Technology (MS),2016,15
+TECH,MS,Industrial Management and Engineering Technology (MS),2015,13
+THEA,BA,Theatre Studies (BA),2025,8
+THEA,BA,Theatre Studies (BA),2024,6
+THEA,BA,Theatre Studies (BA),2023,6
+THEA,BA,Theatre Studies (BA),2022,7
+THEA,BA,Theatre Studies (BA),2021,10
+THEA,BA,Theatre Studies (BA),2020,4
+THEA,BA,Theatre Studies (BA),2019,6
+THEA,BA,Theatre Studies (BA),2017,7
+THEA,BA,Theatre Studies (BA),2016,5
+THEA,BA,Theatre Studies (BA),2015,4
+THEA,BFA,Theatre Arts - Acting (BFA),2025,10
+THEA,BFA,Thea Arts-Design & Technology (BFA),2025,1
+THEA,BFA,Dance Performance (BFA),2025,8
+THEA,BFA,Theatre Arts - Acting (BFA),2024,9
+THEA,BFA,Thea Arts-Design & Technology (BFA),2024,2
+THEA,BFA,Dance Performance (BFA),2024,5
+THEA,BFA,Theatre Arts - Acting (BFA),2023,13
+THEA,BFA,Thea Arts-Design & Technology (BFA),2023,7
+THEA,BFA,Dance Performance (BFA),2023,7
+THEA,BFA,Theatre Arts - Acting (BFA),2022,17
+THEA,BFA,Thea Arts-Design & Technology (BFA),2022,6
+THEA,BFA,Dance Performance (BFA),2022,4
+THEA,BFA,Theatre Arts - Acting (BFA),2021,15
+THEA,BFA,Thea Arts-Design & Technology (BFA),2021,5
+THEA,BFA,Dance Performance (BFA),2021,7
+THEA,BFA,Theatre Arts - Acting (BFA),2020,9
+THEA,BFA,Thea Arts-Design & Technology (BFA),2020,4
+THEA,BFA,Dance Performance (BFA),2020,5
+THEA,BFA,Theatre Arts - Acting (BFA),2019,15
+THEA,BFA,Thea Arts-Design & Technology (BFA),2019,3
+THEA,BFA,Dance Performance (BFA),2019,3
+THEA,BFA,Theatre Arts - Acting (BFA),2018,10
+THEA,BFA,Thea Arts-Design & Technology (BFA),2018,8
+THEA,BFA,Dance Performance (BFA),2018,6
+THEA,BFA,Theatre Arts - Acting (BFA),2017,14
+THEA,BFA,Thea Arts-Design & Technology (BFA),2017,5
+THEA,BFA,Dance Performance (BFA),2017,9
+THEA,BFA,Theatre Arts - Acting (BFA),2016,9
+THEA,BFA,Thea Arts-Design & Technology (BFA),2016,8
+THEA,BFA,Dance Performance (BFA),2016,5
+THEA,BFA,Theatre Arts - Acting (BFA),2015,8
+THEA,BFA,Thea Arts-Design & Technology (BFA),2015,3
+THEA,BFA,Dance Performance (BFA),2015,6
+THEA,MFA,Theatre Arts - Design and Technology (MFA),2025,3
+THEA,MFA,Theatre Arts - Acting (MFA),2025,7
+THEA,MFA,Theatre Arts - Design and Technology (MFA),2024,2
+THEA,MFA,Theatre Arts - Design and Technology (MFA),2023,2
+THEA,MFA,Theatre Arts - Design and Technology (MFA),2022,2
+THEA,MFA,Theatre Arts - Acting (MFA),2022,15
+THEA,MFA,Theatre Arts - Design and Technology (MFA),2021,5
+THEA,MFA,Theatre Arts - Acting (MFA),2021,1
+THEA,MFA,Theatre Arts - Design and Technology (MFA),2020,2
+THEA,MFA,Theatre Arts - Design and Technology (MFA),2019,2
+THEA,MFA,Theatre Arts - Acting (MFA),2019,15
+THEA,MFA,Theatre Arts - Design and Technology (MFA),2018,3
+THEA,MFA,Theatre Arts - Design and Technology (MFA),2017,3
+THEA,MFA,Theatre Arts - Design and Technology (MFA),2016,2
+THEA,MFA,Theatre Arts - Acting (MFA),2016,12
+THEA,MFA,Theatre Arts - Design and Technology (MFA),2015,6
+THEA,MULTBA,Theatre Studies (MULTBA),2015,2
+TLRN,BS,Early Childhood Education with Preschool Special Education Approval (BS),2025,66
+TLRN,BS,Early Childhood Education with Preschool Special Education Approval (BS),2024,32
+TLRN,BS,Early Childhood Education with Preschool Special Education Approval (BS),2023,34
+TLRN,BS,Early Childhood Education with Preschool Special Education Approval (BS),2022,21
+TLRN,BS,Early Childhood Education with Preschool Special Education Approval (BS),2021,38
+TLRN,BS,Early Childhood Education with Preschool Special Education Approval (BS),2020,21
+TLRN,BS,Early Childhood Education with Preschool Special Education Approval (BS),2019,37
+TLRN,BS,Early Childhood Education with Preschool Special Education Approval (BS),2018,29
+TLRN,BS,Early Childhood Education with Preschool Special Education Approval (BS),2017,15
+TLRN,BS,Early Childhood Education with Preschool Special Education Approval (BS),2016,17
+TLRN,BS,Early Childhood Education with Preschool Special Education Approval (BS),2015,13
+TLRN,BSED,SPED-Learning Behavior Specialist I with PEL (BSED),2025,23
+TLRN,BSED,SPED - Visual Impairments with PEL (BSED),2025,1
+TLRN,BSED,SPED-Learning Behavior Specialist I with PEL (BSED),2024,62
+TLRN,BSED,Special Education: Special Populations (BSED),2024,1
+TLRN,BSED,SPED-Learning Behavior Specialist I with PEL (BSED),2023,42
+TLRN,BSED,SPED - Visual Impairments with PEL (BSED),2023,3
+TLRN,BSED,Special Education: Special Populations (BSED),2023,3
+TLRN,BSED,SPED-Learning Behavior Specialist I with PEL (BSED),2022,35
+TLRN,BSED,SPED - Visual Impairments with PEL (BSED),2022,2
+TLRN,BSED,Special Education: Special Populations (BSED),2022,3
+TLRN,BSED,SPED-Learning Behavior Specialist I with PEL (BSED),2021,47
+TLRN,BSED,SPED - Visual Impairments with PEL (BSED),2021,3
+TLRN,BSED,Special Education: Vision Rehabilitation Therapy (BSED),2021,1
+TLRN,BSED,Special Education: Special Populations (BSED),2021,3
+TLRN,BSED,SPED-Learning Behavior Specialist I with PEL (BSED),2020,32
+TLRN,BSED,SPED - Visual Impairments with PEL (BSED),2020,2
+TLRN,BSED,SPED-Learning Behavior Specialist I with PEL (BSED),2019,46
+TLRN,BSED,SPED-Learning Behavior Specialist I with PEL (BSED),2018,50
+TLRN,BSED,SPED - Visual Impairments with PEL (BSED),2018,1
+TLRN,BSED,SPED-Learning Behavior Specialist I with PEL (BSED),2017,46
+TLRN,BSED,SPED-Learning Behavior Specialist I with PEL (BSED),2016,51
+TLRN,BSED,SPED - Visual Impairments with PEL (BSED),2016,2
+TLRN,BSED,SPED-Learning Behavior Specialist I with PEL (BSED),2015,53
+TLRN,BSED,SPED - Visual Impairments with PEL (BSED),2015,5
+TLRN,MSED,SPED-Assistive Technology Used by Persons with Visual Impairments (MSED),2025,1
+TLRN,MSED,Special Education-Vision Rehabilitation Therapy (MSED),2025,2
+TLRN,MSED,Special Education-Behavior Analysis (MSED),2025,14
+TLRN,MSED,Special Education - Visual Impairments (MSED),2025,3
+TLRN,MSED,Special Education - Learning Behavior Specialist (MSED),2025,5
+TLRN,MSED,Special Education - Advanced Special Education Practices (MSED),2025,6
+TLRN,MSED,Orientation and Mobility (MSED),2025,2
+TLRN,MSED,Early Childhood Professional Studies and Practices (MSED),2025,1
+TLRN,MSED,Early Childhood Education (MSED),2025,7
+TLRN,MSED,Advanced Practices in Early Childhood Education (MSED),2025,1
+TLRN,MSED,Special Education-Vision Rehabilitation Therapy (MSED),2024,4
+TLRN,MSED,Special Education-Behavior Analysis (MSED),2024,19
+TLRN,MSED,Special Education - Visual Impairments (MSED),2024,5
+TLRN,MSED,Special Education - Learning Behavior Specialist (MSED),2024,12
+TLRN,MSED,Special Education - Advanced Special Education Practices (MSED),2024,7
+TLRN,MSED,Orientation and Mobility (MSED),2024,2
+TLRN,MSED,Early Childhood Education (MSED),2024,8
+TLRN,MSED,SPED-Assistive Technology Used by Persons with Visual Impairments (MSED),2023,1
+TLRN,MSED,Special Education-Vision Rehabilitation Therapy (MSED),2023,5
+TLRN,MSED,Special Education-Behavior Analysis (MSED),2023,43
+TLRN,MSED,Special Education - Visual Impairments (MSED),2023,4
+TLRN,MSED,Special Education - Learning Behavior Specialist (MSED),2023,13
+TLRN,MSED,Special Education - Advanced Special Education Practices (MSED),2023,6
+TLRN,MSED,Orientation and Mobility (MSED),2023,4
+TLRN,MSED,Early Childhood Education (MSED),2023,4
+TLRN,MSED,SPED-Assistive Technology Used by Persons with Visual Impairments (MSED),2022,1
+TLRN,MSED,Special Education-Vision Rehabilitation Therapy (MSED),2022,2
+TLRN,MSED,Special Education-Behavior Analysis (MSED),2022,14
+TLRN,MSED,Special Education - Visual Impairments (MSED),2022,7
+TLRN,MSED,Special Education - Learning Behavior Specialist (MSED),2022,13
+TLRN,MSED,Special Education - Advanced Special Education Practices (MSED),2022,5
+TLRN,MSED,Orientation and Mobility (MSED),2022,7
+TLRN,MSED,Early Childhood Education (MSED),2022,8
+TLRN,MSED,Special Education-Vision Rehabilitation Therapy (MSED),2021,4
+TLRN,MSED,Special Education-Behavior Analysis (MSED),2021,1
+TLRN,MSED,Special Education - Visual Impairments (MSED),2021,6
+TLRN,MSED,Special Education - Learning Behavior Specialist (MSED),2021,19
+TLRN,MSED,Special Education - Advanced Special Education Practices (MSED),2021,26
+TLRN,MSED,Orientation and Mobility (MSED),2021,4
+TLRN,MSED,Early Childhood Education (MSED),2021,9
+TLRN,MSED,Special Education-Vision Rehabilitation Therapy (MSED),2020,1
+TLRN,MSED,Special Education - Visual Impairments (MSED),2020,5
+TLRN,MSED,Special Education - Learning Behavior Specialist (MSED),2020,12
+TLRN,MSED,Special Education - Early Childhood Special Education (MSED),2020,1
+TLRN,MSED,Special Education - Advanced Special Education Practices (MSED),2020,27
+TLRN,MSED,Orientation and Mobility (MSED),2020,7
+TLRN,MSED,Early Childhood Education (MSED),2020,9
+TLRN,MSED,Special Education-Vision Rehabilitation Therapy (MSED),2019,2
+TLRN,MSED,Special Education - Visual Impairments (MSED),2019,2
+TLRN,MSED,Special Education - Learning Behavior Specialist (MSED),2019,8
+TLRN,MSED,Special Education - Advanced Special Education Practices (MSED),2019,21
+TLRN,MSED,Orientation and Mobility (MSED),2019,13
+TLRN,MSED,Early Childhood Education (MSED),2019,7
+TLRN,MSED,Special Education-Vision Rehabilitation Therapy (MSED),2018,2
+TLRN,MSED,Special Education - Visual Impairments (MSED),2018,6
+TLRN,MSED,Special Education - Learning Behavior Specialist (MSED),2018,10
+TLRN,MSED,Special Education - Early Childhood Special Education (MSED),2018,1
+TLRN,MSED,Special Education - Advanced Special Education Practices (MSED),2018,4
+TLRN,MSED,Orientation and Mobility (MSED),2018,10
+TLRN,MSED,Early Childhood Education (MSED),2018,8
+TLRN,MSED,Special Education-Vision Rehabilitation Therapy (MSED),2017,3
+TLRN,MSED,Special Education - Visual Impairments (MSED),2017,8
+TLRN,MSED,Special Education - Learning Behavior Specialist (MSED),2017,15
+TLRN,MSED,Special Education - Advanced Special Education Practices (MSED),2017,10
+TLRN,MSED,Orientation and Mobility (MSED),2017,13
+TLRN,MSED,Early Childhood Education (MSED),2017,9
+TLRN,MSED,Special Education-Vision Rehabilitation Therapy (MSED),2016,1
+TLRN,MSED,Special Education - Learning Behavior Specialist (MSED),2016,10
+TLRN,MSED,Orientation and Mobility (MSED),2016,7
+TLRN,MSED,Early Childhood Education (MSED),2016,1
+TLRN,MSED,Special Education-Vision Rehabilitation Therapy (MSED),2015,3
+TLRN,MSED,Special Education - Visual Impairments (MSED),2015,6
+TLRN,MSED,Special Education - Learning Behavior Specialist (MSED),2015,18
+TLRN,MSED,Special Education - Advanced Special Education Practices (MSED),2015,8
+TLRN,MSED,Orientation and Mobility (MSED),2015,7
+TLRN,MSED,Early Childhood Education (MSED),2015,17
+WOMS,BA,"Women, Gender, and Sexuality Studies (BA)",2025,4
+WOMS,BA,"Women, Gender, and Sexuality Studies (BA)",2024,1
+WOMS,BA,"Women, Gender, and Sexuality Studies (BA)",2023,1
+WOMS,BA,"Women, Gender, and Sexuality Studies (BA)",2022,1
+WOMS,BS,"Women, Gender, and Sexuality Studies (BS)",2023,2
