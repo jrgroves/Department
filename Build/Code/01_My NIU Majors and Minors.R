@@ -12,6 +12,8 @@
 # Jeremy R. Groves
 # Created: August 8, 2025
 # Updated: April 14, 2026 - ran the data for spring and also changed code to read sheets of excel 
+# Updated: August 28, 2026 - Did the download for the Fall 2026 and tried to incorporate graduation, but
+#          graduation data from MyNIU is suspect as people who graduated never show up in historical data.
 
 rm(list=ls())
 
@@ -37,21 +39,24 @@ BS.data2 <- BS.data %>%
          Acad.Level, Acad.Plan, Term.Hours, Cumulative.GPA) %>%
   filter(str_detect(Enrolled, "Enrolled")) %>%
   distinct(Term, Campus.ID,.keep_all = TRUE)%>%
-  mutate(Acad.Plan = "BS")
+  mutate(Acad.Plan = "BS") %>%
+  arrange(Campus.ID, Term) 
+
 
 BA.data2 <- BA.data %>%
   select(Term, Campus.ID, First.Name, Last.Name, Suffix, Enrolled, Acad.Prog, 
          Acad.Level, Acad.Plan, Term.Hours, Cumulative.GPA) %>%
   filter(str_detect(Enrolled, "Enrolled"))  %>%
   distinct(Term, Campus.ID,.keep_all = TRUE)%>%
-  mutate(Acad.Plan = "BA")
+  mutate(Acad.Plan = "BA") %>%
+  arrange(Campus.ID, Term) 
 
 BSFE.data2 <- BSFE.data %>%
   select(Term, Campus.ID, First.Name, Last.Name, Suffix, Enrolled, Acad.Prog, 
          Acad.Level, Acad.Plan, Term.Hours, Cumulative.GPA) %>%
   filter(str_detect(Enrolled, "Enrolled")) %>%
   distinct(Term, Campus.ID,.keep_all = TRUE) %>%
-  mutate(Acad.Plan = "BSFE")
+  mutate(Acad.Plan = "BSFE") 
 
 MINOR.data2 <- MINOR.data %>%
   select(Term, Campus.ID, First.Name, Last.Name, Suffix, Enrolled, Acad.Prog, 
@@ -59,7 +64,6 @@ MINOR.data2 <- MINOR.data %>%
   filter(str_detect(Enrolled, "Enrolled")) %>%
   distinct(Term, Campus.ID,.keep_all = TRUE) %>%
   mutate(Acad.Plan = "Minor")
-
 
 core <- BS.data2 %>%
   bind_rows(BA.data2, BSFE.data2, MINOR.data2) %>%
@@ -174,3 +178,4 @@ ggplot(temp) +
   theme_bw() +
   theme(axis.text.x = element_text(angle = 90),
         legend.position = "bottom")
+
