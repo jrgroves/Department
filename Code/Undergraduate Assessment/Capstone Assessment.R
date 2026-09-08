@@ -59,7 +59,7 @@ core <- cap %>%
                names_to = "Criteria", values_to = "Score") %>%
   mutate(Score = factor(as.character(Score), levels = c("5", "4", "3", "2", "1")),
          Criteria = factor(Criteria, levels = c("Research", "Analysis", "Thesis", "Organization", "Writing")),
-         Acad.Yr = factor(Acad.Yr, levels = c("AY2024-2025", "AY2023-2024")),
+         Acad.Yr = factor(Acad.Yr, levels = c("AY2023-2024", "AY2024-2025", "AY2025-2026")),
          N = 1) %>%
   left_join(., temp2, by = c("Criteria", "Semester")) %>%
   left_join(., temp1a, by = c("Semester", "Criteria"))
@@ -85,13 +85,16 @@ ggplot(temp,  aes(y = N, x = Criteria)) +
                 padding.y = grid::unit(35, "pt"),
                 outside = TRUE)  +
   facet_grid(~Acad.Yr)  +
-  scale_fill_manual(values = c("1" = "#9C0135", "2" = "#C70132", "3" = "#98FB98", "4" = "#A0D6B4", "5" = "#6EAEA1"),
+  scale_fill_manual(values = c("1" = "#750027", "2" = "#C70132", "3" = "#98FB98", "4" = "#A0D6B4", "5" = "#6EAEA1"),
                     drop = FALSE) +
   labs(title = "SLO 1: Capstone Evaluation",
-       y = "Count",
+       y = "Number of Capstones",
        x = "Criteria: Topic and Thesis Development",
-       caption = "Number is criteria average. Above line represents 90%") +
-  theme_cowplot(12)
+       caption = "Number within bar is average score on criteria. 
+       Dark line represents 10% (90% from top) of respondents so red above the line represents missing of program target.") +
+  theme_cowplot(12) +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust = 1)) +
+  theme(legend.position = "bottom")
   
 ggsave("./Graphics/SLO1_Capstone.png")  
 
@@ -113,13 +116,16 @@ ggplot(temp,  aes(y = N, x = Criteria)) +
                 padding.y = grid::unit(35, "pt"),
                 outside = TRUE)  +
   facet_grid(~Acad.Yr)  +
-  scale_fill_manual(values = c("1" = "#9C0135", "2" = "#C70132", "3" = "#98FB98", "4" = "#A0D6B4", "5" = "#6EAEA1"),
+  scale_fill_manual(values = c("1" = "#750027", "2" = "#C70132", "3" = "#98FB98", "4" = "#A0D6B4", "5" = "#6EAEA1"),
                     drop = FALSE) +
   labs(title = "SLO 2: Capstone Evaluation",
-       y = "Count",
+       y = "Number of Capstones",
        x = "Criteria",
-       caption = "Number is criteria average. Above line represents 90%") +
-  theme_cowplot(12)
+       caption = "Number within bar is average score on criteria. 
+       Dark line represents 10% (90% from top) of respondents so red above the line represents missing of program target.") +
+  theme_cowplot(12) +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust = 1)) +
+  theme(legend.position = "bottom")
 
 ggsave("./Graphics/SLO2_Capstone.png")  
 
@@ -141,12 +147,15 @@ ggplot(temp,  aes(y = N, x = Criteria)) +
                 padding.y = grid::unit(35, "pt"),
                 outside = TRUE)  +
   facet_grid(~Acad.Yr)  +
-  scale_fill_manual(values = c("1" = "#9C0135", "2" = "#C70132", "3" = "#98FB98", "4" = "#A0D6B4", "5" = "#6EAEA1"),
+  scale_fill_manual(values = c("1" = "#750027", "2" = "#C70132", "3" = "#98FB98", "4" = "#A0D6B4", "5" = "#6EAEA1"),
                     drop = FALSE) +
   labs(title = "SLO 3: Capstone Evaluation",
-       y = "Count",
+       y = "Number of Capstones",
        x = "Criteria",
-       caption = "Number is criteria average. Above line represents 90%") +
-  theme_cowplot(12)
+       caption = "Number within bar is average score on criteria. 
+       Dark line represents 10% (90% from top) of respondents so red above the line represents missing of program target.") +
+  theme_cowplot(12) +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust = 1)) +
+  theme(legend.position = "bottom")
 
 ggsave("./Graphics/SLO3_Capstone.png")  
