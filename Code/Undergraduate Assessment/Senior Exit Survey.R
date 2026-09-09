@@ -65,7 +65,7 @@ rm(temp1, temp1a, temp2, cap)
                   outside = TRUE)  +
     facet_grid(~Acad.Yr)   +
     scale_fill_manual(values = c("0" = "#750027", "1" = "#C70132","2" = "#A0D6B4", "3" = "#6EAEA1"), 
-                      labels = c("Not At All", "A Small Amount", "A Moderate Amount", "A Great Deal"),
+                      labels = c("A Great Deal", "A Moderate Amount", "A Small Amount", "Not At All"),
                       na.value = "white", drop = FALSE) +
     labs(title = "SLO 1: Senior Exit Survey - All Degrees",
          y = "Number of Respondents",
@@ -100,7 +100,7 @@ rm(temp1, temp1a, temp2, cap)
                   outside = TRUE)  +
     facet_grid(~Acad.Yr+Degree)   +
     scale_fill_manual(values = c("0" = "#750027", "1" = "#C70132","2" = "#A0D6B4", "3" = "#6EAEA1"), 
-                      labels = c("Not At All", "A Small Amount", "A Moderate Amount", "A Great Deal"),
+                      labels = c("A Great Deal", "A Moderate Amount", "A Small Amount", "Not At All"),
                       na.value = "white", drop = FALSE) +
     labs(title = "SLO 1: Senior Exit Survey - By Degree",
          y = "Number of Respondents",
@@ -138,7 +138,7 @@ rm(temp1, temp1a, temp2, cap)
                   outside = TRUE)  +
     facet_grid(~Acad.Yr + Degree)   +
     scale_fill_manual(values = c("0" = "#750027", "1" = "#C70132","2" = "#A0D6B4", "3" = "#6EAEA1"), 
-                      labels = c("Not At All", "Not Sure", "Probably", "Definitely"),
+                      labels = c("Definately", "Probably", "Not Sure", "Not At All"),
                       na.value = "white", drop = FALSE) +
     labs(title = "SLO 2: Senior Exit Survey",
          y = "Number of Respondents",
@@ -174,7 +174,7 @@ rm(temp1, temp1a, temp2, cap)
                   outside = TRUE)  +
     facet_grid(~Acad.Yr + Degree)   +
     scale_fill_manual(values = c("0" = "#750027", "1" = "#C70132","2" = "#A0D6B4", "3" = "#6EAEA1"), 
-                      labels = c("Not At All", "A Small Amount", "A Moderate Amount", "A Great Deal"),
+                      labels = c("A Great Deal", "A Moderate Amount", "A Small Amount", "Not At All"),
                       na.value = "white", drop = FALSE) +
     labs(title = "SLO 3: Senior Exit Survey",
          y = "Number of Respondents",
@@ -187,3 +187,4 @@ rm(temp1, temp1a, temp2, cap)
     theme(legend.position = "bottom")
   
   ggsave("./Graphics/SLO3_Exit.png")  
+  
