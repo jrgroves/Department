@@ -1,0 +1,15 @@
+Class,Cat,Spring 2023,Spring 2024,Spring 2025
+Freshman 0-29.99 Hours,Number Enrolled,11,2,6
+Freshman 0-29.99 Hours,Enrolled Credit Hours,149,27,86
+Sophomore 30-59.99 Hours,Number Enrolled,7,11,7
+Sophomore 30-59.99 Hours,Enrolled Credit Hours,104,163,101
+Junior 60-89.99 Hours,Number Enrolled,20,25,28
+Junior 60-89.99 Hours,Enrolled Credit Hours,280,350,410
+Senior 90 or more hours,Number Enrolled,27,33,41
+Senior 90 or more hours,Enrolled Credit Hours,330,418,523
+Graduate Masters,Number Enrolled,10,5,2
+Graduate Masters,Enrolled Credit Hours,113,48,17
+Graduate Doctoral,Number Enrolled,15,14,21
+Graduate Doctoral,Enrolled Credit Hours,101,120,156
+Grand Total,Number Enrolled,90,90,105
+Grand Total,Enrolled Credit Hours,"1,077","1,126","1,293"
