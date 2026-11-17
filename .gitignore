@@ -5,6 +5,10 @@
 .positai
 Graphics
 Build/OUtput
-Data/archeive
+Data/archieve
 *.html
 Data/enroll
+Data/courses
+Data/enroll
+Data/myniu
+*.png
