@@ -20,6 +20,7 @@ library(tidyverse)
                    row.names = NULL, sep = "\t")
 
   e.data.2 <- e.data %>%
+    distinct(Class.and.Section, .keep_all = TRUE) %>%
     mutate(Course = as.numeric(str_split_i(Class.and.Section, " ", 2)),
            Section = str_split_i(Class.and.Section, " ", 3),
            Modality = str_split_i(Mode.of.Instruction, ":", 1),
@@ -31,7 +32,7 @@ library(tidyverse)
                             Course == 489 | Course == 589 ~ 889,
                             Course == 490 | Course == 590 ~ 890,
                             Course == 491 | Course == 591 ~ 891,
-                            TRUE ~ Course))%>%
+                            TRUE ~ Course)) %>%
     group_by(Temp) %>%
       mutate(Temp2 = max(Enrl.Tot)) %>%
     ungroup() %>%
@@ -44,12 +45,16 @@ library(tidyverse)
                                 Temp > 800 & Enrl.Tot != Temp2 & Course < 500 ~ 8,
                                 Temp > 800 & Enrl.Tot != Temp2 & Course >= 500 ~ 15,
                                 TRUE ~ NA)) %>%
+    group_by(Temp, Section) %>%
+      mutate(Temp2 = sum(Enrl.Tot)) %>%
+    ungroup() %>%
     filter(!Course %in% ignore) %>%
     filter(!Section %in% bad.section) %>%
-    select(Course, Section, Enrl.Min, Enrl.Tot, Temp) %>%
     mutate(Course = case_when(Temp == 850 ~ "450/550",
                               TRUE ~ as.character(Course)),
-           Course = paste0("ECON ", Course, ".", Section)) %>%
+           Course = paste0("ECON ", Course, ".", Section),
+           Enrl.Tot = Temp2) %>%
+    select(Course, Section, Enrl.Min, Enrl.Tot, Temp) %>%
     select(-c(Section)) %>%
     mutate(pct = case_when(Enrl.Tot / Enrl.Min <= 1 ~ Enrl.Tot/Enrl.Min,
                            TRUE ~ 1),
@@ -63,6 +68,7 @@ library(tidyverse)
   
   load(file = "./Build/Output/Spring26.RData")
   spr.2026 <- spr.2026 %>%
+    filter(Date != Sys.Date()) %>%
     bind_rows(., e.data.2)
   save(spr.2026, file = "./Build/Output/Spring26.Rdata")
   
